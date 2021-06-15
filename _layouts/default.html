@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/libs/fontawesome-5.9.0/css/all.min.css' | relative_url }}" media="screen" type="text/css">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+  <!-- <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css"> -->
+
+  <!--
+    [if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]
+  -->
+
+  {% seo %}
+
+</head>
+
+<body>
+  <section class="pan-layout">
+    {% include left.html %}
+
+    <section class="pan-layout-overlay"></section>
+
+    <section class="pan-layout-right">
+      {% include header.html %}
+
+      <section class="pan-layout-content">
+        {{ content }}
+      </section>
+
+      {% include footer.html %}
+    </section>
+  </section>
+
+  <script type="text/javascript" src="{{ '/assets/libs/jquery-3.4.1.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/libs/jquery-migrate-3.0.1.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/panthera-jekyll.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+
+  {% if site.data.comments.enabled == true %}
+    {% case site.data.comments.type %}
+      {% when 'disqus' %}
+        {% if site.data.comments.disqus.name %}
+          <script id="dsq-count-scr" src="//{{ site.data.comments.disqus.name }}.disqus.com/count.js" async></script>
+        {% endif %}
+      {% else %}
+    {% endcase %}
+  {% endif %}
+ 
+</body>
+</html>

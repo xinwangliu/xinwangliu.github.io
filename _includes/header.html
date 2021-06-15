@@ -1,0 +1,19 @@
+<section class="pan-layout-header">
+  <div class="pan-layout-header__menutoggle">
+    <i class="fas fa-bars"></i>
+  </div>
+  
+  <div class="pan-layout-header__content">
+    <div class="pan-layout-header__avatar">
+      <span>{{ site.title | default: site.github.owner_name }}</span>
+      
+      <a href="{{ '/' | relative_url }}">
+        {% if site.github.owner_gravatar_url %}
+        <img src="{{ site.avatar | default: site.github.owner_gravatar_url }}" alt="{{ site.title | default: site.github.owner_name }}">
+        {% else %}
+        <img src="https://secure.gravatar.com/avatar/?d=mm&r=g&s=40" alt="">
+        {% endif %}
+      </a>
+    </div>
+  </div>
+</section>

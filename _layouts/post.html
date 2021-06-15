@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<section class="post-view">
+  {% if page.image %}
+  <div class="post-view__image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  <div class="post-view__header">
+    <h1>{{ page.title }}</h1>
+    <div class="post-view__info">
+      <span><strong>Date:</strong> {{ page.date | date: '%Y, %b %d' }}</span>
+    </div>
+  </div>
+
+  {% include addons/share.html %}
+  
+  <div class="post-view__body">
+    {{ content }}
+  </div>
+
+  {% include addons/share.html %}
+
+  {% include posts/related.html %}
+
+  {% include addons/comments.html %}
+</section>
