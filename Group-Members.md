@@ -23,7 +23,7 @@
             <div> Lecturer </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/xingchen.jpg"></div>
+            <div> <img width="140" height="185" src="./groupmember/xingchen.jpg"></div>
             <div> Xingchen Hu </div>
             <div> Postdoctoral </div>
           </td>
