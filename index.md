@@ -4,12 +4,45 @@ layout: default
 
 # News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
+<ul>
+<p style="margin-top: 6px;"><li>[<font color="red">May 22, 2021</font>]  "<b>Projective Multiple Kernel Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
+ 
+<p style="margin-top: 6px;"><li>[<font color="red">May 08, 2021</font>]  "<b>One Pass Late Fusion Multi-view Clustering</b>" has been accepted by <font color="green">ICML-2021 (International Conference on Machine Learning)</font>.</li></p>
+ 
+ <p style="margin-top: 6px;"><li>[<font color="red">April 29, 2021</font>]  "<b>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</b>" has been accepted by <font color="green">IJCAI-21 (the 30th International Joint Conference on Artificial Intelligence)</font>.</li></p>
+ 
+<p style="margin-top: 6px;"><li>[<font color="red">Mar 25, 2021</font>]  "<b>Multi-view Subspace Clustering via Co-training Robust Data Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
 
-Risus nullam eget felis eget. Id faucibus nisl tincidunt eget nullam non nisi. Nam libero justo laoreet sit. Et pharetra pharetra massa massa ultricies mi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Scelerisque eu ultrices vitae auctor. Consequat interdum varius sit amet mattis vulputate enim. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Eget dolor morbi non arcu risus quis varius. Quis viverra nibh cras pulvinar. Ac ut consequat semper viverra nam libero justo. Faucibus et molestie ac feugiat sed lectus vestibulum. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Blandit turpis cursus in hac. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Elementum nibh tellus molestie nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Integer quis auctor elit sed vulputate mi sit amet mauris. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Non pulvinar neque laoreet suspendisse.
+<p style="margin-top: 6px;"><li>[<font color="red">Mar 23, 2021</font>]  "<b>Consensus Graph Learning for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
 
-Massa massa ultricies mi quis hendrerit dolor magna eget. Eget est lorem ipsum dolor sit amet. Sit amet volutpat consequat mauris nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed risus ultricies tristique nulla aliquet enim tortor. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Id aliquet risus feugiat in. Massa sapien faucibus et molestie ac feugiat sed. Pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh praesent tristique magna sit amet purus gravida quis blandit. Fames ac turpis egestas sed tempus urna. Tortor consequat id porta nibh venenatis cras sed felis. Aenean et tortor at risus viverra adipiscing at in. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac turpis egestas maecenas pharetra convallis. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Amet venenatis urna cursus eget nunc. Elit ut aliquam purus sit amet luctus venenatis. Amet dictum sit amet justo donec enim diam vulputate ut.
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Cross-view Locality Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
 
-Gravida neque convallis a cras. Nisi porta lorem mollis aliquam ut. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Euismod elementum nisi quis eleifend. Vel fringilla est ullamcorper eget nulla facilisi etiam. Urna neque viverra justo nec ultrices dui. Morbi blandit cursus risus at ultrices mi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Sit amet porttitor eget dolor morbi non arcu risus quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a.
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Consensus One-step Multi-view Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
 
-Vel pharetra vel turpis nunc eget lorem. Nunc sed blandit libero volutpat sed cras ornare. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Euismod nisi porta lorem mollis aliquam ut. Magna ac placerat vestibulum lectus. Semper risus in hendrerit gravida rutrum quisque non. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Neque vitae tempus quam pellentesque nec. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. At auctor urna nunc id cursus metus aliquam eleifend mi. Amet consectetur adipiscing elit pellentesque. Eget egestas purus viverra accumsan. Quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed.
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 2, 2020</font>]  "<b>Hierarchical Multiple Kernel Clustering</b>" has been accepted by <font color="green">AAAI2021</font>.</li></p>
+ 
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 2, 2020</font>]  "<b>Deep Fusion Clustering Network</b>" has been accepted by <font color="green">AAAI2021</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 2, 2020</font>]  "<b>Neighborhood Consensus Networks for Unsupervised Multi-view Outlier Detection</b>" has been accepted by <font color="green">AAAI2021</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 1, 2020</font>]  "<b>A Variable-Parameter Noise-Tolerant Zeroing Neural Network for Time-Variant Matrix Inversion with Guaranteed Robustness</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">Sep 14, 2020</font>]  "<b>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">July 31, 2020</font>]  "<b>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">July 26, 2020</font>]  "<b>Defusionnet: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">July 9, 2020</font>] Served as an "<b>Editorial Board Member</b>" with <font color="green">Information Fusion</font>.</li></p>
+
+<li>[<font color="red">April 20, 2020</font>]  "<b>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</b>" has been accepted by <font color="green">IJCAI 2020</font>.</li>
+
+<p style="margin-top: 6px;"><li>[<font color="red">April 11, 2020</font>] Promoted to be "<b>IEEE Senior member</b>".</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">March 29, 2020</font>]  "<b><a href = "https://raw.githubusercontent.com/xinwangliu/xinwangliu.github.io/master/groupmember/09072360.pdf">Self-paced Clustering Ensemble</a></b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">March 17, 2020</font>]  "<b>BR<sup>2</sup>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">February 13, 2020</font>]  "<b>Efficient and Effective Regularized Incomplete Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>
+
+</ul>
