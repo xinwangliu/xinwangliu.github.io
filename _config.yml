@@ -9,57 +9,55 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Xinwang Liu
+subtitle: Professor
 
 # left_side:
-#   background_image: "./assets/images/left-background.jpg"
+background_image: "./assets/XinwangLiu.jpg"
 #   background_color: "#F00"
 #   close_button_color: "#F00"
 #   text_color: "#F00"
 
-footer:
-  copyright_text: "&copy; Christian Ezeani"
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: News
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
+  - text: Brief Bio
+    link: /Brief-Bio
     icon: ""
 
-  - text: Contact Me
-    link: /contact
+  - text: Under Review
+    link: /Under-Review
     icon: ""
 
-  - text: My Resume
-    link: /resume
+  - text: Selected Journal Papers
+    link: /Selected-Journal-Papers
     icon: ""
 
-  - text: Blog Posts
-    link: /blog
+  - text: Selected Conference Papers
+    link: /Selected-Conference-Papers
+    icon: ""
+  
+  - text: Group Members
+    link: /Group-Members
     icon: ""
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
+  - name: mail
+    link: mailto:xinwangliu.github.io
+    icon: fab fa-envelope
+
+  - name: google mail
+    link: mailto:1022xinwang.liu@gmail.com
+    icon: fab fa-google
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/xinwangliu
     icon: fab fa-github-square
-
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
-
-  - name: twitter
-    link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
 
 
     
