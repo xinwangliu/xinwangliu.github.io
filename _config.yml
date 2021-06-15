@@ -49,7 +49,7 @@ menu:
 social_icons:
   - name: mail
     link: mailto:xinwangliu.github.io
-    icon: fab fa-envelope
+    icon: fab fa-mail
 
   - name: google mail
     link: mailto:1022xinwang.liu@gmail.com

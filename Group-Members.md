@@ -22,9 +22,6 @@
             <div> <a href="https://github.com/wangsiqinudt">Siqi Wang</a> </div>
             <div> Lecturer </div>
           </td>
-
- <table width="90%" border="0" align="center" cellspacing="30">
- 		<tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
             <div> <img width="152" src="./groupmember/xingchen.jpg"></div>
             <div> Xingchen Hu </div>
@@ -35,6 +32,9 @@
             <div> <a href="https://github.com/zhutuanfei"> Tuanfei Zhu </a> </div>
             <div> Postdoctoral </div>
           </td>
+
+ <table width="90%" border="0" align="center" cellspacing="30">
+ 		<tbody><tr valign="top" align="center">
          <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/yawei.PNG"></div>
             <div> <a href="https://yaweizhao.github.io">Yawei Zhao</a></div>
@@ -45,24 +45,19 @@
             <div> <a href="http://github.com/XifengGuo">Xifeng Guo</a> </div>
             <div> PhD </div>
           </td>
-
-    
-
- <table width="90%" border="0" align="center" cellspacing="30">
- 		<tbody><tr valign="top" align="center">
-   <td width="20%" style="padding-right:30px">
+        <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/siwei.PNG"></div>
-            <div> <a href="http://github.com/wangsiwei2010">Siwei Wang</a> </div>
+            <div> <a href="https://wangsiwei2010.github.io">Siwei Wang</a> </div>
             <div> PhD student </div>
           </td>
-   <td width="20%" style="padding-right:30px">
+       <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/jiyuan.PNG"></div>
             <div> <a href="https://liujiyuan13.github.io/">Jiyuan Liu</a> </div>
             <div> PhD student </div>
           </td>
-     <td width="20%" style="padding-right:30px">
+      <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/zhangpei.jpg"></div>
-            <div> <a href="https://github.com/Jeaninezpp">Pei Zhang</a></div>
+            <div> <a href="https://jeaninezp.github.io/">Pei Zhang</a></div>
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
@@ -70,17 +65,17 @@
             <div> Qiyuan Ou</div>
             <div> PhD student </div>
           </td>
-
+   
 
  <table width="90%" border="0" align="center" cellspacing="30">
  		<tbody><tr valign="top" align="center">
     <td width="20%" style="padding-right:30px">
             <div> <img width="148" src="./groupmember/wenxuan.jpg"></div>
-            <div> <a href="https://github.com/WxTu">Wenxuan Tu</a></div>
+            <div> <a href="https://wxtu.github.io">Wenxuan Tu</a></div>
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
             <div> <img width="131" src="./groupmember/LWX.png"></div>
-            <div> <a href="https://github.com/weixuanliang1214">Weixuan Liang</a> </div>
+            <div> <a href="https://wx-liang.github.io">Weixuan Liang</a> </div>
             <div> PhD student </div>
           </td>
