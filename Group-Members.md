@@ -36,7 +36,7 @@
  <table width="90%" border="0" align="center" cellspacing="30">
  		<tbody><tr valign="top" align="center">
          <td width="20%" style="padding-right:30px">
-            <div> <img width="130" src="./groupmember/yawei.PNG"></div>
+            <div> <img width="130" height="180" src="./groupmember/yawei.PNG"></div>
             <div> <a href="https://yaweizhao.github.io">Yawei Zhao</a></div>
             <div> PhD </div>
           </td>
