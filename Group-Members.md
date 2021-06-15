@@ -1,7 +1,7 @@
 # Group Members:
 
 <table width="90%" border="0" align="left" cellspacing="30">
-        <tbody><tr valign="top" align="left">
+        <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/xinzhongzhu.jpg"></div>
             <div> <a href="http://xinzhongzhu.github.io/">Xinzhong Zhu</a> </div>
@@ -34,7 +34,7 @@
           </td>
 
  <table width="90%" border="0" align="left" cellspacing="30">
- 		<tbody><tr valign="top" align="left">
+ 		<tbody><tr valign="top" align="center">
          <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/yawei.PNG"></div>
             <div> <a href="https://yaweizhao.github.io">Yawei Zhao</a></div>
@@ -68,9 +68,9 @@
    
 
  <table width="90%" border="0" align="left" cellspacing="30">
- 		<tbody><tr valign="top" align="left">
+ 		<tbody><tr valign="top" align="center">
     <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/wenxuan.jpg"></div>
+            <div> <img width="140" height="185" src="./groupmember/wenxuan.jpg"></div>
             <div> <a href="https://wxtu.github.io">Wenxuan Tu</a></div>
             <div> PhD student </div>
           </td>
