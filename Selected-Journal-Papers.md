@@ -1,6 +1,9 @@
 # Selected Journal Papers:
 
 <ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI' 6]</b></font> Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Yi Guo, Jun Cheng, Bin Hu, and <b>Xinwang Liu</b>: <i><u>A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted June 2021)</li></p>
+ 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 5]</b></font> 
   Mengjing Sun, Siwei Wang, Pei Zhang, <b>Xinwang Liu</b>, Xifeng Guo, Sihang Zhou and En Zhu: <i><u> Projective Multiple Kernel Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted May 2021) [PDF]</li></p>
  
