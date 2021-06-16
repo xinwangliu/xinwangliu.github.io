@@ -5,6 +5,9 @@ layout: default
 # News
 
 <ul>
+ 
+<p style="margin-top: 6px;"><li>[<font color="red">June 16, 2021</font>]  "<b>A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">May 22, 2021</font>]  "<b>Projective Multiple Kernel Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">May 08, 2021</font>]  "<b>One Pass Late Fusion Multi-view Clustering</b>" has been accepted by <font color="green">ICML-2021 (International Conference on Machine Learning)</font>.</li></p>
