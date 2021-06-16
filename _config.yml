@@ -48,7 +48,7 @@ menu:
 # Socialmedia Icons
 social_icons:
   - name: mail
-    link: mailto:xinwangliu.github.io
+    link: mailto:xinwangliu@nudt.edu.cn
     icon: icon brands fa fa-envelope
 
   - name: google mail
