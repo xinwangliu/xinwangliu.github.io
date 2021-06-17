@@ -56,7 +56,7 @@
             <div> PhD student </div>
        </td>
            <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/zhengxiao.jpg"></div>
+            <div> <img width="130" height="185" src="./groupmember/zhengxiao1.jpg"></div>
             <div> <a href="https://xiaozh-nudt.github.io/">Xiao Zheng</a></div>
             <div> PhD student </div>
           </td>
