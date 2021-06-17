@@ -115,6 +115,6 @@
           </td>
     <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/zhangjunpu.jpg"></div>
-            <div> <a href="https://junpuzhang.github.io">Lei Gong</a></div>
+            <div> <a href="https://junpuzhang.github.io">Junpu Zhang</a></div>
             <div> Master student </div>
           </td>
