@@ -104,9 +104,9 @@
   <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
     <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/sunmengjing.jpg"></div>
+            <div> <img width="120" height="185" src="./groupmember/sunmengjing.jpg"></div>
             <div> <a href="https://mengjingsun.github.io//">Mengjing Sun</a> </div>
-            <div> PhD student </div>
+            <div> Master student </div>
           </td>
      <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/yanbo.jpg"></div>
