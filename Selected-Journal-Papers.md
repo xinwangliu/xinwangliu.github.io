@@ -2,12 +2,12 @@
 
 <ol>
  
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS' 5]</b></font> Sihang Zhou, Qiyuan Ou, <b>Xinwang Liu</b>, Siq Wang, Luyan Liu, Siwei Wang, En Zhu, Jianping Yin, and Xin Xu: <i><u> Multiple Kernel Clustering with Compressed Subspace Alignment</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/Multiple%20Kernel%20Clustering%20with%20Compressed%20Subspace%20Alignment.pdf">[PDF]</a></li></p> 
+ 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI' 6]</b></font> Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Yi Guo, Jun Cheng, Bin Hu, and <b>Xinwang Liu</b>: <i><u>A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in June 2021)</li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 5]</b></font> 
   Mengjing Sun, Siwei Wang, Pei Zhang, <b>Xinwang Liu</b>, Xifeng Guo, Sihang Zhou and En Zhu: <i><u> Projective Multiple Kernel Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in May 2021) <a href = "https://ieeexplore.ieee.org/document/9447203">[PDF]</a> <a href = "https://github.com/MengjingSun/PMKSC-code">[Code]</a> </li></p>
- 
-
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS' 4]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang,  Xifeng Guo, Marius Kloft, and Liangzhong He: <i><u> Multi-view Subspace Clustering via Co-training Robust Data Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in Mar 2021)  <a href = "https://liujiyuan13.github.io/pubs/CoMSC_TNNLS.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/CoMSC-code_release">[Code]</a></li></p> 
 
