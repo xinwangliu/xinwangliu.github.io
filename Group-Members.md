@@ -14,7 +14,7 @@
           </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/sihang.PNG"></div>
-            <div> <a href="https://github.com/SihangZhou">Sihang Zhou</a> </div>
+            <div> <a href="https://sihangzhou.github.io/">Sihang Zhou</a> </div>
             <div> Lecturer </div>
           </td>
           <td width="20%" style="padding-right:30px">
