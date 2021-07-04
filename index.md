@@ -5,6 +5,7 @@ layout: default
 # News
 
 <ul>
+ <p style="margin-top: 6px;"><li>[<font color="red">July 4, 2021, 2021</font>]  Four papers have been accepted by . <font color="green">ACM Multimedia (MM) 2021</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">June 26, 2021</font>]  "<b>Multiple Kernel Clustering with Compressed Subspace Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
  
