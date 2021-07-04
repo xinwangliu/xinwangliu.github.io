@@ -2,11 +2,11 @@
 
 <ol>
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 4]</b></font>Yi Zhang, <b>Xinwang Liu</b>, Siwei Wang, Jiyuan Liu, Sisi Dai, En Zhu: <i><u>One-Stage Incomplete Multi-view Clustering via Late Fusion</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)<a href = "https://github.com/liujiyuan13/IMSR-code_release">[Code]</a></li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 4]</b></font>Yi Zhang, <b>Xinwang Liu</b>, Siwei Wang, Jiyuan Liu, Sisi Dai, En Zhu: <i><u>One-Stage Incomplete Multi-view Clustering via Late Fusion</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)</li></p>
  
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 3]</b></font>Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, Wenxuan Tu, <b>Xinwang Liu</b>, En Zhu,  Changjian Wang: <i><u>Scalable Multi-view Subspace Clustering with Unified Anchors</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)<a href = "https://github.com/liujiyuan13/IMSR-code_release">[Code]</a></li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 3]</b></font>Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, Wenxuan Tu, <b>Xinwang Liu</b>, En Zhu,  Changjian Wang: <i><u>Scalable Multi-view Subspace Clustering with Unified Anchors</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)</li></p>
  
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 2]</b></font>Chen Zhang, Siwei Wang, Jiyuan Liu, Sihang Zhou, Pei Zhang, <b>Xinwang Liu</b>, En Zhu, Changwang Zhang: <i><u>Multi-view Clustering via Deep Matrix Factorization and Partition Alignment</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)<a href = "https://github.com/liujiyuan13/IMSR-code_release">[Code]</a></li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 2]</b></font>Chen Zhang, Siwei Wang, Jiyuan Liu, Sihang Zhou, Pei Zhang, <b>Xinwang Liu</b>, En Zhu, Changwang Zhang: <i><u>Multi-view Clustering via Deep Matrix Factorization and Partition Alignment</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)</li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 1]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yi Zhang, Pei Zhang, Wenxuan Tu, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang: <i><u>Self-representation Subspace Clustering for Incomplete Multi-view Data</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)<a href = "https://github.com/liujiyuan13/IMSR-code_release">[Code]</a></li></p>
  
