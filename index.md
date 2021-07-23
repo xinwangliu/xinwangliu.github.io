@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+ <p style="margin-top: 6px;"><li>[<font color="red">July 23, 2021</font>]  <b>Two papers</b> have been accepted by <font color="green">IEEE International Conference on Computer Vision (ICCV) 2021</font>.</li></p>
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">July 4, 2021</font>]  <b>Four papers</b> have been accepted by <font color="green">ACM Multimedia (MM) 2021</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">June 26, 2021</font>]  "<b>Multiple Kernel Clustering with Compressed Subspace Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
