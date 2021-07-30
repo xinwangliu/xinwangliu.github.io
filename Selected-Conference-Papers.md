@@ -10,7 +10,7 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 1]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yi Zhang, Pei Zhang, Wenxuan Tu, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang: <i><u>Self-representation Subspace Clustering for Incomplete Multi-view Data</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)<a href = "https://github.com/liujiyuan13/IMSR-code_release">[Code]</a></li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 1]</b></font> <b>Xinwang Liu</b>, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, Jiyuan Liu, Yi Zhang and En Zhu: <i><u>One Pass Late Fusion Multi-view Clustering</u></i>. <font color="green">ICML 2021</font>. (CCF Rank A)<a href = "	https://icml.cc/Conferences/2021/">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 1]</b></font> <b>Xinwang Liu</b>, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, Jiyuan Liu, Yi Zhang and En Zhu: <i><u>One Pass Late Fusion Multi-view Clustering</u></i>. <font color="green">ICML 2021</font>. (CCF Rank A)<a href = "http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">[Code]</a></li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 11]</b></font> Chang Tang, <b>Xinwang Liu</b>, En Zhu, Lizhe Wang and Albert Zomaya: <i><u>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</u></i>. <font color="green">IJCAI 2021</font>. (CCF Rank A)<a href = "https://www.ijcai21.org/">[PDF]</a></li></p>
  
