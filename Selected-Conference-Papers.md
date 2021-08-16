@@ -2,7 +2,7 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/LocalizedSMKKM">[Code]</a></li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> <b>Xinwang Liu</b>, Sihang Zhou, Li Liu, Chang Tang, Siwei Wang, Jiyuan Liu, Yi Zhang: <i><u>Localized Simple Multiple Kernel K-means</u></i>. <font color="green">ICCV 2021</font>. (CCF Rank A)</li></p>
  
