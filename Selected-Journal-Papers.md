@@ -2,7 +2,7 @@
 
 <ol>
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Heli Sun, Ning Wang, Jingyu Jia, Jianbin Huang, Hui Xiong, Fellow, IEEE, Liang He, <b>Xinwang Liu</b>, Shan Zhang, Shaojie Qiao, and Jizhong Zhao: <i><u>Platform-Oriented Event Time Allocation</u></i>. IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in August 2021)
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Heli Sun, Ning Wang, Jingyu Jia, Jianbin Huang, Hui Xiong, Liang He, <b>Xinwang Liu</b>, Shan Zhang, Shaojie Qiao, and Jizhong Zhao: <i><u>Platform-Oriented Event Time Allocation</u></i>. IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in August 2021)
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Sihang Zhou, Qiyuan Ou, <b>Xinwang Liu</b>, Siq Wang, Luyan Liu, Siwei Wang, En Zhu, Jianping Yin, and Xin Xu: <i><u> Multiple Kernel Clustering with Compressed Subspace Alignment</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/Multiple%20Kernel%20Clustering%20with%20Compressed%20Subspace%20Alignment.pdf">[PDF]</a></li></p> 
  
