@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+  <p style="margin-top: 6px;"><li>[<font color="red">August 25, 2021</font>]  "<b>Platform-Oriented Event Time Allocation</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">July 23, 2021</font>]  <b>Two papers</b> have been accepted by <font color="green">IEEE International Conference on Computer Vision (ICCV) 2021</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">July 4, 2021</font>]  <b>Four papers</b> have been accepted by <font color="green">ACM Multimedia (MM) 2021</font>.</li></p>
