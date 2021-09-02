@@ -103,6 +103,11 @@
                         
   <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
+         <td width="20%" style="padding-right:30px">
+            <div> <img width="140" height="185" src="./groupmember/zhangyi.jpg"></div>
+            <div> <a href="https://github.com/ethan-yizhang">Yi Zhang</a></div>
+            <div> PhD student </div>
+          </td>                  
     <td width="20%" style="padding-right:30px">
             <div> <img width="120" height="185" src="./groupmember/sunmengjing.jpg"></div>
             <div> <a href="https://mengjingsun.github.io//">Mengjing Sun</a> </div>
@@ -123,11 +128,7 @@
             <div> <a href="https://gongleii.github.io">Lei Gong</a></div>
             <div> Master student </div>
           </td>
-    <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/zhangjunpu.jpg"></div>
-            <div> <a href="https://junpuzhang.github.io">Junpu Zhang</a></div>
-            <div> Master student </div>
-          </td>
+
 
 
   <table width="90%" border="0" align="left" cellspacing="30">
@@ -150,5 +151,10 @@
         <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/zhangtiejian.jpg"></div>
             <div> <a href="https://tiejianzhang.github.io/">Tiejian Zhang</a></div>
+            <div> Master student </div>
+          </td>
+    <td width="20%" style="padding-right:30px">
+            <div> <img width="140" height="185" src="./groupmember/zhangjunpu.jpg"></div>
+            <div> <a href="https://junpuzhang.github.io">Junpu Zhang</a></div>
             <div> Master student </div>
           </td>
