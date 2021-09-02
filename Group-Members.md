@@ -51,7 +51,7 @@
             <div> PhD student </div>
           </td>
        <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/jiyuan.PNG"></div>
+            <div> <img width="130" height="185" src="./groupmember/liujiyuan.jpg"></div>
             <div> <a href="https://liujiyuan13.github.io/">Jiyuan Liu</a> </div>
             <div> PhD student </div>
        </td>
