@@ -73,7 +73,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: <i><u>Multi-view Clustering via Maximizing Local Kernel Alignment</u></i>. <font color="green">IJCAI 2016</font>: (1704-1710), July 9-16, 2016, New York, USA (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Yong Dou, Jianping Yin, Lei Wang, En Zhu: <i><u>Multiple Kernel k-means Clustering with Matrix-induced Regularization</u></i>. <font color="green">AAAI 2016</font>: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Yong Dou, Jianping Yin, Lei Wang, En Zhu: <i><u>Multiple Kernel k-means Clustering with Matrix-induced Regularization</u></i>. <font color="green">AAAI 2016</font>: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819">[PDF]</a><a href = "https://github.com/xinwangliu/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization">[Code]</a></li></p>
+ 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, Yong Dou, Jian Zhang: <i><u>Absent Multiple Kernel Learning</u></i>. <font color="green">AAAI 2015</font>: (2807-2813), January 25-30, 2015, Austin, Texas, USA (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9298/9945">[PDF]</a></li></p>
 
