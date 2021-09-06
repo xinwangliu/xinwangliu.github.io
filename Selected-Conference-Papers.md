@@ -4,7 +4,9 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>. (CCF Rank A)<a href = "https://liujiyuan13.github.io/pubs/OPMC.pdf">[PDF]</a><a href = "https://github.com/liujiyuan13/OPMC-code_release">[Code]</a></li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> <b>Xinwang Liu</b>, Sihang Zhou, Li Liu, Chang Tang, Siwei Wang, Jiyuan Liu, Yi Zhang: <i><u>Localized Simple Multiple Kernel K-means</u></i>. <font color="green">ICCV 2021</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/LocalizedSMKKM">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> <b>Xinwang Liu</b>, Sihang Zhou, Li Liu, Chang Tang, Siwei Wang, Jiyuan Liu, Yi Zhang: <i><u>Localized Simple Multiple Kernel K-means</u></i>. <font color="green">ICCV 2021</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/ICCV2021_Localized_SimpleMKKM.pdf">[PDF]</a><a href = "https://github.com/xinwangliu/LocalizedSMKKM">[Code]</a></li></p>
+ 
+
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Yi Zhang, <b>Xinwang Liu</b>, Siwei Wang, Jiyuan Liu, Sisi Dai, En Zhu: <i><u>One-Stage Incomplete Multi-view Clustering via Late Fusion</u></i>. <font color="green">ACM MM 2021</font>. (CCF Rank A)<a href = "https://github.com/ethan-yizhang/OSLF-IMVC/blob/main/paper_MM2021_One_Stage_Incomplete_Multi-view_Clustering_via_Late_Fusion.pdf">[PDF]</a><a href = "https://github.com/ethan-yizhang/OSLF-IMVC">[Code]</a></li></p>
  
