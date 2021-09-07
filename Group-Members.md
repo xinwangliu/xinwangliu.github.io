@@ -5,12 +5,12 @@
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/xinzhongzhu.jpg"></div>
             <div> <a href="http://xinzhongzhu.github.io/">Xinzhong Zhu</a> </div>
-            <div> Professor Doctorial Supervisor </div>
+            <div> Professor Doctorial Tutor </div>
           </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/tangchang.png"></div>
             <div> <a href="http://tangchang.net/">Chang Tang</a> </div>
-            <div> Professor Doctorial Supervisor </div>
+            <div> Professor Doctorial Tutor </div>
           </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/sihang.PNG"></div>
