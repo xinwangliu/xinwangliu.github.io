@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Xinwang Liu
-subtitle: Professor, Doctoral Supervisor
+subtitle: Professor        Doctoral Supervisor
 
 # left_side:
 background_image: "./assets/XinwangLiu.jpg"
