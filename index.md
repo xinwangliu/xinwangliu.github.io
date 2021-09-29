@@ -6,6 +6,8 @@ layout: default
 
 <ul>
   
+<p style="margin-top: 6px;"><li>[<font color="red">Sep. 28, 2021</font>]  "<b>Incomplete Multiple Kernel Alignment Maximization for Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>  
+
 <p style="margin-top: 6px;"><li>[<font color="red">Sep. 26, 2021</font>]  "<b>Late Fusion Multiple Kernel Clustering with Proxy Graph Refinement</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">August 25, 2021</font>]  "<b>Platform-Oriented Event Time Allocation</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
