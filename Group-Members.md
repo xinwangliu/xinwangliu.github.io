@@ -46,7 +46,7 @@
             <div> PhD </div>
           </td>
         <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/siwei.PNG"></div>
+            <div> <img width="130" height="185" src="./groupmember/siweiwang.jpg"></div>
             <div> <a href="https://wangsiwei2010.github.io">Siwei Wang</a> </div>
             <div> PhD student </div>
           </td>
