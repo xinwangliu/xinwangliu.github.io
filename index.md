@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+
+<p style="margin-top: 6px;"><li>[<font color="red">July 9, 2020</font>] Served as "<b>Associated Editor</b>" of <font color="green">IEEE TNNLS</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">Sep. 28, 2021</font>]  "<b>Incomplete Multiple Kernel Alignment Maximization for Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>  
 
