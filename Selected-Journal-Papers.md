@@ -1,7 +1,7 @@
 # Selected Journal Papers:
 
 <ol>
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font><b>Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Sep. 2021) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TPAMI_IncomSimpleMKKM.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font><b> Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Sep. 2021) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TPAMI_IncomSimpleMKKM.pdf">[PDF]</a></li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Li Liu, Sihang Zhou, and En Zhu: <i><u>Late Fusion Multiple Kernel Clustering with Proxy Graph Refinement</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in Sep. 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/finalversion.pdf">[PDF]</a><a href = "https://github.com/wangsiwei2010/graphlatefusion_MKC">[Code]</a></li></p> 
  
