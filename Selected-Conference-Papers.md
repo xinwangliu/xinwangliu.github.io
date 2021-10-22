@@ -68,9 +68,9 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: <i><u>Multiple Kernel Clustering Framework with Improved Kernels</u></i>. <font color="green">IJCAI 2017</font>: 2999–3005. (CCF Rank A) <a href = "https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: <i><u>Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network</u></i>. <font color="green">IJCAI 2017</font>. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2017/0419.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: <i><u>Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network</u></i>. <font color="green">IJCAI 2017</font>: 3006–3012. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2017/0419.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Xifeng Guo, Long Gao, <b>Xinwang Liu</b> and Jianping Yin: <i><u>Improved Deep Embedded Clustering with Local Structure Preservation</u></i>. <font color="green">IJCAI 2017</font>: 3006–3012. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2017/0243.pdf">[PDF]</a> <a href = "https://github.com/XifengGuo/IDEC">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Xifeng Guo, Long Gao, <b>Xinwang Liu</b> and Jianping Yin: <i><u>Improved Deep Embedded Clustering with Local Structure Preservation</u></i>. <font color="green">IJCAI 2017</font>: 1753-1759. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2017/0243.pdf">[PDF]</a> <a href = "https://github.com/XifengGuo/IDEC">[Code]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: <i><u>Multi-view Clustering via Maximizing Local Kernel Alignment</u></i>. <font color="green">IJCAI 2016</font>: 1704-1710. (CCF Rank A) </li></p>
 
