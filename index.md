@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">Nov 23, 2021</font>] "<b>Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (TIP)</font>.</li></p> 
+  
 <p style="margin-top: 6px;"><li>[<font color="red">Nov 07, 2021</font>] "<b>Localized Incomplete Multiple Kernel k-means with Matrix-induced Regularization</b>" has been accepted by <font color="green">IEEE Transactions on Cybernetics (TCYB)</font>.</li></p> 
   
 <p style="margin-top: 6px;"><li>[<font color="red">Oct 05, 2021</font>] Served as "<b>Associated Editor</b>" of <font color="green">IEEE TNNLS</font>.</li></p>
