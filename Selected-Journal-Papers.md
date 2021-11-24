@@ -1,7 +1,9 @@
 # Selected Journal Papers:
 
 <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Jingyuan Xia, Miaomiao Li, Huiying Xu, Qing Liao, Xinzhong Zhu and <b>Xinwang Liu</b>: <i><u>Localized Incomplete Multiple Kernel k-means with Matrix-induced Regularization</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (Accepted in Nov. 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TCYB1.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao and En Zhu: <i><u>Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in Nov. 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TIP1.pdf">[PDF]</a></li></p>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Miaomiao Li, Jingyuan Xia, Huiying Xu, Qing Liao, Xinzhong Zhu and <b>Xinwang Liu</b>: <i><u>Localized Incomplete Multiple Kernel k-means with Matrix-induced Regularization</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (Accepted in Nov. 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TCYB1.pdf">[PDF]</a></li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font><b> Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Sep. 2021) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TPAMI_IncomSimpleMKKM.pdf">[PDF]</a></li></p>
  
