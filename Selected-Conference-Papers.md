@@ -1,11 +1,13 @@
 # Selected Conference Papers:
 
 <ol>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu,  <b>Xinwang Liu</b>, Changwang Zhang, Feng Gao: <i><u>Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors</u></i>. <font color="green">AAAI 2022</font>(CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu,  <b>Xinwang Liu</b>, Changwang Zhang, Feng Gao: <i><u>Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors</u></i>. <font color="green">AAAI 2022</font></li></p>
  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>  Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022</font>(CCF Rank A)</li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>  Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022</font></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022</font>(CCF Rank A)</li></p>
  
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>: 12344-12353. (CCF Rank A)<a href = "https://liujiyuan13.github.io/pubs/OPMC.pdf">[PDF]</a><a href = "https://github.com/liujiyuan13/OPMC-code_release">[Code]</a></li></p>
