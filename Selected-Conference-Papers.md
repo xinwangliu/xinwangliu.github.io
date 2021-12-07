@@ -2,7 +2,10 @@
 
 <ol>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu,  <b>Xinwang Liu</b>, Changwang Zhang, Feng Gao: <i><u>Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>  Yue Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Linxuan Song, Xihong Yang, En Zhu: <i><u>Deep Graph Clustering via Dual Correlation Reduction</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
+
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu, <b>Xinwang Liu</b>, Changwang Zhang, Feng Gao: <i><u>Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>  Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
