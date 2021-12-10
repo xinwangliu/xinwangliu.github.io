@@ -5,6 +5,9 @@ layout: default
 # News
 
 <ul>
+  
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 10, 2021</font>]  "<b>Late Fusion Multiple Kernel Clustering with Local Kernel Alignment Maximization</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
+  
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 1, 2021</font>]  <b>Four papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2022</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">Nov 23, 2021</font>] "<b>Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (TIP)</font>.</li></p> 
