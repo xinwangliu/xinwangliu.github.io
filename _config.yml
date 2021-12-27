@@ -40,14 +40,16 @@ menu:
   - text: Selected Conference Papers
     link: /Selected-Conference-Papers
     icon: ""
+    
+  - text: Open Source
+    link: /open-source
+    icon: ""
   
   - text: Group Members
     link: /Group-Members
     icon: ""
     
-  - text: Open Source
-    link: /open-source
-    icon: ""
+
 
 
 
