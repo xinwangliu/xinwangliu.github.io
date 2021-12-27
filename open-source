@@ -1,12 +1,12 @@
 
-# open source
+# Open Source
 
 Some open source stuff is available in the following:
-Masked Auto-Encoder implementation is here.
-A Pytorch loader of MVTecAD dataset is here.
+
 
 <ol>
+<p style="margin-top: 8px;">Masked Auto-Encoder implementation is <a href = "https://github.com/liujiyuan13/MAE-code">here</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/SimpleMKKMcodes">[Code]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf">[Supplement]</a></li></p>
+<p style="margin-top: 8px;">A Pytorch loader of MVTecAD dataset is <a href = "https://github.com/liujiyuan13/MVTecAD">here</a>.</li></p>
 
 </ol>
