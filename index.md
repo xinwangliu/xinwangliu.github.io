@@ -5,7 +5,9 @@ layout: default
 # News
 
 <ul>
-
+  
+<p style="margin-top: 6px;"><li>[<font color="red">Jan 10, 2022</font>]  "<b>High-order Correlation Preserved Incomplete Multi-view Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (TIP)</font>.</li></p>
+  
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 23, 2021</font>]  "<b>Design and Analysis of a Self-Adaptive Zeroing Neural Network for Solving Time-Varying Quadratic Programming</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 13, 2021</font>]  "<b>Late Fusion Multi-view Clustering via Global and Local Alignment Maximization</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (TIP)</font>.</li></p>
