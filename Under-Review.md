@@ -10,5 +10,6 @@
   
 <p style="margin-top: 8px;"><li>Yue Liu, Sihang Zhou, <b>Xinwang Liu</b>, Wenxuan Tu, Xihong Yang, Xin Xu and Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-02-0371_1.pdf">[PDF]</a></li></p>
   
-
+<p style="margin-top: 8px;"><li>Wenxuan Tu, ihang Zhou, <b>Xinwang Liu</b>, Yue Liu and Zhiping Cai: <i><u>Siamese Attribute-missing Graph Auto-encoder.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-01-0177_2.pdf">[PDF]</a></li></p>
+  
 </ol>
