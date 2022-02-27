@@ -4,18 +4,18 @@
 # Under Review
 
 <ol>
-<p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/SimpleMKKMcodes">[Code]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf">[Supplement]</a>(Submitted to IEEE TPAMI)</li></p>
+<p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means (Submitted to IEEE TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/SimpleMKKMcodes">[Code]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf">[Supplement]</a></li></p>
   
-<p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>Parameter-free Localized SimpleMKKM.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/JMLR-21-1163-1.pdf">[PDF]</a>(Submitted to JMLR)</li></p>
+<p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>Parameter-free Localized SimpleMKKM (Submitted to JMLR).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/JMLR-21-1163-1.pdf">[PDF]</a></li></p>
   
-<p style="margin-top: 8px;"><li>Yue Liu, Sihang Zhou, <b>Xinwang Liu</b>, Wenxuan Tu, Xihong Yang, Xin Xu and Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-02-0371_1.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li>Yue Liu, Sihang Zhou, <b>Xinwang Liu</b>, Wenxuan Tu, Xihong Yang, Xin Xu and Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network (Submitted to IEEE TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-02-0371_1.pdf">[PDF]</a></li></p>
   
-<p style="margin-top: 8px;"><li>Wenxuan Tu, ihang Zhou, <b>Xinwang Liu</b>, Yue Liu and Zhiping Cai: <i><u>Siamese Attribute-missing Graph Auto-encoder.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-01-0177_2.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li>Wenxuan Tu, ihang Zhou, <b>Xinwang Liu</b>, Yue Liu and Zhiping Cai: <i><u>Siamese Attribute-missing Graph Auto-encoder (Submitted to IEEE TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-01-0177_2.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li>Yongshun Gong, Zhibin Li, Wei Liu, Xiankai Lu, <b>Xinwang Liu</b>, Ivor W. Tsang and Yilong Yin: <i><u>Missingness-pattern-adaptive Learning with Incomplete Data.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2021-07-1250_3.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li>Yongshun Gong, Zhibin Li, Wei Liu, Xiankai Lu, <b>Xinwang Liu</b>, Ivor W. Tsang and Yilong Yin: <i><u>Missingness-pattern-adaptive Learning with Incomplete Data (Submitted to IEEE TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2021-07-1250_3.pdf">[PDF]</a></li></p>
  
-<p style="margin-top: 8px;"><li>Weidong Zou, Yuanqing Xia, Weipeng Cao, Gao Huang, Yizeng Han and <b>Xinwang Liu</b>: <i><u>SGD Momentum based on Inter-gradient Collision.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-02-0244_4.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li>Weidong Zou, Yuanqing Xia, Weipeng Cao, Gao Huang, Yizeng Han and <b>Xinwang Liu</b>: <i><u>SGD Momentum based on Inter-gradient Collision (Submitted to IEEE TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-02-0244_4.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li>Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin and Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2020-06-0836.R1_1.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li>Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin and Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection (Submitted to IEEE TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2020-06-0836.R1_1.pdf">[PDF]</a></li></p>
   
 </ol>
