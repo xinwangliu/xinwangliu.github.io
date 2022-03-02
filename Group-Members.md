@@ -95,8 +95,8 @@
             <div> PhD student </div>
           </td>
     <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/dongzhibin1.jpg"></div>
-            <div> <a href="https://dzboop.github.io/">Zhibing Dong</a> </div>
+            <div> <img width="130" height="185" src="./groupmember/liangke.jpg"></div>
+            <div> Ke Liang </div>
             <div> PhD student </div>
           </td>
 
@@ -107,7 +107,12 @@
             <div> <img width="140" height="185" src="./groupmember/zhangyi.jpg"></div>
             <div> <a href="https://github.com/ethan-yizhang">Yi Zhang</a></div>
             <div> PhD student </div>
-          </td>                  
+          </td>
+        <td width="20%" style="padding-right:30px">
+           <div> <img width="130" height="185" src="./groupmember/dongzhibin1.jpg"></div>
+            <div> <a href="https://dzboop.github.io/">Zhibing Dong</a> </div>
+            <div> PhD student </div>
+          </td>
     <td width="20%" style="padding-right:30px">
             <div> <img width="120" height="185" src="./groupmember/sunmengjing.jpg"></div>
             <div> <a href="https://mengjingsun.github.io//">Mengjing Sun</a> </div>
