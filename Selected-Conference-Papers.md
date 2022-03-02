@@ -2,13 +2,19 @@
 
 <ol>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>  Yue Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Linxuan Song, Xihong Yang, En Zhu: <i><u>Deep Graph Clustering via Dual Correlation Reduction</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu: <i><u>Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph</u></i>. <font color="green">CVPR 2022.</font> (CCF Rank A)</li></p>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b>, Chuanfu Xu, Chengkun Wu: <i><u>Deep Anomaly Discovery from Unlabeled Videos via Normality Advantage and Self-Paced Refinement</u></i>. <font color="green">CVPR 2022.</font> (CCF Rank A)</li></p>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Yao Duan, Chenyang Zhu, Yuqing Lan, Renjiao Yi, <b>Xinwang Liu</b>, Kai Xu: <i><u>DisARM: Displacement Aware Relation Module for 3D Detection</u></i>. <font color="green">CVPR 2022.</font> (CCF Rank A)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Linxuan Song, Xihong Yang, En Zhu: <i><u>Deep Graph Clustering via Dual Correlation Reduction</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu, <b>Xinwang Liu</b>, Changwang Zhang, Feng Gao: <i><u>Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
 
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>  Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
  
