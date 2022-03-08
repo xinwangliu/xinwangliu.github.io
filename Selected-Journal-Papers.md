@@ -8,7 +8,7 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, Xinzhong Zhu, <b>Xinwang Liu</b>, Miaomiao Li, Huiying Xu, Feng Gao and En Zhu: <i><u> Late Fusion Multi-view Clustering via Global and Local Alignment Maximization</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in Dec. 2021) <a href = "https://github.com/wangsiwei2010/localized-latefusionalignment">[Code]</a> </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> 
-  Tiejian Zhang, <b>Xinwang Liu</b>, Lei Gong, Siwei Wang, Xin Niu, Li Shen: <i><u> Late Fusion Multiple Kernel Clustering with Local Kernel Alignment Maximization</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in Dec. 2021) <a href = " https://github.com/TiejianZhang/TMM21-LF-MKC-LKA">[Code]</a> </li></p>
+  Tiejian Zhang, <b>Xinwang Liu</b>, Lei Gong, Siwei Wang, Xin Niu, Li Shen: <i><u> Late Fusion Multiple Kernel Clustering with Local Kernel Alignment Maximization</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in Dec. 2021) <a href = "https://github.com/TiejianZhang/TMM21-LF-MKC-LKA">[Code]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao and En Zhu: <i><u>Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in Nov. 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TIP1.pdf">[PDF]</a></li></p>
  
