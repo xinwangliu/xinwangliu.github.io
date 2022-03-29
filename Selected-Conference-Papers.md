@@ -89,7 +89,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Xifeng Guo, Long Gao, <b>Xinwang Liu</b> and Jianping Yin: <i><u>Improved Deep Embedded Clustering with Local Structure Preservation</u></i>. <font color="green">IJCAI 2017</font>: 1753-1759. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2017/0243.pdf">[PDF]</a> <a href = "https://github.com/XifengGuo/IDEC">[Code]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: <i><u>Multi-view Clustering via Maximizing Local Kernel Alignment</u></i>. <font color="green">IJCAI 2016</font>: 1704-1710. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: <i><u>Multi-view Clustering via Maximizing Local Kernel Alignment Maximization</u></i>. <font color="green">IJCAI 2016</font>: 1704-1710. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Yong Dou, Jianping Yin, Lei Wang, En Zhu: <i><u>Multiple Kernel k-means Clustering with Matrix-induced Regularization</u></i>. <font color="green">AAAI 2016</font>: 1888-1894. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819">[PDF]</a><a href = "https://github.com/xinwangliu/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization">[Code]</a></li></p>
  
