@@ -3,7 +3,7 @@
 <ol>
  
  
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng: <i><u>Attributed Graph Clustering with Dual Redundancy Reduction</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng: <i><u>Initializing Then Refining: A Simple Graph Attribute Imputation Network</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Lei Gong,  Sihang Zhou, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Attributed Graph Clustering with Dual Redundancy Reduction</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
  
