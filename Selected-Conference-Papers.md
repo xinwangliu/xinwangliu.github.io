@@ -2,6 +2,11 @@
 
 <ol>
  
+ 
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng: <i><u>Attributed Graph Clustering with Dual Redundancy Reduction</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Lei Gong,  Sihang Zhou, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Attributed Graph Clustering with Dual Redundancy Reduction</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu: <i><u>Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph</u></i>. <font color="green">CVPR 2022.</font> (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b>, Chuanfu Xu, Chengkun Wu: <i><u>Deep Anomaly Discovery from Unlabeled Videos via Normality Advantage and Self-Paced Refinement</u></i>. <font color="green">CVPR 2022.</font> (CCF Rank A)</li></p>
@@ -16,8 +21,9 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
- 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://www.aaai.org/AAAI22Papers/AAAI-3353.LiangW.pdf">[PDF]</a><a href = "https://github.com/wxliang/RG-MVC">[Code]</a></li></p>
+
+
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>: 12344-12353. (CCF Rank A)<a href = "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_One-Pass_Multi-View_Clustering_for_Large-Scale_Data_ICCV_2021_paper.pdf">[PDF]</a><a href = "https://github.com/liujiyuan13/OPMC-code_release">[Code]</a></li></p>
  
