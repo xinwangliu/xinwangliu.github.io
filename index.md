@@ -6,6 +6,8 @@ layout: default
 
 <ul>
   
+<p style="margin-top: 6px;"><li>[<font color="red">Apr. 22, 2022</font>]  <b>Two papers</b> have been accepted by <font color="green"> International Joint Conference on Artificial Intelligence (IJCAI) 2022</font>.</li></p>  
+  
 <p style="margin-top: 6px;"><li>[<font color="red">Mar 2, 2022</font>]  <b>Three papers</b> have been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022</font>.</li></p>  
 
 <p style="margin-top: 6px;"><li>[<font color="red">Jan 10, 2022</font>]  "<b>High-order Correlation Preserved Incomplete Multi-view Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (TIP)</font>.</li></p>
