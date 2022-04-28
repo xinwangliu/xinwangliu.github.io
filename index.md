@@ -6,6 +6,10 @@ layout: default
 
 <ul>
   
+  
+  
+<p style="margin-top: 6px;"><li>[<font color="red">Apr. 28, 2022</font>]  "<b>Oversampling with Reliably Expanding Minority Class Regions for Imbalanced Data Learning</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+  
 <p style="margin-top: 6px;"><li>[<font color="red">Apr. 22, 2022</font>]  <b>Two papers</b> have been accepted by <font color="green"> International Joint Conference on Artificial Intelligence (IJCAI) 2022</font>.</li></p>  
   
 <p style="margin-top: 6px;"><li>[<font color="red">Mar 2, 2022</font>]  <b>Three papers</b> have been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022</font>.</li></p>  
