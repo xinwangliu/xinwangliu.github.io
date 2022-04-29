@@ -1,6 +1,11 @@
 # Selected Journal Papers:
 
 <ol>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Miaomiao Li, Siwei Wang, <b>Xinwang Liu</b>, and Suyuan Liu: <i><u> Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in April 2022) </li></p> 
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Tuanfei Zhu, <b>Xinwang Liu</b>, and En Zhu: <i><u> Oversampling with Reliably Expanding Minority Class Regions for Imbalanced Data Learning</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in April 2022) </li></p> 
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhenglai Li, Chang Tang, <b>Xinwang Liu</b>, Xiao Zheng, Wei Zhang, and En Zhu: <i><u> High-order Correlation Preserved Incomplete Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in Jan. 2022) </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jianhua Dai, Xing Yang, Lin Xiao, Lei Jia, <b>Xinwang Liu</b> and Yaonan Wang: <i><u> Design and Analysis of a Self-Adaptive Zeroing Neural Network for Solving Time-Varying Quadratic Programming</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in Dec. 2021) </li></p>
