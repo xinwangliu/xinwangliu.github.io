@@ -1,6 +1,7 @@
 # Selected Journal Papers:
 
 <ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chang Tang, Zhenglai Li, Jun Wang, <b>Xinwang Liu</b>, Wei Zhang, and En Zhu: <i><u> Unified One-step Multi-view Spectral Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in May 2022) </li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, Siwei Wang, <b>Xinwang Liu</b>, and Suyuan Liu: <i><u> Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in April 2022) </li></p> 
  
