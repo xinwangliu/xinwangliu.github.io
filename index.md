@@ -5,6 +5,7 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">May 03, 2022</font>]  "<b>Unified One-step Multi-view Spectral Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">Apr. 28, 2022</font>]  "<b>Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
   
