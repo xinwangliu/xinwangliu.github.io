@@ -81,12 +81,12 @@
           </td>
     <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/wenxuan.jpg"></div>
-            <div> <a href="https://wxtu.github.io">Wenxuan Tu</a></div>
+            <div> <a href="https://wxtu.github.io">Wen-Xuan Tu</a></div>
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/LWX.png"></div>
-            <div> <a href="https://wx-liang.github.io">Weixuan Liang</a> </div>
+            <div> <a href="https://wx-liang.github.io">Wei-Xuan Liang</a> </div>
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
