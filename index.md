@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-<p style="margin-top: 6px;"><li>[<font color="red">May 11, 2022</font>] Be assigned as an organizer of workshop "<b>Multi-view Learning and Its Applications in Computer Vision<a href = "https://xinwangliu.github.io/accv_ws_mvl_app.html"></b>" in <font color="green">Asian Conference on Computer Vision 2022 (ACCV 2022)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">May 11, 2022</font>] Be assigned as an organizer of workshop "<b><a href = "https://xinwangliu.github.io/accv_ws_mvl_app.html">Multi-view Learning and Its Applications in Computer Vision</a></b>" in <font color="green">Asian Conference on Computer Vision 2022 (ACCV 2022)</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">May 03, 2022</font>]  "<b>Unified One-step Multi-view Spectral Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
   
