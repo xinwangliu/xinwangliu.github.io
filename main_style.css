@@ -1,0 +1,54 @@
+html {
+  background-color: #eeeeee; 
+}
+
+body { 
+  font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+  color: #000;
+  background-color: #ffffff; 
+  text-align:left; /* for IE */
+  margin-top: 30px; 
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left:  50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  max-width: 960px;
+}
+
+table{ background-color: #ffffff; }
+
+a, a:link, a:visited {
+  color: #1f82a9;
+  background:transparent text-decoration: underline;
+  cursor:pointer; background-color:underline
+}
+a:hover {
+  color: #006699;
+  background:inherit;
+  text-decoration: underline;
+}
+
+img { border: 0; }
+
+h1,h2,h3,h4 { font-family: Georgia,Helvetica,Arial,Verdana, san-serif, Times; }
+
+p { font-size:15;}
+
+#navbar{
+font-size:20;
+
+}
+#navbar a{
+text-decoration: none;
+padding-right: 50px;
+}
+#NewsOL{
+color: #FF0000;
+}
+
+#ProjectsList{
+font-size:20;
+}
