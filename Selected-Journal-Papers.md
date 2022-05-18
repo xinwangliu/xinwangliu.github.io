@@ -11,8 +11,6 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jianhua Dai, Xing Yang, Lin Xiao, Lei Jia, <b>Xinwang Liu</b> and Yaonan Wang: <i><u> Design and Analysis of a Self-Adaptive Zeroing Neural Network for Solving Time-Varying Quadratic Programming</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in Dec. 2021) </li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, Xinzhong Zhu, <b>Xinwang Liu</b>, Miaomiao Li, Huiying Xu, Feng Gao and En Zhu: <i><u> Late Fusion Multi-view Clustering via Global and Local Alignment Maximization</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in Dec. 2021) <a href = "https://github.com/wangsiwei2010/localized-latefusionalignment">[Code]</a> </li></p>
- 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> 
   Tiejian Zhang, <b>Xinwang Liu</b>, Lei Gong, Siwei Wang, Xin Niu, Li Shen: <i><u> Late Fusion Multiple Kernel Clustering with Local Kernel Alignment Maximization</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in Dec. 2021) <a href = "https://github.com/TiejianZhang/TMM21-LF-MKC-LKA">[Code]</a> </li></p>
 
