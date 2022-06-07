@@ -85,7 +85,7 @@
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/LWX.png"></div>
+            <div> <img width="130" height="185" src="./groupmember/lwx.jpg"></div>
             <div> <a href="https://wx-liang.github.io">Wei-Xuan Liang</a> </div>
             <div> PhD student </div>
           </td>
