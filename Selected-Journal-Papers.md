@@ -1,6 +1,10 @@
 # Selected Journal Papers:
 
 <ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Liang Li, Siwei Wang, <b>Xinwang Liu</b>, En Zhu, Li Shen, Kenli Li, and Keqin Li: <i><u> Local Sample-weighted Multiple Kernel Clustering with Consensus Discriminative Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in June 2022) </li></p> 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Siqi Wang, Jiyuan Liu, Guang Yu, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Yuexiang Yang, Jianping Yin and Wenjing Yang: <i><u> Multi-view Deep Anomaly Detection: A Systematic Exploration</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in June 2022) </li></p> 
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chang Tang, Zhenglai Li, Jun Wang, <b>Xinwang Liu</b>, Wei Zhang, and En Zhu: <i><u> Unified One-step Multi-view Spectral Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in May 2022) </li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, Siwei Wang, <b>Xinwang Liu</b>, and Suyuan Liu: <i><u> Parameter-Free and Scalable Incomplete Multi-view Clustering with Prototype Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in April 2022) </li></p> 
