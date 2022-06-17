@@ -86,11 +86,11 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Sihang Zhou, <b>Xinwang Liu</b>, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: <i><u>Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font> 31(4): 1351-1362, 2020 (CCF Rank B) <a href = "https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf">[PDF]</a> <a href = "https://github.com/SihangZhou/Demo-of-Multiple-Kernel-Clustering-with-Neighbor-Kernel-Subspace-Segmentation">[Code]</a></li></p>
 
- </ol>
+</ol>
   
 ## 2019
  
- <ol>
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "<i><u>Late Fusion Incomplete Multi-view Clustering</u></i>". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 41(10): 2410-2423 (2019) <a href = "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6494716&blobtype=pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Late-Fusion-Incomplete-Multi-view-Clustering">[Code]</a></li></p>
 
@@ -101,35 +101,35 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Chang Tang, <b>Xinwang Liu</b>, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: <i><u>Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> 21(11): 2837-2849 (2019) (CCF Rank B) <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8684404/">[PDF]</a></li></p>
 
- </ol>
-  
- ## 2018
+</ol>
  
- <ol>
+## 2018
+ 
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Jianfeng Lu, Yun Xin, Zhao Zhang, <b>Xinwang Liu</b>, and Kenli Li: <i><u>Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing</u></i>. <font color="green">IEEE Transactions Information Forensics and Security (<b>TIFS</b>)</font> 13(11): 2801-2815 (2018). (CCF Rank A) <a href = "https://arxiv.org/pdf/1712.09848.pdf">[PDF]</a></li></p>
  
- </ol>
+</ol>
   
 ## 2015
  
- <ol>
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Lei Luo, Chunhua Shen, <b>Xinwang Liu</b>, and Chunyuan Zhang: <i><u>A Computational Model of the Short-Cut Rule for 2D Shape Decomposition</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> 24(1): 273-283 (2015) (CCF Rank A) <a href = "https://arxiv.org/pdf/1409.2104.pdf">[PDF]</a></li></p>
 
- </ol>
+</ol>
   
- ## 2014
+## 2014
  
- <ol>
+<ol>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: <i><u>Global and Local Structure Preservation for Feature Selection</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font> 25(6): 1083-1095 (2014) (CCF Rank B) <a href = "https://www.researchgate.net/profile/Xinwang_Liu/publication/257984802_Global_and_Local_Structure_Preservation_for_Feature_Selection/links/0deec527abd45e2d46000000.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/GLSPFS_supervised">[Code]</a></li></p>
 
- </ol>
+</ol>
   
- ## 2013
+## 2013
  
- <ol>
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> <b>Xinwang Liu</b>, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: <i><u>An Adaptive Approach to Learning Optimal Neighborhood Kernels</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TYCB</b>)</font>. 43(1): 371-384 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.2961&rep=rep1&type=pdf">[PDF]</a></li></p>
 
