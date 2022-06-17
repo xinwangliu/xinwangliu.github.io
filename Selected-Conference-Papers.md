@@ -1,9 +1,8 @@
 # Selected Conference Papers:
 ## 2022
-<ol>
- 
 
- 
+<ol>
+
   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng: <i><u>Initializing Then Refining: A Simple Graph Attribute Imputation Network</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Lei Gong,  Sihang Zhou, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Attributed Graph Clustering with Dual Redundancy Reduction</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
@@ -23,8 +22,12 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yi Zhang,  <b>Xinwang Liu</b>, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu, En Zhu: <i><u>Fusion Multiple Kernel K-means</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://www.aaai.org/AAAI22Papers/AAAI-3353.LiangW.pdf">[PDF]</a><a href = "https://github.com/wxliang/RG-MVC">[Code]</a></li></p>
+ 
+</ol>
 
 ## 2021
+
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>: 12344-12353. (CCF Rank A)<a href = "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_One-Pass_Multi-View_Clustering_for_Large-Scale_Data_ICCV_2021_paper.pdf">[PDF]</a><a href = "https://github.com/liujiyuan13/OPMC-code_release">[Code]</a></li></p>
  
@@ -47,7 +50,11 @@
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Xifeng Guo, Zhiping Cai, En Zhu, and Jieren Cheng: <i><u>Deep Fusion Clustering Network</u></i>. <font color="green">AAAI 2021</font>: 35(11), 9978-9987. (CCF Rank A)<a href = "https://github.com/WxTu/DFCN/blob/master/Deep%20Fusion%20Clustering%20Network.pdf">[PDF]</a> <a href = "https://github.com/WxTu/DFCN">[Code]</a></li></p>
  
+</ol>
+
 ## 2020
+
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Jinglin Xu, Xiangsen Zhang, Wenbin Li, <b>Xinwang Liu</b>, and Junwei Han: <i><u>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</u></i>. <font color="green">IJCAI 2020</font>: 3202-3208. (CCF Rank A)<a href = "https://www.ijcai20.org/">[PDF]</a></li></p>
 
@@ -61,7 +68,11 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Jinglin Xu, Wenbin Li, <b>Xinwang Liu</b>, Dingwen Zhang, Ji Liu, Junwei Han: <i><u>Embedding Deep Interaction Information for Multi-view Categorization</u></i>. <font color="green">AAAI 2020</font>: 34(04), 6494-6501. (CCF Rank A) </li></p>
 
+ </ol>
+  
 ## 2019
+
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5962–5975 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a> <a href = "https://github.com/demonzyj56/E3Outlier">[Code]</a></li></p>
  
@@ -79,7 +90,11 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenzhang Zhuge, Chenping Hou, <b>Xinwang Liu</b>, Hong Tao and Dongyun Yi: <i><u>Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data</u></i>. <font color="green">IJCAI 2019</font>: 4482-4488. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2019/0623.pdf">[PDF]</a></li></p>
 
+</ol>
+  
 ## 2018
+ 
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Xinzhong Zhu, <b>Xinwang Liu</b>, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: <i><u>Localized Incomplete Multiple Kernel k-means</u></i>. <font color="green">IJCAI 2018</font>: 3271-3277. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2018/0454.pdf">[PDF]</a></li></p>
 
@@ -93,7 +108,11 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ECCV]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629-645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
 
+</ol>
+  
 ## 2017
+ 
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: <i><u>Multiple Kernel k-means with Incomplete Kernels</u></i>. <font color="green">AAAI 2017</font>: 31 (1), 2259–2265. (CCF Rank A) <a href = "https://pdfs.semanticscholar.org/8a43/479648816f7927487457c1d02f2bd6b4e383.pdf">[PDF]</a></li></p>
 
@@ -106,21 +125,35 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Xifeng Guo, Long Gao, <b>Xinwang Liu</b> and Jianping Yin: <i><u>Improved Deep Embedded Clustering with Local Structure Preservation</u></i>. <font color="green">IJCAI 2017</font>: 1753-1759. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2017/0243.pdf">[PDF]</a> <a href = "https://github.com/XifengGuo/IDEC">[Code]</a></li></p>
 
+</ol>
+  
 ## 2016
+
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: <i><u>Multi-view Clustering via Maximizing Local Kernel Alignment Maximization</u></i>. <font color="green">IJCAI 2016</font>: 1704-1710. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Yong Dou, Jianping Yin, Lei Wang, En Zhu: <i><u>Multiple Kernel k-means Clustering with Matrix-induced Regularization</u></i>. <font color="green">AAAI 2016</font>: 1888-1894. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819">[PDF]</a><a href = "https://github.com/xinwangliu/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization">[Code]</a></li></p>
+
+</ol>
  
 ## 2015
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, Yong Dou, Jian Zhang: <i><u>Absent Multiple Kernel Learning</u></i>. <font color="green">AAAI 2015</font>: 2807-2813. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9298/9945">[PDF]</a></li></p>
  
+</ol>
 ## 2014
+
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jian Zhang, Jianping Yin: <i><u>Sample-Adaptive Multiple Kernel Learning</u></i>. <font color="green">AAAI 2014</font>: 1975-1981. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8332/8839">[PDF]</a></li></p>
 
+ </ol>
+  
 ## 2011
+
+<ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Lingqiao Liu, Lei Wang, <b>Xinwang Liu</b>: <i><u>In defense of soft-assignment coding</u></i>. <font color="green">ICCV 2011</font>: 2486-2493. (CCF Rank A) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf">[PDF]</a></li></p>
 
