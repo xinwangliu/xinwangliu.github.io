@@ -138,11 +138,13 @@
 </ol>
  
 ## 2015
+
 <ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, Yong Dou, Jian Zhang: <i><u>Absent Multiple Kernel Learning</u></i>. <font color="green">AAAI 2015</font>: 2807-2813. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9298/9945">[PDF]</a></li></p>
  
 </ol>
+
 ## 2014
 
 <ol>
