@@ -24,7 +24,7 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Sihang Zhou, Jiyuan Liu, Siwei Wang, En Zhu: <i><u>Robust Graph-based Multi-view Clustering</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://www.aaai.org/AAAI22Papers/AAAI-3353.LiangW.pdf">[PDF]</a><a href = "https://github.com/wxliang/RG-MVC">[Code]</a></li></p>
 
-
+##2021
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font>Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang, Jiangyong Shi: <i><u>One-pass Multi-view Clustering for Large-scale Data</u></i>. <font color="green">ICCV 2021</font>: 12344-12353. (CCF Rank A)<a href = "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_One-Pass_Multi-View_Clustering_for_Large-Scale_Data_ICCV_2021_paper.pdf">[PDF]</a><a href = "https://github.com/liujiyuan13/OPMC-code_release">[Code]</a></li></p>
  
