@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">June 18, 2022</font>]  "<b>Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection</b>" has been accepted by <font color="green">IEEE Transactions on Cybernetics (IEEE TYCB)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">June 12, 2022</font>]  "<b>Local Sample-weighted Multiple Kernel Clustering with Consensus Discriminative Graph</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
   
 <p style="margin-top: 6px;"><li>[<font color="red">June 11, 2022</font>]  "<b>Multi-view Deep Anomaly Detection: A Systematic Exploration</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
