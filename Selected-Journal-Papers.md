@@ -2,7 +2,7 @@
 ## 2022
 <ol>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Jun Wang, Chang Tang, <b>Xinwang Liu</b>, Wei Zhang, Wanqing Li, Xinzhong Zhu, Lizhe Wang and Albert Zomaya</b>: <i><u>Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (Accepted in June 2022)
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Jun Wang, Chang Tang, <b>Xinwang Liu</b>, Wei Zhang, Wanqing Li, Xinzhong Zhu, Lizhe Wang and Albert Zomaya</b>: <i><u>Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (Accepted in June 2022)</li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Liang Li, Siwei Wang, <b>Xinwang Liu</b>, En Zhu, Li Shen, Kenli Li, and Keqin Li: <i><u> Local Sample-weighted Multiple Kernel Clustering with Consensus Discriminative Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in June 2022) </li></p> 
 
