@@ -2,6 +2,8 @@
 ## 2022
 <ol>
  
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> Liang Li, Siwei Wang, <b>Xinwang Liu</b>, En Zhu, Li Shen, Kenli Li, and Keqin Li: <i><u> Local Sample-weighted Multiple Kernel Clustering with Consensus Discriminative Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in June 2022) </li></p> 
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Liang Li, Siwei Wang, <b>Xinwang Liu</b>, En Zhu, Li Shen, Kenli Li, and Keqin Li: <i><u> Local Sample-weighted Multiple Kernel Clustering with Consensus Discriminative Graph</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in June 2022) </li></p> 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Siqi Wang, Jiyuan Liu, Guang Yu, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Yuexiang Yang, Jianping Yin and Wenjing Yang: <i><u> Multi-view Deep Anomaly Detection: A Systematic Exploration</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (Accepted in June 2022) </li></p> 
