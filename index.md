@@ -5,6 +5,9 @@ layout: default
 # News
 
 <ul>
+
+<p style="margin-top: 6px;"><li>[<font color="red">June 20, 2022</font>]  "<b>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">June 18, 2022</font>]  "<b>Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection</b>" has been accepted by <font color="green">IEEE Transactions on Cybernetics (IEEE TCYB)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 12, 2022</font>]  "<b>Local Sample-weighted Multiple Kernel Clustering with Consensus Discriminative Graph</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
