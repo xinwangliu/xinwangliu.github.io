@@ -24,7 +24,8 @@
             <div> <a href="https://github.com/wangsiqinudt">Siqi Wang</a> </div>
             <div> Lecturer </div>
           </td>
-
+</table>
+        
 <h1 align=left> Post Doc </h1>
        
 <table width="90%" border="0" align="left" cellspacing="30">
@@ -39,7 +40,7 @@
             <div> <a href="https://zhutuanfei.github.io/"> Tuanfei Zhu </a> </div>
             <div> Postdoctoral </div>
           </td>
-
+</table>
                
  # PhD Student
                 
@@ -75,7 +76,7 @@
             <div> Qiyuan Ou</div>
             <div> PhD student </div>
           </td>
-   
+   </table>
 
  <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
@@ -109,6 +110,7 @@
             <div> <a href="https://dzboop.github.io/">Zhibing Dong</a> </div>
             <div> PhD student </div>
           </td>
+  </table>
                         
 <h1 align=left>PhD Student (Graduated)</h1>
                 
@@ -124,7 +126,7 @@
             <div> <a href="http://github.com/XifengGuo">Xifeng Guo</a> </div>
             <div> PhD </div>
           </td>
-  
+  </table>
                         
   <h1 align=left>Master Student</h1>
                         
@@ -150,7 +152,7 @@
             <div> <a href="https://gongleii.github.io">Lei Gong</a></div>
             <div> Master student </div>
           </td>
-
+</table>
 
 
   <table width="90%" border="0" align="left" cellspacing="30">
@@ -180,3 +182,4 @@
             <div> <a href="https://junpuzhang.github.io">Junpu Zhang</a></div>
             <div> Master student </div>
           </td>
+</table>
