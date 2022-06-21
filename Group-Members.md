@@ -1,6 +1,6 @@
 # Group Members:
 
-# Faculty
+<h1 align=left> Faculty </h1>
 
 <table width="90%" border="0" align="left" cellspacing="30">
         <tbody><tr valign="top" align="center">
@@ -24,9 +24,9 @@
             <div> <a href="https://github.com/wangsiqinudt">Siqi Wang</a> </div>
             <div> Lecturer </div>
           </td>
-                
- # Post Doc
-                
+
+<h1 align=left> Post Doc </h1>
+       
 <table width="90%" border="0" align="left" cellspacing="30">
         <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
@@ -109,8 +109,8 @@
             <div> <a href="https://dzboop.github.io/">Zhibing Dong</a> </div>
             <div> PhD student </div>
           </td>
-
- # PhD Student (Graduated)
+                        
+<h1 align=left>PhD Student (Graduated)</h1>
                 
  <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">                        
@@ -125,7 +125,8 @@
             <div> PhD </div>
           </td>
   
-   ## Master Student
+                        
+  <h1 align=left>Master Student</h1>
                         
   <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
