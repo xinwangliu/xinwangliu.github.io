@@ -1,6 +1,6 @@
 # Group Members:
 
-## Faculty
+# Faculty
 
 <table width="90%" border="0" align="left" cellspacing="30">
         <tbody><tr valign="top" align="center">
@@ -25,7 +25,7 @@
             <div> Lecturer </div>
           </td>
                 
- ## Post Doc
+ # Post Doc
                 
 <table width="90%" border="0" align="left" cellspacing="30">
         <tbody><tr valign="top" align="center">
@@ -79,7 +79,6 @@
 
  <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
-
     <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/wenxuan.jpg"></div>
             <div> <a href="https://wxtu.github.io">Wen-Xuan Tu</a></div>
@@ -111,7 +110,7 @@
             <div> PhD student </div>
           </td>
 
- ## PhD Student (Graduated)
+ # PhD Student (Graduated)
                 
  <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">                        
