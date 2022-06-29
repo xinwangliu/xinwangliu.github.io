@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+  
+ <p style="margin-top: 6px;"><li>[<font color="red">June 30, 2022</font>]  <b>Five papers</b> have been accepted by <font color="green">ACM Multimedia (MM) 2022</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 20, 2022</font>]  "<b>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
