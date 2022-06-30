@@ -2,7 +2,16 @@
 ## 2022
 
 <ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Xinhang Wan, Jiyuan Liu, Weixuan Liang, <b>Xinwang Liu</b>, Yi Wen and En Zhu: <i><u>Continual Multi-view Clustering</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)</li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Yi Zhang, Weixuan Liang, <b>Xinwang Liu</b>, Sisi Dai, Siwei Wang, Liyang Xu and En Zhu: <i><u>Sample Weighted Multiple Kernel K-means via min-max optimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)</li></p>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b> and Chengkun Wu: <i><u>Effective Video Abnormal Event Detection by Learning A Consistency-Aware High-Level Feature Extractor</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)</li></p>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Tiejian Zhang, <b>Xinwang Liu</b>, En Zhu, Sihang Zhou, Zhibin Dong: <i><u>Efficient Anchor Learning-based Multi-view Clustering -- A Late Fusion Method</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)</li></p>
+
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, Yue Liu, <b>Xinwang Liu</b> and En Zhu: <i><u>Multiple Kernel Clustering with Dual Noise Minimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)</li></p>
   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng: <i><u>Initializing Then Refining: A Simple Graph Attribute Imputation Network</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Lei Gong,  Sihang Zhou, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Attributed Graph Clustering with Dual Redundancy Reduction</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)</li></p>
