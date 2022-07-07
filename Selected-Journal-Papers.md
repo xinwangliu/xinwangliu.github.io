@@ -1,7 +1,7 @@
 # Selected Journal Papers:
 ## 2022
 <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in July 2022)</li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in July 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/finalversion.pdf">[PDF]</a></li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xihong Yang, Xiaochang Hu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2022)</li></p> 
  
