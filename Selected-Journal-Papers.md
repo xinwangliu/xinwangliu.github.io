@@ -1,10 +1,11 @@
 # Selected Journal Papers:
 ## 2022
 <ol>
+
+ <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Auguest 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/SimpleMKKMcodes">[Code]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf">[Supplement]</a></li></p>
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in July 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/E3_Outlier_A_Self-Supervised_Framework_for_Unsupervised_Deep_Outlier_Detection.pdf">[PDF]</a></li></p> 
  
-
-
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xihong Yang, Xiaochang Hu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in June 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/TNNLS22-Interpolation%20based%20Contrastive%20Learning%20for%20Few%20Label%20SemiSupervised%20Learning.pdf">[PDF]</a></li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Jun Wang, Chang Tang, <b>Xinwang Liu</b>, Wei Zhang, Wanqing Li, Xinzhong Zhu, Lizhe Wang and Albert Zomaya: <i><u>Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (Accepted in June 2022)</li></p> 
