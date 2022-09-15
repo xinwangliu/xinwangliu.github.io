@@ -5,6 +5,9 @@ layout: default
 # News
 
 <ul>
+  
+<p style="margin-top: 6px;"><li>[<font color="red">September 15, 2022</font>] <b>Three papers</b> have been accepted by <font color="green"> 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</font>.</li></p>  
+  
 <p style="margin-top: 6px;"><li>[<font color="red">August 10, 2022</font>] "<b>SimpleMKKM: Simple Multiple Kernel K-means</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>  
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 5, 2022</font>] "<b>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
