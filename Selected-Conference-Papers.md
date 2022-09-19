@@ -2,6 +2,11 @@
 ## 2022
 
 <ol>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences </u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
+
+
+  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Xinhang Wan, Jiyuan Liu, Weixuan Liang, <b>Xinwang Liu</b>, Yi Wen and En Zhu: <i><u>Continual Multi-view Clustering</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Continual_Multi_view_Clustering.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Yi Zhang, Weixuan Liang, <b>Xinwang Liu</b>, Sisi Dai, Siwei Wang, Liyang Xu and En Zhu: <i><u>Sample Weighted Multiple Kernel K-means via min-max optimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Sample%20Weighted%20Multiple%20Kernel%20K-means%20via%20Min-Max%20Optimization.pdf">[PDF]</a></li></p>
