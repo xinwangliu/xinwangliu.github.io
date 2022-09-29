@@ -60,8 +60,8 @@ social_icons:
     link: mailto:xinwangliu@nudt.edu.cn
     icon: icon brands fa fa-envelope
 
-  - name: google mail
-    link: mailto:1022xinwang.liu@gmail.com
+  - name: google scholar
+    link: https://scholar.google.com/citations?user=A56vWC4AAAAJ&hl=zh-CN&oi=ao
     icon: fab fa-google
 
   - name: github
