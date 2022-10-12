@@ -2,6 +2,10 @@
 ## 2022
 <ol>
 
+ 
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MIA]</b></font> <b>Xinwang Liu</b>: <i><u>Semantic Instance Segmentation with Discriminative Deep Supervision for Medical Images</u></i>. <font color="green">Medical Image Analysis (<b>MIA</b>)</font>. (Accepted in September 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/1-s2.0-S1361841522002547-main.pdf">[PDF]</a></li></p>
+ 
+ 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in August 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/SimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/SimpleMKKMcodes">[Code]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf">[Supplement]</a></li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in July 2022)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/E3_Outlier_A_Self-Supervised_Framework_for_Unsupervised_Deep_Outlier_Detection.pdf">[PDF]</a></li></p> 
