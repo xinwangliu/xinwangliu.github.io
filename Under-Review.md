@@ -4,6 +4,8 @@
 # Under Review
 
 <ol>
+<p style="margin-top: 8px;"><li>Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization (Submitted to TNNLS).</u></i></li></p>
+  
 <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>Parameter-free Localized SimpleMKKM (Submitted to JMLR).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/JMLR-21-1163-1.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>, Li Liu, Limin Peng, Yi Zhang and Dewen Hu: <i><u>Sample Adaptive Localized Simple Multiple Kernel K-means (Submitted to TPAMI).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI-2022-05-0826.pdf">[PDF]</a></li></p>
