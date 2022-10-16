@@ -1,9 +1,9 @@
----
 
 # Under Review
 
 <ol>
-<p style="margin-top: 8px;"><li>Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization (Submitted to IEEE TNNLS).</u></i></li></p>
+<p style="margin-top: 8px;"><li>Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization (Submitted to IEEE TNNLS).</u></i> <a href = "https://github.com/xinwangliu/ELFMVC_MMO/tree/main">[Code]</a></li></p>
+
   
 <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>Parameter-free Localized SimpleMKKM (Submitted to JMLR).</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/JMLR-21-1163-1.pdf">[PDF]</a></li></p>
 
