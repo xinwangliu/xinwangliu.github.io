@@ -143,8 +143,8 @@
  
 <ol>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> <b>Xinwang Liu</b>, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: <i><u>An Adaptive Approach to Learning Optimal Neighborhood Kernels</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TYCB</b>)</font>. 43(1): 371-384 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.2961&rep=rep1&type=pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Xinwang Liu</b>, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: <i><u>An Adaptive Approach to Learning Optimal Neighborhood Kernels</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. 43(1): 371-384 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.2961&rep=rep1&type=pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TYCB]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: <i><u>An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TYCB</b>)</font>. 43(2): 557-569 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Radius-incorporated-MKL-algorithm">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: <i><u>An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. 43(2): 557-569 (2013) (CCF Rank B) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Radius-incorporated-MKL-algorithm">[Code]</a></li></p>
 
 </ol>
