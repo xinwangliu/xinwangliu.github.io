@@ -5,9 +5,10 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">November 1, 2022</font>] "<b>Deep Fusion Clustering Network with Reliable Structure Preservation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">September 16, 2022</font>] "<b>Semantic Instance Segmentation with discriminative deep supervision for medical images</b>" has been accepted by <font color="green">Medical Image Analysis</font>.</li></p>
-  
-  
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">September 15, 2022</font>] <b>Three papers</b> have been accepted by <font color="green"> 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</font>.</li></p>  
   
 <p style="margin-top: 6px;"><li>[<font color="red">August 10, 2022</font>] "<b>SimpleMKKM: Simple Multiple Kernel K-means</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>  
