@@ -5,7 +5,10 @@ layout: default
 # News
 
 <ul>
-<p style="margin-top: 6px;"><li>[<font color="red">November 1, 2022</font>] "<b>Deep Fusion Clustering Network with Reliable Structure Preservation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">November 2, 2022</font>] "<b>Fast Incomplete Multi-view Clustering with View-independent Anchors</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
+ <p style="margin-top: 6px;"><li>[<font color="red">November 1, 2022</font>] "<b>Deep Fusion Clustering Network with Reliable Structure Preservation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">September 16, 2022</font>] "<b>Semantic Instance Segmentation with discriminative deep supervision for medical images</b>" has been accepted by <font color="green">Medical Image Analysis</font>.</li></p>
  
