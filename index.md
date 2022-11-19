@@ -6,7 +6,7 @@ layout: default
 
 <ul>
 
- <p style="margin-top: 6px;"><li>[<font color="red">November 19, 2022</font>]  <b>Four papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2022</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">November 19, 2022</font>]  <b>Four papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2023</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">November 2, 2022</font>] "<b>Fast Incomplete Multi-view Clustering with View-independent Anchors</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
