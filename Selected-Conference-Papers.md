@@ -1,33 +1,38 @@
 # Selected Conference Papers:
+
+## 2023
+
+<ol>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xinhang Wan, <b>Xinwang Liu</b>, Jiyuan Liu, Siwei Wang ,Yi Wen, Weixuan Liang,  En Zhu, Zhe Liu, Lu Zhou: <i><u>Auto-weighted Multi-view Clustering for Large-scale Data</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A) </li></p>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, <b>Xinwang Liu</b>, Liming Fang, En Zhu: <i><u>Cluster-guided Contrastive Graph Clustering Network</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen: <i><u>Hard Sample Aware Network for Contrastive Deep Graph Clustering</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, <b>Xinwang Liu</b>, En Zhu, Zhe Liu, Lu Zhou, Lei Luo: Let the data choose: <i><u>Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A)</li></p>
+  
+</ol>
+
 ## 2022
 
 <ol>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>Xinhang Wan, <b>Xinwang Liu</b>, Jiyuan Liu, Siwei Wang ,Yi Wen, Weixuan Liang,  En Zhu, Zhe Liu, Lu Zhou: <i><u>Auto-weighted Multi-view Clustering for Large-scale Data</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A) </li></p>
-  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, <b>Xinwang Liu</b>, Liming Fang, En Zhu: <i><u>Cluster-guided Contrastive Graph Clustering Network</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences </u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen: <i><u>Hard Sample Aware Network for Contrastive Deep Graph Clustering</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
-  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font>Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, <b>Xinwang Liu</b>, En Zhu, Zhe Liu, Lu Zhou, Lei Luo: Let the data choose: <i><u>Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A)</li></p>
-  
-  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences </u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Sihang Zhou, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang, En Zhu: <i><u>Stability and Generalization of Kernel Clustering: from Single Kernel to Multiple Kernel</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Sihang Zhou, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang, En Zhu: <i><u>Stability and Generalization of Kernel Clustering: from Single Kernel to Multiple Kernel</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siqi Shen, Mengwei Qiu, Liu Jun, Weiquan Liu, Yongquan Fu, <b>Xinwang Liu</b>, Cheng Wang: <i><u>ResQ: A Residual Q Function-based Approach for Multi-Agent Reinforcement Learning Value Factorization</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xinhang Wan, Jiyuan Liu, Weixuan Liang, <b>Xinwang Liu</b>, Yi Wen and En Zhu: <i><u>Continual Multi-view Clustering</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Continual_Multi_view_Clustering.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Siqi Shen, Mengwei Qiu, Liu Jun, Weiquan Liu, Yongquan Fu, <b>Xinwang Liu</b>, Cheng Wang: <i><u>ResQ: A Residual Q Function-based Approach for Multi-Agent Reinforcement Learning Value Factorization</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yi Zhang, Weixuan Liang, <b>Xinwang Liu</b>, Sisi Dai, Siwei Wang, Liyang Xu and En Zhu: <i><u>Sample Weighted Multiple Kernel K-means via min-max optimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Sample%20Weighted%20Multiple%20Kernel%20K-means%20via%20Min-Max%20Optimization.pdf">[PDF]</a></li></p>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Xinhang Wan, Jiyuan Liu, Weixuan Liang, <b>Xinwang Liu</b>, Yi Wen and En Zhu: <i><u>Continual Multi-view Clustering</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Continual_Multi_view_Clustering.pdf">[PDF]</a></li></p>
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Yi Zhang, Weixuan Liang, <b>Xinwang Liu</b>, Sisi Dai, Siwei Wang, Liyang Xu and En Zhu: <i><u>Sample Weighted Multiple Kernel K-means via min-max optimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Sample%20Weighted%20Multiple%20Kernel%20K-means%20via%20Min-Max%20Optimization.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b> and Chengkun Wu: <i><u>Effective Video Abnormal Event Detection by Learning A Consistency-Aware High-Level Feature Extractor</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Effective%20Video%20Abnormal%20Event%20Detection%20by%20Learning.pdf">[PDF]</a></li></p>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b> and Chengkun Wu: <i><u>Effective Video Abnormal Event Detection by Learning A Consistency-Aware High-Level Feature Extractor</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Effective%20Video%20Abnormal%20Event%20Detection%20by%20Learning.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Tiejian Zhang, <b>Xinwang Liu</b>, En Zhu, Sihang Zhou, Zhibin Dong: <i><u>Efficient Anchor Learning-based Multi-view Clustering -- A Late Fusion Method</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Efficient%20Anchor%20Learning-based%20Multi-view%20Clustering%20-%20A%20Late%20Fusion%20Approach.pdf">[PDF]</a></li></p>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Tiejian Zhang, <b>Xinwang Liu</b>, En Zhu, Sihang Zhou, Zhibin Dong: <i><u>Efficient Anchor Learning-based Multi-view Clustering -- A Late Fusion Method</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Efficient%20Anchor%20Learning-based%20Multi-view%20Clustering%20-%20A%20Late%20Fusion%20Approach.pdf">[PDF]</a></li></p>
-
-  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, Yue Liu, <b>Xinwang Liu</b> and En Zhu: <i><u>Multiple Kernel Clustering with Dual Noise Minimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Multiple%20Kernel%20Clustering%20with%20Dual%20Noise%20Minimization.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, Yue Liu, <b>Xinwang Liu</b> and En Zhu: <i><u>Multiple Kernel Clustering with Dual Noise Minimization</u></i>. <font color="green">ACM MM 2022</font>. (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/MM22-Multiple%20Kernel%20Clustering%20with%20Dual%20Noise%20Minimization.pdf">[PDF]</a></li></p>
   
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng: <i><u>Initializing Then Refining: A Simple Graph Attribute Imputation Network</u></i>. <font color="green">IJCAI 2022.</font> (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/IJCAI22-Initializing%20Then%20Refining%20A%20Simple%20Graph%20Attribute%20Imputation%20Network.pdf">[PDF]</a></li></p>
  
