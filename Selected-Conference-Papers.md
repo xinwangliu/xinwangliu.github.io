@@ -20,7 +20,7 @@
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences </u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Sihang Zhou, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang, En Zhu: <i><u>Stability and Generalization of Kernel Clustering: from Single Kernel to Multiple Kernel</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Sihang Zhou, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang, En Zhu: <i><u>Stability and Generalization of Kernel Clustering: from Single Kernel to Multiple Kernel</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)<a href = "https://openreview.net/pdf?id=QYD9bDWR3R_">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siqi Shen, Mengwei Qiu, Liu Jun, Weiquan Liu, Yongquan Fu, <b>Xinwang Liu</b>, Cheng Wang: <i><u>ResQ: A Residual Q Function-based Approach for Multi-Agent Reinforcement Learning Value Factorization</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A)</li></p>
   
