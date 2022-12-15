@@ -96,7 +96,7 @@
           </td>
     <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/liangke.jpg"></div>
-            <div> Ke Liang </div>
+            <div> <a href="https://liangke23.github.io/">Ke Liang</a> </div>
             <div> PhD student </div>
           </td>
 
