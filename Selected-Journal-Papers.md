@@ -2,6 +2,10 @@
 ## 2022
 <ol>
  
+
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xingchen Hu, <b>Xinwang Liu</b>, Witold Pedrycz, Qing Liao, Yinhua Shen, Yan Li and Siwei Wang: <i><u> Multi-view Fuzzy Classification with Subspace Clustering and Information Granules</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p> 
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Suyuan Liu, <b>Xinwang Liu</b>, Siwei Wang, Xin Niu, En Zhu: <i><u> Fast Incomplete Multi-view Clustering with View-independent Anchors</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (CCF Rank B) (Accepted in November 2022) </li></p>  
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Lei Gong, Wenxuan Tu, Sihang Zhou, Long Zhao, Zhe Liu, <b>Xinwang Liu</b>: <i><u> Deep Fusion Clustering Network with Reliable Structure Preservation</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (CCF Rank B) (Accepted in November 2022) </li></p> 
