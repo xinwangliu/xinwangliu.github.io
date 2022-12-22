@@ -1,9 +1,7 @@
 # Selected Journal Papers:
 ## 2022
 <ol>
- 
-Li， Miaomiao; Liu，Xinwang; Zhang，Yi; Liang，Weixuan，
- 
+  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in December 2022) </li></p> 
  
  
