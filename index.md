@@ -6,7 +6,7 @@ layout: default
 
 <ul>
 
-  <p style="margin-top: 6px;"><li>[<font color="red">December 22, 2022</font>] Served as an "<b>Associate Editor</b>" of <font color="green">IEEE TCYB</font>.</li></p>
+  <p style="margin-top: 6px;"><li>[<font color="red">December 22, 2022</font>] Served as an "<b>Associate Editor</b>" of <font color="green">IEEE Transactions on Cybernetics(TCYB)</font>.</li></p>
   
   <p style="margin-top: 6px;"><li>[<font color="red">December 21, 2022</font>] "<b>Late Fusion Multi-view Clustering via Min-Max Optimization</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
