@@ -2,6 +2,8 @@
 ## 2022
 <ol>
   
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b> Xinwang Liu</b>: <i><u>Hyperparameter-Free Localized Simple Multiple Kernel K-means with Global Optimum</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p>  
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in December 2022) </li></p> 
  
  
