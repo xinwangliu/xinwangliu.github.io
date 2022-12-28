@@ -18,9 +18,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font><b> Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Sep. 2021) (CCF Rank A) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TPAMI_IncomSimpleMKKM.pdf">[PDF]</a></li></p>
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Yi Guo, Jun Cheng, Bin Hu, <b>Xinwang Liu</b>: <i><u>A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in June 2021) (CCF Rank A)</li></p>
- 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yawei Zhao, En Zhu, <b>Xinwang Liu</b>, Chang Tang, Deke Guo, Jianping Yin: <i><u>Simultaneous Clustering and Optimization for Evolving Datasets</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font> 33(1): 259-270 (2021)  (CCF Rank A) <a href = "https://arxiv.org/pdf/1908.01384.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft, En Zhu: <i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 43(8): 2634-2646 (2021) (CCF Rank A) <a href = "https://ml.informatik.uni-kl.de/publications/2020/TPAMI_EEIMVC.pdf">[PDF]</a> <a href ="https://github.com/xinwangliu/TPAMI_EEIMVC">[Code]</a></li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "<i><u>Absent Multiple Kernel Learning Algorithms</u></i>". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 42(6): 1303-1316 (2020) (CCF Rank A) <a href = "https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/Absent-Multiple-Kernel-Learning-Algorithms">[Code]</a></li></p>
 
@@ -32,6 +30,10 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
  
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in July 2022) (CCF Rank A) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/E3_Outlier_A_Self-Supervised_Framework_for_Unsupervised_Deep_Outlier_Detection.pdf">[PDF]</a></li></p> 
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Yi Guo, Jun Cheng, Bin Hu, <b>Xinwang Liu</b>: <i><u>A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in June 2021) (CCF Rank A)</li></p>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yawei Zhao, En Zhu, <b>Xinwang Liu</b>, Chang Tang, Deke Guo, Jianping Yin: <i><u>Simultaneous Clustering and Optimization for Evolving Datasets</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font> 33(1): 259-270 (2021)  (CCF Rank A) <a href = "https://arxiv.org/pdf/1908.01384.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xingchen Hu, <b>Xinwang Liu</b>, Witold Pedrycz, Qing Liao, Yinhua Shen, Yan Li and Siwei Wang: <i><u> Multi-view Fuzzy Classification with Subspace Clustering and Information Granules</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p> 
  
@@ -60,7 +62,5 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
  
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Jian Xiong, Qing Liao, Sihang Zhou, Siwei Wang, Yuexiang Yang: <i><u>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in July 2020) (CCF Rank A) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/ON-ALKA.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/ON-ALK_release_code">[Code]</a></li></p>
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft, En Zhu: <i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 43(8): 2634-2646 (2021) (CCF Rank A) <a href = "https://ml.informatik.uni-kl.de/publications/2020/TPAMI_EEIMVC.pdf">[PDF]</a> <a href ="https://github.com/xinwangliu/TPAMI_EEIMVC">[Code]</a></li></p>
  
 </ol>
