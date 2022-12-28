@@ -9,4 +9,21 @@ Please drop him a message if you also have interests with him by email: <u>xinwa
 
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
-Representative Work
+# Representative Work
+<ol>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b> Xinwang Liu</b>: <i><u>Hyperparameter-Free Localized Simple Multiple Kernel K-means with Global Optimum</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p> 
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b> Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2022) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/SimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/SimpleMKKMcodes">[Code]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf">[Supplement]</a></li></p>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: <i><u>E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in July 2022) (CCF Rank A) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/E3_Outlier_A_Self-Supervised_Framework_for_Unsupervised_Deep_Outlier_Detection.pdf">[PDF]</a></li></p> 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xingchen Hu, <b>Xinwang Liu</b>, Witold Pedrycz, Qing Liao, Yinhua Shen, Yan Li and Siwei Wang: <i><u> Multi-view Fuzzy Classification with Subspace Clustering and Information Granules</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p> 
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chang Tang, Zhenglai Li, Jun Wang, <b>Xinwang Liu</b>, Wei Zhang, En Zhu: <i><u> Unified One-step Multi-view Spectral Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in May 2022) </li></p> 
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Tuanfei Zhu, <b>Xinwang Liu</b>, En Zhu: <i><u> Oversampling with Reliably Expanding Minority Class Regions for Imbalanced Data Learning</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in April 2022) (CCF Rank A) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/TKDE22-Oversampling%20With%20Reliably%20Expanding%20Minority.pdf">[PDF]</a></li></p> 
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhenglai Li, Chang Tang, <b>Xinwang Liu</b>, Xiao Zheng, Wei Zhang, En Zhu: <i><u> High-order Correlation Preserved Incomplete Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in Jan. 2022) (CCF Rank A) </li></p>
+ 
+</ol>
