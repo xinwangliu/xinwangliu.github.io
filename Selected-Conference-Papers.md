@@ -7,8 +7,8 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xinhang Wan, <b>Xinwang Liu</b>, Jiyuan Liu, Siwei Wang ,Yi Wen, Weixuan Liang,  En Zhu, Zhe Liu, Lu Zhou: <i><u>Auto-weighted Multi-view Clustering for Large-scale Data</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A) </li></p>
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, <b>Xinwang Liu</b>, Liming Fang, En Zhu: <i><u>Cluster-guided Contrastive Graph Clustering Network</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
-
   
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen: <i><u> Hard Sample Aware Network for Contrastive Deep Graph Clustering</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A)<a href = "https://arxiv.org/pdf/2212.08665">[PDF]</a><a href = "https://github.com/yueliu1999/HSAN">[Code]</a> </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, <b>Xinwang Liu</b>, En Zhu, Zhe Liu, Lu Zhou, Lei Luo: Let the data choose: <i><u>Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A)</li></p>
   
