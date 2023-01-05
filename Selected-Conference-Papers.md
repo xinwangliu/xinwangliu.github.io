@@ -8,8 +8,8 @@
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, <b>Xinwang Liu</b>, Liming Fang, En Zhu: <i><u>Cluster-guided Contrastive Graph Clustering Network</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen: <i><u>Hard Sample Aware Network for Contrastive Deep Graph Clustering</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
   
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, <b>Xinwang Liu</b>, En Zhu, Zhe Liu, Lu Zhou, Lei Luo: Let the data choose: <i><u>Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A)</li></p>
   
 </ol>
@@ -44,7 +44,7 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Yao Duan, Chenyang Zhu, Yuqing Lan, Renjiao Yi, <b>Xinwang Liu</b>, Kai Xu: <i><u>DisARM: Displacement Aware Relation Module for 3D Detection</u></i>. <font color="green">CVPR 2022.</font> (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Linxuan Song, Xihong Yang, En Zhu: <i><u>Deep Graph Clustering via Dual Correlation Reduction</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/AAAI22-Deep%20Graph%20Clustering%20via%20Dual%20Correlation%20Reduction.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Linxuan Song, Xihong Yang, En Zhu: <i><u>Deep Graph Clustering via Dual Correlation Reduction</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/AAAI22-Deep%20Graph%20Clustering%20via%20Dual%20Correlation%20Reduction.pdf">[PDF]</a><a href = "https://github.com/yueliu1999/DCRN">[Code]</a></li></p>
 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Siwei Wang, Pei Zhang, Kai Xu, <b>Xinwang Liu</b>, Changwang Zhang, Feng Gao: <i><u>Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors</u></i>. <font color="green">AAAI 2022.</font> (CCF Rank A)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/new_paper/AAAI22-Effcient%20One-Pass%20Multi-View%20Subspace%20Clustering%20with%20Consensus%20Anchors.pdf">[PDF]</a></li></p>
