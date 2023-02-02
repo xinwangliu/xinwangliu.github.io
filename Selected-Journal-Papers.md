@@ -1,11 +1,11 @@
 # Selected Journal Papers:
 
-## 2023
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGARS]</b></font> Zhenglai Li, Chang Tang, <b> Xinwang Liu</b>, Wei Zhang, Jie Dou, Lizhe Wang, Albert Zomaya: <i><u>Lightweight Remote Sensing Change Detection with Progressive Feature Aggregation and Supervised Attention</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing (<b>TGARS</b>)</font>. (CCF Rank B) (Accepted in January 2023) </li></p>  
 
 ## 2022
 <ol>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGARS]</b></font> Zhenglai Li, Chang Tang, <b> Xinwang Liu</b>, Wei Zhang, Jie Dou, Lizhe Wang, Albert Zomaya: <i><u>Lightweight Remote Sensing Change Detection with Progressive Feature Aggregation and Supervised Attention</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing (<b>TGARS</b>)</font>. (CCF Rank B) (Accepted in December 2022) </li></p>   
+  
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b> Xinwang Liu</b>: <i><u>Hyperparameter-Free Localized Simple Multiple Kernel K-means with Global Optimum</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p>  
 
