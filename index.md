@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+  <p style="margin-top: 6px;"><li>[<font color="red">February 7, 2023</font>] "<b>Task-Related Saliency for Few-Shot Image Classification</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>  
+
 
   <p style="margin-top: 6px;"><li>[<font color="red">December 31, 2022</font>] "<b>Lightweight Remote Sensing Change Detection with Progressive Feature Aggregation and Supervised Attention</b>" has been accepted by <font color="green">IEEE Transactions on Geoscience and Remote Sensing (IEEE TGARS)</font>.</li></p>  
   
