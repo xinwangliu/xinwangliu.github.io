@@ -4,6 +4,8 @@
 <ol>
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Sihang Zhou, Wang Li, Xihong Yang, <b>Xinwang Liu</b>, En Zhu: <i><u>Task-Related Saliency for Few-Shot Image Classification</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in February 2023) </li></p> 
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yu Hu, Endai Guo, <b>Xinwang Liu</b>, and Hongmin Cai: <i><u> Robust Multi-view Clustering through Partition Integration on Stiefel Manifold</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2023) </li></p> 
 
  </ol>
  
