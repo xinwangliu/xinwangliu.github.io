@@ -12,6 +12,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, <b>Xinwang Liu</b>, En Zhu, Zhe Liu, Lu Zhou, Lei Luo: <i><u>Let the data choose: Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A)</li></p>
   
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Jiaqi Jin, Siwei Wang, Zhibin Dong, <b>Xinwang Liu</b>, En Zhu: <i><u>Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment</u></i>. <font color="green">CVPR 2023</font>. (CCF Rank A)</li></p>
+  
 </ol>
 
 ## 2022
