@@ -6,6 +6,9 @@ layout: default
 
 <ul>
    
+   
+   <p style="margin-top: 6px;"><li>[<font color="red">February 28, 2023</font>]  <b> Active Clustering Ensemble with Self-paced Learning </b> has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+   
   <p style="margin-top: 6px;"><li>[<font color="red">February 28, 2023</font>]  <b> Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment </b> has been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023</font>.</li></p>  
    
   <p style="margin-top: 6px;"><li>[<font color="red">February 23, 2023</font>] "<b>Robust Multi-view Clustering through Partition Integration on Stiefel Manifold</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
