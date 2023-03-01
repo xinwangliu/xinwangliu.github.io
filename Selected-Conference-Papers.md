@@ -4,10 +4,7 @@
 
 <ol>
   
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Jiaqi Jin, Siwei Wang, Zhibin Dong, <b>Xinwang Liu</b>, En Zhu: <i><u>Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment</u></i>. <font color="green">CVPR 2023</font>. (CCF Rank A) </li></p>
-  
-  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xinhang Wan, <b>Xinwang Liu</b>, Jiyuan Liu, Siwei Wang ,Yi Wen, Weixuan Liang,  En Zhu, Zhe Liu, Lu Zhou: <i><u>Auto-weighted Multi-view Clustering for Large-scale Data</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xinhang Wan, <b>Xinwang Liu</b>, Jiyuan Liu, Siwei Wang ,Yi Wen, Weixuan Liang,  En Zhu, Zhe Liu, Lu Zhou: <i><u>Auto-weighted Multi-view Clustering for Large-scale Data</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A) </li></p>
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, Wenxuan Tu, Qun Zheng, <b>Xinwang Liu</b>, Liming Fang, En Zhu: <i><u>Cluster-guided Contrastive Graph Clustering Network</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A) </li></p>
   
