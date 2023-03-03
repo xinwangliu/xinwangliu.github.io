@@ -3,6 +3,8 @@
 ## 2023
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jiyuan Liu, <b> Xinwang Liu</b>, Yuexiang Yang, Qing Liao, Yuanqing Xia: <i><u>Contrastive Multi-view Kernel Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) </li></p>  
+  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Peng Zhou, Bicheng Sun, <b>Xinwang Liu</b>, Liang Du, Xuejun Li: <i><u>Active Clustering Ensemble with Self-paced Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in March 2023) </li></p> 
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Sihang Zhou, Wang Li, Xihong Yang, <b>Xinwang Liu</b>, En Zhu: <i><u>Task-Related Saliency for Few-Shot Image Classification</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in February 2023) </li></p> 
