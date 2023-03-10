@@ -28,7 +28,11 @@ menu:
   - text: Brief Bio
     link: /Brief-Bio
     icon: ""
-
+    
+  - text: Publications
+    link: /Publications
+    icon: ""
+    
   - text: Under Review
     link: /Under-Review
     icon: ""
