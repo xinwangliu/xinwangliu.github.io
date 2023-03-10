@@ -7,7 +7,7 @@ In recent years, <b> Xinwang Liu</b> has been working on clustering analysis int
 
 Please drop him a message if you also have interests with him by email: <u>xinwangliu@nudt.edu.cn</u> or <u>1022xinwang.liu@gmail.com</u>.
 
-Curriculum Vitae: [[CV]](https://docs.qq.com/pdf/DSGZqelFWUGtuTnVF?)
+Curriculum Vitae: [[CV]](https://xinwangliu.github.io/CV(Xinwang%20Liu).pdf)
 
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
