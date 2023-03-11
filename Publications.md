@@ -1,9 +1,25 @@
 # Publications
 
 
-
+##Representative Researches (5 papers)
 <ol>
-  
+<p style="margin-top: 8px;"><li></font> (1) <b>Xinwang Liu*#</b>: Hyperparameter-Free Localized Simple Multiple Kernel K-means with Global Optimum, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022.12, 1-11  (Jornal Publication)</li></p>  
+<p style="margin-top: 8px;"><li></font> (2) <b>Xinwang Liu*#</b>: SimpleMKKM: Simple Multiple Kernel K-means, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022.8, 1-13  (Jornal Publication)</li></p>  
+<p style="margin-top: 8px;"><li></font> (3) <b>Xinwang Liu*#</b>: Incomplete Multiple Kernel Alignment Maximization for Clustering, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2021.10, 1-13  (Jornal Publication)</li></p>  
+<p style="margin-top: 8px;"><li></font> (4) <b>Xinwang Liu*#</b>, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft, En Zhu: Efficient and Effective Regularized Incomplete Multi-view Clustering, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2021, 43(8): 2634-2646  (Jornal Publication)</li></p>  
+<p style="margin-top: 8px;"><li></font> (5) <b>Xinwang Liu*#</b>, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, Jiyuan Liu, Yi Zhang, En Zhu: One Pass Late Fusion Multi-view Clustering, <i>International Conference on Machine Learning (ICML)</i></font>, 2021-7-17 to 2021-7-23  (Conference Publication)</li></p>  
+</ol>
 
-
+##Other Representative Researches (10 papers)
+<ol>
+<p style="margin-top: 8px;"><li></font> (1) <b>Xinwang Liu*#</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang, Wen Gao: Late Fusion Incomplete Multi-View Clustering, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2019, 41(10): 2410-2423  (Jornal Publication)</li></p>  
+<p style="margin-top: 8px;"><li></font> (2) <b>Xinwang Liu#</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: Multiple Kernel k-means with Incomplete Kernels, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2020, 42(5): 1191-1204  (Jornal Publication)</li></p>  
+<p style="margin-top: 8px;"><li></font> (3) <b>Xinwang Liu#</b>, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: Absent Multiple Kernel Learning Algorithms, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2020, 42(6): 1303-1316  (Jornal Publication)</li></p> 
+<p style="margin-top: 8px;"><li></font> (4) Jiyuan Liu, <b>Xinwang Liu*</b>, Yuexiang Yang, Qing Liao, Yuanqing Xia: Contrastive Multi-view Kernel Learning, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2023  (Jornal Publication)</li></p>
+<p style="margin-top: 8px;"><li></font> (5) Chang Tang, <b>Xinwang Liu*</b>, Xiao Zheng, Wanqing Li, Jian Xiong, Lizhe Wang, Albert Zomaya, Antonella Longo:DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Discriminative Multi-Scale Deep Features, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022,44(2), 955-968  (Jornal Publication)</li></p>
+<p style="margin-top: 8px;"><li></font> (6) Siqi Wang, Yijie Zeng, Guang Yu, Zhen Cheng, <b>Xinwang Liu*</b>, Sihang Zhou, En Zhu, Marius Kloft, Jianping Yin, Qing Liao: E3Outlier: A Self-supervised Framework for Unsupervised Deep Outlier Detection, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022,45(3), 2952-2969  (Jornal Publication)</li></p>
+<p style="margin-top: 8px;"><li></font> (7) Xifeng Guo, <b>Xinwang Liu*</b>, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, Jianping Yin: Adaptive Self-Paced Deep Clustering with Data Augmentation, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2020,32(9), 1680-1693  (Jornal Publication)</li></p>     
+<p style="margin-top: 8px;"><li></font> (8) Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network, <i>Advances in NeuralInformation Processing Systems (NeurIPS)</i></font>, Vancouver, Canada, 2019-12-8 to 2019-12-14 (Conference Publication)</li></p>
+<p style="margin-top: 8px;"><li></font> (9) Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu: Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences, <i>Advances in NeuralInformation Processing Systems (NeurIPS)</i></font>, New Orleans, USA, 2022-11-28 to 2022-12-04 (Conference Publication)</li></p>
+<p style="margin-top: 8px;"><li></font> (10) Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Sihang Zhou, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang, En Zhu: Stability and Generalization of Kernel Clustering: from Single Kernel to Multiple Kernel, <i>Advances in NeuralInformation Processing Systems (NeurIPS)</i></font>, New Orleans, USA, 2022-11-28 to 2022-12-04 (Conference Publication</li></p>
 </ol>
