@@ -3,10 +3,11 @@
 
 ## 近5年内发表的代表性论著：(5篇)
 <ol>
+
   
 <p style="margin-top: 8px;"><li> <b>Xinwang Liu</b>: <i><u>Hyperparameter-Free Localized Simple Multiple Kernel K-means with Global Optimum</u></i>, <font color="green"><i>  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022.12, 1-11. <a href = "https://xinwangliu.github.io/papers/1_1_XinwangLiu_TPAMI22.pdf">[PDF]</a> </li></p>  
   
-<p style="margin-top: 8px;"><li> <b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means</u></i>, <font color="green"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022.8, 1-13. </li></p> 
+<p style="margin-top: 8px;"><li> <b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means</u></i>, <font color="green"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2022.8, 1-13. <a href = "https://xinwangliu.github.io/document/SimpleMKKM.pdf">[PDF]</a></li></p> 
   
 <p style="margin-top: 8px;"><li> <b>Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>, <font color="green"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2021.10, 1-13. <a href = "https://xinwangliu.github.io/papers/1_3_XinwangLiu_TPAMI21.pdf">[PDF]</a> </li></p>  
   
