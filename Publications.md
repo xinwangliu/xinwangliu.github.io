@@ -19,7 +19,7 @@
 ## 已发表的其余论著：(10篇)
 <ol>
   
-<p style="margin-top: 8px;"><li> <b>Xinwang Liu*#</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang, Wen Gao: <i><u>Late Fusion Incomplete Multi-View Clustering</u></i>, <font color="green"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2019, 41(10): 2410-2423. <a href = "https://xinwangliu.github.io/papers/2_1_XinwangLiu_TPAMI19.pdf">[PDF]</a>  </li></p>  
+<p style="margin-top: 8px;"><li> <b>Xinwang Liu#</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang, Wen Gao: <i><u>Late Fusion Incomplete Multi-View Clustering</u></i>, <font color="green"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2019, 41(10): 2410-2423. <a href = "https://xinwangliu.github.io/papers/2_1_XinwangLiu_TPAMI19.pdf">[PDF]</a>  </li></p>  
 
 <p style="margin-top: 8px;"><li> <b>Xinwang Liu#</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: <i><u>Multiple Kernel k-means with Incomplete Kernels</u></i>, <font color="green"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i></font>, 2020, 42(5): 1191-1204. <a href = "https://xinwangliu.github.io/papers/2_2_XinwangLiu_TPAMI20.pdf">[PDF]</a>  </li></p>  
 
