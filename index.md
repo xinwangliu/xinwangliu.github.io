@@ -6,6 +6,8 @@ layout: default
 
 <ul>
    
+ <p style="margin-top: 6px;"><li>[<font color="red">March 27, 2023</font>] "<b>Missingness-pattern-adaptive Learning with Incomplete Data</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p> 
+   
  <p style="margin-top: 6px;"><li>[<font color="red">March 2, 2023</font>] "<b>Contrastive Multi-view Kernel Learning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>  
    
   <p style="margin-top: 6px;"><li>[<font color="red">March 1, 2023</font>]  "<b>Active Clustering Ensemble with Self-paced Learning</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
