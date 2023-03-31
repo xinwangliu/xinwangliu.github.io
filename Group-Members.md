@@ -24,7 +24,7 @@
           </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/xingchen.jpg"></div>
-            <div><a href="https://github.com/ownseven">  Xingchen Hu </a> </div>
+            <div><a href="https://github.com/ownseven">Xingchen Hu</a> </div>
             <div> Postdoctoral </div>
           </td>
           <td width="20%" style="padding-right:30px">
