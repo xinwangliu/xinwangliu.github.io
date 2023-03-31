@@ -165,7 +165,7 @@
           </td>
                         
                         
- # Alumni:
+ ## Alumni:
                         
  <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
@@ -181,7 +181,7 @@
           </td>
     <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/liusuyuan.jpg"></div>
-            <div> <a href="https://tracesource.github.io//">Chen Zhang</a></div>
+            <div> <a href="https://tracesource.github.io//">XXX</a></div>
             <div> Master student </div>
           </td>  
         <td width="20%" style="padding-right:30px">
@@ -200,7 +200,7 @@
  		<tbody><tr valign="top" align="center">
     <td width="20%" style="padding-right:30px">
             <div> <img width="147" height="185" src="./groupmember/zhangchen.jpg"></div>
-            <div> <a href="https://zctalk.github.io/">Chen Zhang</a></div>
+            <div> <a href="https://zctalk.github.io/">CCCC</a></div>
             <div> Master student </div>
           </td>
     <td width="20%" style="padding-right:30px">
