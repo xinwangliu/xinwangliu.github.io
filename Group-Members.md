@@ -208,7 +208,7 @@
  		<tbody><tr valign="top" align="center">
              <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/menglingyuan.jpg"></div>
-            <div> Lingyuan Meng</div>
+            <div><a href="https://mgithubl.github.io/">Lingyuan Meng</a></div>
             <div> Master student </div>
           </td>
         <td width="20%" style="padding-right:30px">
