@@ -138,7 +138,7 @@
   <table width="90%" border="0" align="left" cellspacing="30">
  		<tbody><tr valign="top" align="center">
      <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/liusuyuan.jpg"></div>
+            <div> <img width="140" height="185" src="./groupmember/yushengju.jpg"></div>
             <div> Shengju Yu</div>
             <div> PhD student </div>
           </td>  
