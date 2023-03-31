@@ -228,52 +228,10 @@
           </td>
                         
 
- ## Alumni:
+Alumni: Mingjie Luo (2022), Chen Zhang (2022), Tiejian Zhang (2022), Jianyang Zhai (2022), Mengjing Sun (2022), Bo Yan (2022), Junqi Liu (2022), Lei Gong (2023).
                         
- <table width="90%" border="0" align="left" cellspacing="30">
- 		<tbody><tr valign="top" align="center">
-        <td width="20%" style="padding-right:30px">
-            <div> <img width="132" height="185" src="./groupmember/luomingjie.jpg"></div>
-            <div> <a href="https://miracle0614.github.io/">Mingjie Luo</a></div>
-            <div> Master student </div>
-          </td>
-    <td width="20%" style="padding-right:30px">
-            <div> <img width="147" height="185" src="./groupmember/zhangchen.jpg"></div>
-            <div> <a href="https://zctalk.github.io/">Chen Zhang</a></div>
-            <div> Master student </div>
-          </td>
-        <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/zhangtiejian.jpg"></div>
-            <div> <a href="https://tiejianzhang.github.io/">Tiejian Zhang</a></div>
-            <div> Master student </div>
-          </td>
-    <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/zhangjunpu.jpg"></div>
-            <div> <a href="https://junpuzhang.github.io">Junpu Zhang</a></div>
-            <div> Master student </div>
-          </td>                        
-           <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/zhaijianyang.jpg"></div>
-            <div> <a href="https://zhaijianyang.github.io/">Jianyang Zhai</a></div>
-            <div> Master student </div>
-          </td>
-    <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/gonglei.jpg"></div>
-            <div> <a href="https://gongleii.github.io">Lei Gong</a></div>
-            <div> Master student </div>
-          </td>                 
- 
- <table width="90%" border="0" align="left" cellspacing="30">
- 		<tbody><tr valign="top" align="center">
-    <td width="20%" style="padding-right:30px">
-            <div> <img width="120" height="185" src="./groupmember/sunmengjing.jpg"></div>
-            <div> <a href="https://mengjingsun.github.io//">Mengjing Sun</a> </div>
-            <div> Master student </div>
-          </td>
-     <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/yanbo.jpg"></div>
-            <div> <a href="https://bysen32.github.io/">Bo Yan</a></div>
-            <div> Master student </div>
-          </td>
 
+
+
+              
                         
