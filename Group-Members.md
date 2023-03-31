@@ -144,7 +144,7 @@
           </td>  
         <td width="20%" style="padding-right:30px">
             <div> <img width="132" height="185" src="./groupmember/yangxihong.jpg"></div>
-            <div>Xihong Yang</div>
+            <div><a href="https://xihongyang1999.github.io/">Xihong Yang</a></div>
             <div> PhD student </div>
           </td>
     <td width="20%" style="padding-right:30px">
