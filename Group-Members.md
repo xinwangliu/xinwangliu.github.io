@@ -119,7 +119,7 @@
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/yuhao.jpg"></div>
+            <div> <img width="130" height="185" src="./groupmember/yuhao.png"></div>
             <div>Hao Yu</div>
             <div> PhD student </div>
           </td>
@@ -222,7 +222,7 @@
             <div> Master student </div>
           </td>
      <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/zhangjunpu.jpg"></div>
+            <div> <img width="140" height="185" src="./groupmember/linxiang.jpg"></div>
             <div> Xiang Lin</div>
             <div> Master student </div>
           </td>
