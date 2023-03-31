@@ -180,7 +180,7 @@
           </td>
         <td width="20%" style="padding-right:30px">
             <div> <img width="132" height="185" src="./groupmember/duanjingcan.jpg"></div>
-            <div> Jingcan Duan</div>
+            <div><a href="https://felixdjc.github.io/">Jingcan Duan</a></div>
             <div> Master student </div>
           </td>
     <td width="20%" style="padding-right:30px">
