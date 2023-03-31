@@ -119,7 +119,7 @@
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/yanbo.jpg"></div>
+            <div> <img width="130" height="185" src="./groupmember/yuhao.jpg"></div>
             <div>Hao Yu</div>
             <div> PhD student </div>
           </td>
