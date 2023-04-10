@@ -6,13 +6,14 @@ layout: default
 
 <ul>
    
- 
-   <p style="margin-top: 6px;"><li>[<font color="red">April 5, 2023</font>] "<b>Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning</b>" has been accepted by <font color="green">The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</font>.</li></p> 
+  <p style="margin-top: 6px;"><li>[<font color="red">April 8, 2023</font>] "<b>Multi-view Bipartite Graph Clustering with Coupled Noisy Feature Filter</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+   
+  <p style="margin-top: 6px;"><li>[<font color="red">April 5, 2023</font>] "<b>Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning</b>" has been accepted by <font color="green">The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</font>.</li></p> 
     
    
   <p style="margin-top: 6px;"><li>[<font color="red">March 27, 2023</font>] "<b>Missingness-pattern-adaptive Learning with Incomplete Data</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p> 
    
- <p style="margin-top: 6px;"><li>[<font color="red">March 2, 2023</font>] "<b>Contrastive Multi-view Kernel Learning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>  
+  <p style="margin-top: 6px;"><li>[<font color="red">March 2, 2023</font>] "<b>Contrastive Multi-view Kernel Learning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>  
    
   <p style="margin-top: 6px;"><li>[<font color="red">March 1, 2023</font>]  "<b>Active Clustering Ensemble with Self-paced Learning</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
    
