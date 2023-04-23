@@ -5,6 +5,7 @@ layout: default
 # News
 
 <ul>
+  <p style="margin-top: 6px;"><li>[<font color="red">April 22, 2023</font>]  "<b>Simple Contrastive Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
    
   <p style="margin-top: 6px;"><li>[<font color="red">April 8, 2023</font>] "<b>Multi-view Bipartite Graph Clustering with Coupled Noisy Feature Filter</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
    
