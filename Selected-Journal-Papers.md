@@ -3,7 +3,7 @@
 ## 2023
 <ol>
 
-   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Siwei Wang, Ke Liang, Wenxuan Tu, Liang Li: <i><u>Simple Contrastive Graph Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in April 2023) </li></p>
+   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Siwei Wang, Ke Liang, Wenxuan Tu, Liang Li: <i><u>Simple Contrastive Graph Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in April 2023) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Liang Li, Junpu Zhang, Siwei Wang, <b>Xinwang Liu</b>, Kenli Li, and Keqin Li: <i><u>Multi-view Bipartite Graph Clustering with Coupled Noisy Feature Filter</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering  (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in April 2023) </li></p>
  
