@@ -5,7 +5,8 @@ layout: default
 # News
 
 <ul>
-
+ <p style="margin-top: 6px;"><li>[<font color="red">June 1, 2023</font>] "<b>Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>  
+  
   <p style="margin-top: 6px;"><li>[<font color="red">April 25, 2023</font>] <b>Two papers</b> have been accepted by <font color="green"> The Fortieth International Conference on Machine Learning (ICML 2023)</font>.</li></p>  
   
   <p style="margin-top: 6px;"><li>[<font color="red">April 22, 2023</font>]  "<b>Simple Contrastive Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
