@@ -114,12 +114,12 @@
             <div> PhD student </div>
           </td>
     <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/liumeng.jpg"></div>
+            <div> <img width="135" height="185" src="./groupmember/liumeng.jpg"></div>
             <div> <a href="https://mgithubl.github.io/">Meng Liu</a> </div>
             <div> PhD student </div>
           </td>
      <td width="20%" style="padding-right:30px">
-            <div> <img width="140" height="185" src="./groupmember/yuhao.png"></div>
+            <div> <img width="145" height="185" src="./groupmember/yuhao.png"></div>
             <div> <a href="https://yuhaoooo.github.io/">Hao Yu</a></div>
             <div> PhD student </div>
           </td>
