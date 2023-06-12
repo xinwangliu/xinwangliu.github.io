@@ -3,7 +3,7 @@
 ## 2023
 <ol>
 
-    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font>Yi Wen, Siwei Wang, Qing Liao, Weixuan Liang, Ke Liang, Xinhang Wan, and <b>Xinwang Liu</b>: <i><u>Unpaired Multi-View Graph Clustering with Cross-View Structure Matching</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in June 2023) </li></p> 
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font>Yi Wen, Siwei Wang, Qing Liao, Weixuan Liang, Ke Liang, Xinhang Wan, and <b>Xinwang Liu</b>: <i><u>Unpaired Multi-View Graph Clustering with Cross-View Structure Matching</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in June 2023) </li></p> 
    
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font>Miaomiao Li, Qing Liao, Yi Zhang, Chuan Ma, Zhe Liu, Suyuan Liu, Jianping Yin, and <b>Xinwang Liu</b>: <i><u>Regularized Simple Multiple Kernel K-means with Kernel Average Alignment</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in June 2023) </li></p> 
    
