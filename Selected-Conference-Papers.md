@@ -3,7 +3,7 @@
 ## 2023
 
 <ol>
-  
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Zhibin Dong, Jiaqi Jin, Siwei Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering </u></i>. <font color="green">ICCV 2023</font>. (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Chuan Ma, Yunping Zhao, Zhe Liu, En Zhu: <i><u>Consistency of Multiple Kernel Clustering</u></i>. <font color="green">ICML 2023</font>. (CCF Rank A) </li></p>
   
