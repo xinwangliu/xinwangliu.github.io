@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-  <p style="margin-top: 6px;"><li>[<font color="red">July 18, 2021</font>]  <b>One paper</b> has been accepted by <font color="green">IEEE International Conference on Computer Vision (ICCV) 2023</font>.</li></p>
+  <p style="margin-top: 6px;"><li>[<font color="red">July 18, 2021</font>]  <b>Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering</b> has been accepted by <font color="green">IEEE International Conference on Computer Vision (ICCV) 2023</font>.</li></p>
  
    <p style="margin-top: 6px;"><li>[<font color="red">July 11, 2023</font>] "<b>Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>   
  
