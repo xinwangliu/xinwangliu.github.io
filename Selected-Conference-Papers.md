@@ -10,7 +10,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, Suyuan Liu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>DealMVC: Dual Contrastive Calibration for Multi-view Clustering</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, WenxuanTu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Zhibin Dong, Jiaqi Jin, Siwei Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering</u></i>. <font color="green">ICCV 2023</font>. (CCF Rank A)</li></p>
 
