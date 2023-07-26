@@ -4,7 +4,11 @@
 
 <ol>
 
-[] : .  . (CCF Rank A)
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Cheng Tan, Yue Liu, Ke Liang, Siwei Wang, Sihang Zhou, Jun Xia, Stan Z. Li, <b>Xinwang Liu</b>, En Zhu: <i><u>DealMVC: Dual Contrastive Calibration for Multi-view Clustering</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, Yi Wen, Suyuan Liu, Sihang Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>DealMVC: Dual Contrastive Calibration for Multi-view Clustering</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, WenxuanTu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
  
