@@ -4,7 +4,7 @@
 
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yue Liu, Ke Liang, Jun Xia, Xihong Yang, Sihang Zhou, Meng Liu, Xinwang Liu, and Stan Z. Li: <i><u>Reinforcement Graph Clustering with Unknown Cluster Number</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yue Liu, Ke Liang, Jun Xia, Xihong Yang, Sihang Zhou, Meng Liu, <b>Xinwang Liu</b>, and Stan Z. Li: <i><u>Reinforcement Graph Clustering with Unknown Cluster Number</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Jingcan Duan, Pei Zhang, Siwei Wang, Jingtao Hu, Hu Jin, Jiaxin Zhang, Haifang Zhou, <b>Xinwang Liu</b>: <i><u>Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
