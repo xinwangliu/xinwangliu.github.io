@@ -3,7 +3,9 @@
 ## 2023
 
 <ol>
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Zhibin Dong, Jiaqi Jin, Siwei Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering </u></i>. <font color="green">ICCV 2023</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Zhibin Dong, Jiaqi Jin, Siwei Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering </u></i>. <font color="green">ICCV 2023</font>. (CCF Rank A)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Jiaqi Jin, Siwei Wang, Zhibin Dong, <b>Xinwang Liu</b>, En Zhu: <i><u>Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment</u></i>. <font color="green">CVPR 2023</font>. (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Chuan Ma, Yunping Zhao, Zhe Liu, En Zhu: <i><u>Consistency of Multiple Kernel Clustering</u></i>. <font color="green">ICML 2023</font>. (CCF Rank A) </li></p>
   
@@ -19,8 +21,6 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Zhen Wang, Ke Liang, Wenxuan Tu, Liang Li, Jingcan Duan, Cancan Chen: <i><u> Hard Sample Aware Network for Contrastive Deep Graph Clustering</u></i>. <font color="green">AAAI 2023</font> (CCF Rank A)<a href = "https://arxiv.org/pdf/2212.08665">[PDF]</a><a href = "https://github.com/yueliu1999/HSAN">[Code]</a> </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Siwei Wang, Liang Li, Changwang Zhang, <b>Xinwang Liu</b>, En Zhu, Zhe Liu, Lu Zhou, Lei Luo: <i><u>Let the data choose: Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A)</li></p>
-  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Jiaqi Jin, Siwei Wang, Zhibin Dong, <b>Xinwang Liu</b>, En Zhu: <i><u>Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment</u></i>. <font color="green">CVPR 2023</font>. (CCF Rank A)</li></p>
   
 </ol>
 
