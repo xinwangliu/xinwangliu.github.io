@@ -4,7 +4,9 @@
 
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yi Wen, Siwei Wang, Ke Liang, Weixuan Liang, Xinhang Wan, <b>Xinwang Liu</b>, Suyuan Liu, Jiyuan Liu, and En Zhu: <i><u>Scalable Incomplete Multi-View Clustering with Structure Alignment</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yi Wen, Suyuan Liu, Xinhang Wan, Siwei Wang, Ke Liang, <b>Xinwang Liu</b>, Xihong Yang, and Pei Zhang: <i><u>Efficient Multi-View Graph Clustering with Local and Global Structure Preservation</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Cheng Tan, Yue Liu, Ke Liang, Siwei Wang, Sihang Zhou, Jun Xia, Stan Z. Li, <b>Xinwang Liu</b>, En Zhu: <i><u>CONVERT: Contrastive Graph Clustering with Reliable Augmentation</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
