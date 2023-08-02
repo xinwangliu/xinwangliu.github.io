@@ -18,7 +18,7 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yongshun Gong, Zhibin Li, Wei Liu, Xiankai Lu, <b>Xinwang Liu</b>, Ivor W. Tsang, and Yilong Yin: <i><u>Missingness-pattern-adaptive Learning with Incomplete Data</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) </li></p>
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jiyuan Liu, <b> Xinwang Liu</b>, Yuexiang Yang, Qing Liao, Yuanqing Xia: <i><u>Contrastive Multi-view Kernel Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) </li></p>  
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jiyuan Liu, <b> Xinwang Liu</b>, Yuexiang Yang, Qing Liao, Yuanqing Xia: <i><u>Contrastive Multi-view Kernel Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) <a href = "https://github.com/liujiyuan13/CMK-code_release">[Code]</a></li></p>  
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Peng Zhou, Bicheng Sun, <b>Xinwang Liu</b>, Liang Du, Xuejun Li: <i><u>Active Clustering Ensemble with Self-paced Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in March 2023) </li></p> 
   
