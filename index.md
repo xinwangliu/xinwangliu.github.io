@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">August 27, 2023</font>] "<b>Improving Embedding Generalization in Few-Shot Learning with Instance Neighbor Constraints</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p> 
+
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2023</font>] <b>Eight papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2023</font>.</li></p>  
  
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2023</font>] "<b>Video Anomaly Detection via Visual Cloze Tests</b>" has been accepted by <font color="green">IEEE Transactions on Information Forensics & Security (IEEE TIFS)</font>.</li></p>  
