@@ -2,6 +2,9 @@
 
 ## 2023
 <ol>
+
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhenyu Zhou, Lei Luo, Qing Liao, Xinwang Liu, En Zhu: <i><u>Improving Embedding Generalization in Few-Shot Learning with Instance Neighbor Constraints</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in August 2023) (CCF Rank A) </li></p >
+  
   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b>, En Zhu, and Jianping Yin: <i><u>Video Anomaly Detection via Visual Cloze Tests</u></i>. <font color="green">IEEE Transactions on Information Forensics & Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in July 2023) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Chunpeng Ge, Zhiping Cai, and Yue Liu: <i><u>Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in July 2023) </li></p> 
