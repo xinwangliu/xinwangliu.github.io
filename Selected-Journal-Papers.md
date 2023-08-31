@@ -2,12 +2,14 @@
 
 ## 2023
 <ol>
-
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jingcan Duan, Bin Xiao, Siwei Wang, Haifang Zhou, and <b>Xinwang Liu</b>: <i><u>ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
+ 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhibin Dong, Jiaqi Jin, Yuyang Xiao, Siwei Wang, Xinzhong Zhu, <b>Xinwang Liu</b>, and En Zhu: <i><u>Iterative Deep Structural Graph Contrast Clustering for Multi-view Raw Data</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
  
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhenyu Zhou, Lei Luo, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Improving Embedding Generalization in Few-Shot Learning with Instance Neighbor Constraints</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in August 2023) (CCF Rank A) </li></p >
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhenyu Zhou, Lei Luo, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Improving Embedding Generalization in Few-Shot Learning with Instance Neighbor Constraints</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in August 2023) (CCF Rank A) </li></p >
   
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b>, En Zhu, and Jianping Yin: <i><u>Video Anomaly Detection via Visual Cloze Tests</u></i>. <font color="green">IEEE Transactions on Information Forensics & Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in July 2023) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b>, En Zhu, and Jianping Yin: <i><u>Video Anomaly Detection via Visual Cloze Tests</u></i>. <font color="green">IEEE Transactions on Information Forensics & Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in July 2023) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Chunpeng Ge, Zhiping Cai, and Yue Liu: <i><u>Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in July 2023) </li></p> 
  
@@ -17,19 +19,19 @@
    
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, Yi Wen, Xihong Yang, Xiangjun Dong and <b>Xinwang Liu</b>:<i><u> Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in June 2023) </li></p> 
    
-   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Siwei Wang, Ke Liang, Wenxuan Tu, Liang Li: <i><u>Simple Contrastive Graph Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in April 2023) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Xihong Yang, Sihang Zhou, <b>Xinwang Liu</b>, Siwei Wang, Ke Liang, Wenxuan Tu, Liang Li: <i><u>Simple Contrastive Graph Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in April 2023) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Liang Li, Junpu Zhang, Siwei Wang, <b>Xinwang Liu</b>, Kenli Li, and Keqin Li: <i><u>Multi-view Bipartite Graph Clustering with Coupled Noisy Feature Filter</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering  (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in April 2023) </li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yongshun Gong, Zhibin Li, Wei Liu, Xiankai Lu, <b>Xinwang Liu</b>, Ivor W. Tsang, and Yilong Yin: <i><u>Missingness-pattern-adaptive Learning with Incomplete Data</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yongshun Gong, Zhibin Li, Wei Liu, Xiankai Lu, <b>Xinwang Liu</b>, Ivor W. Tsang, and Yilong Yin: <i><u>Missingness-pattern-adaptive Learning with Incomplete Data</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jiyuan Liu, <b> Xinwang Liu</b>, Yuexiang Yang, Qing Liao, Yuanqing Xia: <i><u>Contrastive Multi-view Kernel Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2023) <a href = "https://github.com/liujiyuan13/CMK-code_release">[Code]</a></li></p>  
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Peng Zhou, Bicheng Sun, <b>Xinwang Liu</b>, Liang Du, Xuejun Li: <i><u>Active Clustering Ensemble with Self-paced Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in March 2023) </li></p> 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Peng Zhou, Bicheng Sun, <b>Xinwang Liu</b>, Liang Du, Xuejun Li: <i><u>Active Clustering Ensemble with Self-paced Learning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in March 2023) </li></p> 
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Sihang Zhou, Wang Li, Xihong Yang, <b>Xinwang Liu</b>, En Zhu: <i><u>Task-Related Saliency for Few-Shot Image Classification</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in February 2023) </li></p> 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Sihang Zhou, Wang Li, Xihong Yang, <b>Xinwang Liu</b>, En Zhu: <i><u>Task-Related Saliency for Few-Shot Image Classification</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in February 2023) </li></p> 
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yu Hu, Endai Guo, <b>Xinwang Liu</b>, and Hongmin Cai: <i><u> Robust Multi-view Clustering through Partition Integration on Stiefel Manifold</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2023) </li></p> 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yu Hu, Endai Guo, <b>Xinwang Liu</b>, and Hongmin Cai: <i><u> Robust Multi-view Clustering through Partition Integration on Stiefel Manifold</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2023) </li></p> 
 
  </ol>
  
@@ -38,13 +40,12 @@
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGARS]</b></font> Zhenglai Li, Chang Tang, <b> Xinwang Liu</b>, Wei Zhang, Jie Dou, Lizhe Wang, Albert Zomaya: <i><u>Lightweight Remote Sensing Change Detection with Progressive Feature Aggregation and Supervised Attention</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing (<b>TGARS</b>)</font>. (CCF Rank B) (Accepted in December 2022) </li></p>   
   
-  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b> Xinwang Liu</b>: <i><u>Hyperparameter-Free Localized Simple Multiple Kernel K-means with Global Optimum</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p>  
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in December 2022) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, <b>Xinwang Liu</b>, Yi Zhang, and Weixuan Liang: <i><u>Late Fusion Multi-view Clustering via Min-Max Optimization</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in December 2022) </li></p> 
  
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xingchen Hu, <b>Xinwang Liu</b>, Witold Pedrycz, Qing Liao, Yinhua Shen, Yan Li and Siwei Wang: <i><u> Multi-view Fuzzy Classification with Subspace Clustering and Information Granules</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xingchen Hu, <b>Xinwang Liu</b>, Witold Pedrycz, Qing Liao, Yinhua Shen, Yan Li and Siwei Wang: <i><u> Multi-view Fuzzy Classification with Subspace Clustering and Information Granules</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in December 2022) </li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Suyuan Liu, <b>Xinwang Liu</b>, Siwei Wang, Xin Niu, En Zhu: <i><u> Fast Incomplete Multi-view Clustering with View-independent Anchors</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>. (CCF Rank B) (Accepted in November 2022) </li></p>  
  
