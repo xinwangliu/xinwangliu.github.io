@@ -7,7 +7,7 @@ layout: default
 <ul>
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">August 31, 2023</font>] "<b>How to Construct Corresponding Anchors for Incomplete Multiview Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">September 3, 2023</font>] "<b>How to Construct Corresponding Anchors for Incomplete Multiview Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 31, 2023</font>] "<b>ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
