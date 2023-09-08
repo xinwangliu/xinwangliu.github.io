@@ -27,7 +27,7 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Yong Liu, Chuan Ma, Yunping Zhao, Zhe Liu, En Zhu: <i><u>Consistency of Multiple Kernel Clustering</u></i>. <font color="green">ICML 2023</font>. (CCF Rank A) </li></p>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Yue Liu, KE LIANG, Jun Xia, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Stan Z. Li: <i><u>Dink-Net: Neural Clustering on Large Graphs</u></i>. <font color="green">ICML 2023</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Yue Liu, Ke Liang, Jun Xia, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Stan Z. Li: <i><u>Dink-Net: Neural Clustering on Large Graphs</u></i>. <font color="green">ICML 2023</font>. (CCF Rank A) </li></p>
   
   
   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SIGIR]</b></font> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning</u></i>. <font color="green">SIGIR 2023</font>. (CCF Rank A) </li></p>
