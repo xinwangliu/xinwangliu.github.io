@@ -2,6 +2,8 @@
 
 ## 2023
 <ol>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jiayi Tang, Yuping Lai, and <b>Xinwang Liu</b>: <i><u>Multi-view Spectral Clustering based on Consensus Neighbor Strategy</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
+ 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Shengju Yu, Siwei Wang, Yi Wen, Ziming Wang, Zhigang Luo, En Zhu, and <b>Xinwang Liu</b>: <i><u>How to Construct Corresponding Anchors for Incomplete Multiview Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (Accepted in September 2023) (CCF Rank B) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jingcan Duan, Bin Xiao, Siwei Wang, Haifang Zhou, and <b>Xinwang Liu</b>: <i><u>ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
