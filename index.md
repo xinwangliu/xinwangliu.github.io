@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">September 24, 2023</font>] "<b>Multi-view Spectral Clustering based on Consensus Neighbor Strategy</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">September 22, 2023</font>] <b>Two papers</b> have been accepted by <font color="green"> 37th Conference on Neural Information Processing Systems (NeurIPS 2023)</font>.</li></p> 
  
 <p style="margin-top: 6px;"><li>[<font color="red">September 3, 2023</font>] "<b>How to Construct Corresponding Anchors for Incomplete Multiview Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
