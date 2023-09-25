@@ -5,7 +5,7 @@
 <ol>
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siqi Shen, Chennan Ma, Chao Li, Weiquan Liu, Yongquan Fu, Songzhu Mei, <b>Xinwang Liu</b>, Cheng Wang: <i><u> RiskQ: Risk-sensitive Multi-Agent Reinforcement Learning Value Factorization </u></i>. <font color="green">NeurIPS 2023</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yufeng Zhang, Jialu Pan, Wanwei Liu, Zhenbang Chen, <b>Xinwang Liu</b>, J Wang, Kenli Li: <i><u> On the Properties of Kullback-Leibler Divergence Between Multivariate Gaussian Distributions </u></i>. <font color="green">NeurIPS 2023</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yufeng Zhang, Jialu Pan, Wanwei Liu, Zhenbang Chen, <b>Xinwang Liu</b>, Ji Wang, Kenli Li: <i><u> On the Properties of Kullback-Leibler Divergence Between Multivariate Gaussian Distributions </u></i>. <font color="green">NeurIPS 2023</font>. (CCF Rank A)</li></p>
   
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yue Liu, Ke Liang, Jun Xia, Xihong Yang, Sihang Zhou, Meng Liu, <b>Xinwang Liu</b>, and Stan Z. Li: <i><u>Reinforcement Graph Clustering with Unknown Cluster Number</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
