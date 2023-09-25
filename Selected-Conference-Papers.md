@@ -3,11 +3,13 @@
 ## 2023
 
 <ol>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siqi Shen, Chennan Ma, Chao Li, Weiquan Liu, Yongquan Fu, Songzhu Mei, <b>Xinwang Liu</b>, Cheng Wang: <i><u> RiskQ: Risk-sensitive Multi-Agent Reinforcement Learning Value Factorization </u></i>. <font color="green">NeurIPS 2023</font>. (CCF Rank A)</li></p>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yufeng Zhang, Jialu Pan, Wanwei Liu, Zhenbang Chen, <b>Xinwang Liu</b>, J Wang, Kenli Li: <i><u> On the Properties of Kullback-Leibler Divergence Between Multivariate Gaussian Distributions </u></i>. <font color="green">NeurIPS 2023</font>. (CCF Rank A)</li></p>
+  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yue Liu, Ke Liang, Jun Xia, Xihong Yang, Sihang Zhou, Meng Liu, <b>Xinwang Liu</b>, and Stan Z. Li: <i><u>Reinforcement Graph Clustering with Unknown Cluster Number</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Jingcan Duan, Pei Zhang, Siwei Wang, Jingtao Hu, Hu Jin, Jiaxin Zhang, Haifang Zhou, <b>Xinwang Liu</b>: <i><u>Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
-
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xin Zou, Chang Tang, Xiao Zheng, Zhenglai Li, Xiao He, Shan An, and <b>Xinwang Liu</b>: <i><u>DPNET: Dynamic Poly-attention Network for Trustworthy Multi-modal Classification</u></i>. <font color="green">ACM MM 2023</font>. (CCF Rank A)</li></p>
 
@@ -29,8 +31,7 @@
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Yue Liu, Ke Liang, Jun Xia, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Stan Z. Li: <i><u>Dink-Net: Neural Clustering on Large Graphs</u></i>. <font color="green">ICML 2023</font>. (CCF Rank A) </li></p>
   
-  
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SIGIR]</b></font> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning</u></i>. <font color="green">SIGIR 2023</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SIGIR]</b></font> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning</u></i>. <font color="green">SIGIR 2023</font>. (CCF Rank A) </li></p>
   
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Xinhang Wan, <b>Xinwang Liu</b>, Jiyuan Liu, Siwei Wang ,Yi Wen, Weixuan Liang,  En Zhu, Zhe Liu, Lu Zhou: <i><u>Auto-weighted Multi-view Clustering for Large-scale Data</u></i>. <font color="green">AAAI 2023</font>. (CCF Rank A) </li></p>
   
