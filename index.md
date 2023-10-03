@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-<p style="margin-top: 6px;"><li>[<font color="red">October 2, 2023</font>] "<b>“Partial Clustering Ensemble</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">October 2, 2023</font>] "<b>Partial Clustering Ensemble</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">October 2, 2023</font>] "<b>SAMCL: Subgraph-Aligned Multi-View Contrastive learning for Graph Anomaly Detection</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
