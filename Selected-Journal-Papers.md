@@ -3,7 +3,7 @@
 ## 2023
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Peng Zhou, Liang Du, <b>Xinwang Liu</b>, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen: <i><u>Partial Clustering Ensemble</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2023) </li></p> 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Peng Zhou, Liang Du, <b>Xinwang Liu</b>, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen: <i><u>Partial Clustering Ensemble</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2023) </li></p> 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jingtao Hu, Bin Xiao, Jingcan Duan, Siwei Wang, Zhao Lv, Siqi Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>SAMCL: Subgraph-Aligned Multi-View Contrastive learning for Graph Anomaly Detection</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in October 2023) </li></p> 
 
