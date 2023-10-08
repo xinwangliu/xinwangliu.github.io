@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Xinwang Liu
-subtitle: Professor  <br/>Doctoral Supervisor</br>  <br/> NSFC Distinguished Young Scholar</br>
+subtitle: Professor  <br/>Doctoral Supervisor</br>  <br/>NSFC Distinguished Young Scholar</br>
 
 # left_side:
 background_image: "./assets/XinwangLiu.jpg"
