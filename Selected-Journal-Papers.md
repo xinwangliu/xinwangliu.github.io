@@ -3,6 +3,13 @@
 ## 2023
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> 
+Heyan Chai, Jinhao Cui, Siyu Tang, Ye Ding, <b>Xinwang Liu</b>, Binxin Fang, Qing Liao: <i><u>MG-SIN: Multi-Graph Sparse Interaction Network for Multi-Task Stance Detection</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in October 2023) (CCF Rank B) </li></p >
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> 
+Zhiqiang Pan, Fei Cai, Liu, <b>Xinwang Liu</b>, Honghui Chen: <i><u>Distance-aware Learning for Inductive Link Prediction on Temporal Networks</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in October 2023) (CCF Rank B) </li></p >
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Peng Zhou, Liang Du, <b>Xinwang Liu</b>, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen: <i><u>Partial Clustering Ensemble</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2023) </li></p> 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jingtao Hu, Bin Xiao, Jingcan Duan, Siwei Wang, Zhao Lv, Siqi Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>SAMCL: Subgraph-Aligned Multi-View Contrastive learning for Graph Anomaly Detection</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in September 2023)  </li></p> 
