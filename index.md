@@ -5,6 +5,9 @@ layout: default
 # News
 
 <ul>
+
+<p style="margin-top: 6px;"><li>[<font color="red">November 9, 2023</font>] <b>Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph</b> have been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">October 18, 2023</font>] <b>Two papers</b> have been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
  
