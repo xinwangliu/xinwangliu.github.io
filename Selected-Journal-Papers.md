@@ -3,31 +3,32 @@
 ## 2023
 <ol>
 
-
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Wenxuan Tu, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, <b>Xinwang Liu</b>, Zhiping Cai, Kunlun He: <i><u>RARE: Robust Masked Graph Autoencoder</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in November 2023) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Shengju Yu, Suyuan Liu, Siwei Wang, Chang Tang, Zhigang Luo, <b>Xinwang Liu</b>: <i><u>Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in November 2023) (CCF Rank B) </li></p >
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Heyan Chai, Jinhao Cui, Siyu Tang, Ye Ding, <b>Xinwang Liu</b>, Binxin Fang, Qing Liao: <i><u>MG-SIN: Multi-Graph Sparse Interaction Network for Multi-Task Stance Detection</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in October 2023) (CCF Rank B) </li></p >
 
-
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhiqiang Pan, Fei Cai, <b>Xinwang Liu</b>, Honghui Chen: <i><u>Distance-aware Learning for Inductive Link Prediction on Temporal Networks</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in October 2023) (CCF Rank B) </li></p >
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Peng Zhou, Liang Du, <b>Xinwang Liu</b>, Zhaolong Ling, Xia Ji, Xuejun Li, Yi-Dong Shen: <i><u>Partial Clustering Ensemble</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2023) </li></p> 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGARS]</b></font> Chang Tang, Jun Wang, <b>Xinwang Liu</b>, Weiying Xie, Xianju Li, Wei Zhang, Xinzhong Zhu: <i><u> Spatial and Spectral Structure Preserved Self-representation for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing (<b>TGARS</b>)</font>. (CCF Rank B) (Accepted in October 2023) </li></p> 
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jingtao Hu, Bin Xiao, Jingcan Duan, Siwei Wang, Zhao Lv, Siqi Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>SAMCL: Subgraph-Aligned Multi-View Contrastive learning for Graph Anomaly Detection</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in September 2023)  </li></p> 
 
- 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jiayi Tang, Yuping Lai, <b>Xinwang Liu</b>: <i><u>Multi-view Spectral Clustering based on Consensus Neighbor Strategy</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in September 2023) </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Shengju Yu, Siwei Wang, Yi Wen, Ziming Wang, Zhigang Luo, En Zhu, and <b>Xinwang Liu</b>: <i><u>How to Construct Corresponding Anchors for Incomplete Multiview Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (Accepted in September 2023) (CCF Rank B) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Jingcan Duan, Bin Xiao, Siwei Wang, Haifang Zhou, and <b>Xinwang Liu</b>: <i><u>ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
+
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGARS]</b></font> Xiao He, Chang Tang, <b> Xinwang Liu</b>, Wei Zhang, Kun Sun, Jiangfeng Xu: <i><u> Object Detection in Hyperspectral Image via Unified Spectral-Spatial Feature Aggregation</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing (<b>TGARS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhibin Dong, Jiaqi Jin, Yuyang Xiao, Siwei Wang, Xinzhong Zhu, <b>Xinwang Liu</b>, and En Zhu: <i><u>Iterative Deep Structural Graph Contrast Clustering for Multi-view Raw Data</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in August 2023) </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhenyu Zhou, Lei Luo, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Improving Embedding Generalization in Few-Shot Learning with Instance Neighbor Constraints</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in August 2023) (CCF Rank A) </li></p >
-  
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Guang Yu, Siqi Wang, Zhiping Cai, <b>Xinwang Liu</b>, En Zhu, and Jianping Yin: <i><u>Video Anomaly Detection via Visual Cloze Tests</u></i>. <font color="green">IEEE Transactions on Information Forensics & Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in July 2023) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Chunpeng Ge, Zhiping Cai, and Yue Liu: <i><u>Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in July 2023) </li></p> 
