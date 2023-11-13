@@ -8,12 +8,12 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">November 11, 2023</font>] "<b>RARE: Robust Masked Graph Autoencoder</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
-
 <p style="margin-top: 6px;"><li>[<font color="red">November 9, 2023</font>] "<b>Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">October 18, 2023</font>] <b>Two papers</b> have been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
- 
+<p style="margin-top: 6px;"><li>[<font color="red">October 8, 2023</font>] "<b>Spatial and Spectral Structure Preserved Self-representation for Hyperspectral Band Selection</b>" has been accepted by <font color="green">IEEE Transactions on Geoscience and Remote Sensing (IEEE TGARS)</font>.</li></p>  
+
 <p style="margin-top: 6px;"><li>[<font color="red">October 2, 2023</font>] "<b>Partial Clustering Ensemble</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">September 30, 2023</font>] "<b>SAMCL: Subgraph-Aligned Multi-View Contrastive learning for Graph Anomaly Detection</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
@@ -29,6 +29,8 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">August 29, 2023</font>] "<b>Iterative Deep Structural Graph Contrast Clustering for Multi-view Raw Data</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 27, 2023</font>] "<b>Improving Embedding Generalization in Few-Shot Learning with Instance Neighbor Constraints</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p> 
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 7, 2023</font>] "<b>Object Detection in Hyperspectral Image via Unified Spectral-Spatial Feature Aggregation</b>" has been accepted by <font color="green">IEEE Transactions on Geoscience and Remote Sensing (IEEE TGARS)</font>.</li></p>  
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2023</font>] <b>Eight papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2023</font>.</li></p>  
  
@@ -51,7 +53,6 @@ layout: default
   <p style="margin-top: 6px;"><li>[<font color="red">April 8, 2023</font>] "<b>Multi-view Bipartite Graph Clustering with Coupled Noisy Feature Filter</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
    
   <p style="margin-top: 6px;"><li>[<font color="red">April 5, 2023</font>] "<b>Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning</b>" has been accepted by <font color="green">The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</font>.</li></p> 
-    
    
   <p style="margin-top: 6px;"><li>[<font color="red">March 27, 2023</font>] "<b>Missingness-pattern-adaptive Learning with Incomplete Data</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p> 
    
