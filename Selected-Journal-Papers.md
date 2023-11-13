@@ -3,7 +3,7 @@
 ## 2023
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xingchen Hu, Jindong Qin, Yinghua Shen, Witold Pedrycz, <b>Xinwang Liu</b>, Jiyuan Liu: <i><u>An Efficient Federated Multi-view Fuzzy C-Means Clustering Method</u></i>. <font color="green">IEEE Transactions on Fuzzy Systems (<b>TFS</b>)</font>. (CCF Rank B) (Accepted in November 2023) </li></p> 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TFS]</b></font> Xingchen Hu, Jindong Qin, Yinghua Shen, Witold Pedrycz, <b>Xinwang Liu</b>, Jiyuan Liu: <i><u>An Efficient Federated Multi-view Fuzzy C-Means Clustering Method</u></i>. <font color="green">IEEE Transactions on Fuzzy Systems (<b>TFS</b>)</font>. (CCF Rank B) (Accepted in November 2023) </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Wenxuan Tu, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, <b>Xinwang Liu</b>, Zhiping Cai, Kunlun He: <i><u>RARE: Robust Masked Graph Autoencoder</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in November 2023) </li></p> 
 
