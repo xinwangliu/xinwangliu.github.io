@@ -5,7 +5,8 @@ layout: default
 # News
 
 <ul>
-
+<p style="margin-top: 6px;"><li>[<font color="red">November 11, 2023</font>] "<b>An Efficient Federated Multi-view Fuzzy C-Means Clustering Method</b>" has been accepted by <font color="green">IEEE Transactions on Fuzzy Systems (IEEE TFS)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">November 11, 2023</font>] "<b>RARE: Robust Masked Graph Autoencoder</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">November 9, 2023</font>] "<b>Sparse Low-rank Multi-view Subspace Clustering with Consensus Anchors and Unified Bipartite Graph</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
