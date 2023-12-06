@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
- <p style="margin-top: 6px;"><li>[<font color="red">November 11, 2023</font>] "<b>Fast Approximated Multiple Kernel K-means</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">December 6, 2023</font>] "<b>Fast Approximated Multiple Kernel K-means</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">November 11, 2023</font>] "<b>An Efficient Federated Multi-view Fuzzy C-Means Clustering Method</b>" has been accepted by <font color="green">IEEE Transactions on Fuzzy Systems (IEEE TFS)</font>.</li></p>
  
