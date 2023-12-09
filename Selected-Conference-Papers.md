@@ -12,7 +12,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Ke Liang, Lingyuan Meng, Sihang Zhou, Wenxuan Tu, Siwei Wang, Yue Liu, Meng Liu, Long Zhao, Xiangjun Dong, <b>Xinwang Liu</b>: <i><u>MINES: Message Intercommunication for Inductive Relation Reasoning over Neighbor-Enhanced Subgraphs</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Shengju Yu, Siwei Wang, Pei Zhang, Miao Wang, Ziming Wang, Zhe Liu, Liming Fang, En Zhu, <b>Xinwang Liu</b>: <i><u>DVSAI: Diverse View-shared Anchors Based Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Shengju Yu, Siwei Wang, Pei Zhang, Miao Wang, Ziming Wang, Zhe Liu, Liming Fang, En Zhu, <b>Xinwang Liu</b>: <i><u>DVSAI: Diverse View-Shared Anchors Based Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Siqi Shen, Chennan Ma, Chao Li, Weiquan Liu, Yongquan Fu, Songzhu Mei, <b>Xinwang Liu</b>, Cheng Wang: <i><u> RiskQ: Risk-sensitive Multi-Agent Reinforcement Learning Value Factorization </u></i>. <font color="green">NeurIPS 2023</font>. (CCF Rank A)</li></p>
 
