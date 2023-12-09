@@ -6,7 +6,7 @@ layout: default
 
 <ul>
 
- <p style="margin-top: 6px;"><li>[<font color="red">December 8, 2023</font>]  <b>Five papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2024</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">December 9, 2023</font>]  <b>Five papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2024</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">December 6, 2023</font>] "<b>Fast Approximated Multiple Kernel K-means</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
  
