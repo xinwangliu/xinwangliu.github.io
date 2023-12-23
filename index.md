@@ -5,7 +5,8 @@ layout: default
 # News
 
 <ul>
-
+ <p style="margin-top: 6px;"><li>[<font color="red">December 22, 2023</font>] "<b>Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">December 9, 2023</font>]  <b>Five papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2024</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">December 6, 2023</font>] "<b>Fast Approximated Multiple Kernel K-means</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
