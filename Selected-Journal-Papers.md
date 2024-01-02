@@ -1,7 +1,16 @@
 # Selected Journal Papers:
 
+## 2024
+<ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font>Zhibin Dong, Jiaqi Jin, Yuyang Xiao, Bin Xiao, Siwei Wang, Xinwang Liu, En Zhu: <i><u>Subgraph Propagation and Contrastive Calibration for Incomplete Multi-view Data Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in January 2024) (CCF Rank B) </li></p >
+ 
+ </ol>
+
 ## 2023
 <ol>
+
+ 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Wenxuan Tu, Bin Xiao, <b>Xinwang Liu</b>, Sihang Zhou, Zhiping Cai, Jieren Cheng: <i><u>Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in December 2023) (CCF Rank B) </li></p >
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Jun Wang, Chang Tang, Xiao Zheng, <b>Xinwang Liu</b>, Wei Zhang, En Zhu, Xinzhong Zhu: <i><u>Fast Approximated Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in December 2023) </li></p> 
