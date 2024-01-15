@@ -6,7 +6,8 @@ layout: default
 
 <ul>
 
-
+ <p style="margin-top: 6px;"><li>[<font color="red">January 13, 2023</font>] "<b>SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">January 1, 2023</font>] "<b>Subgraph Propagation and Contrastive Calibration for Incomplete Multi-view Data Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">December 22, 2023</font>] "<b>Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
