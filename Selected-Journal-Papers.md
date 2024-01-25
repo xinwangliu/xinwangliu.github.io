@@ -4,6 +4,8 @@
 <ol>
 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Suyuan Liu, Qing Liao, Siwei Wang,  <b>Xinwang Liu</b>, En Zhu: <i><u>Robust and Consistent Anchor Graph Learning for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in January 2024) (CCF Rank A) </li></p >
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Lingyuan Meng, Ke Liang, Bin Xiao, Sihang Zhou, Yue Liu, Meng Liu, Xihong Yang, <b>Xinwang Liu</b>, Jinyan Li: <i><u>SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in January 2024) (CCF Rank B) </li></p >
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhibin Dong, Jiaqi Jin, Yuyang Xiao, Bin Xiao, Siwei Wang, <b>Xinwang Liu</b>, En Zhu: <i><u>Subgraph Propagation and Contrastive Calibration for Incomplete Multi-view Data Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in January 2024) (CCF Rank B) </li></p >
