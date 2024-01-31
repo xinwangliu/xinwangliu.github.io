@@ -6,6 +6,7 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">January 30, 2023</font>] "<b>BGAE: Auto-encoding Multi-view Bipartite Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">January 24, 2023</font>] "<b>Robust and Consistent Anchor Graph Learning for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
