@@ -6,7 +6,7 @@
 <ol>
 
 
-
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, <b>Xinwang Liu</b>: <i><u>Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering</u></i>. <font color="green">CVPR 2024</font>. (THU Rank A) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Meng Liu, Yue Liu, Ke Liang, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Deep Temporal Graph Clustering</u></i>. <font color="green">ICLR 2024</font>. (THU Rank A) </li></p>
 
