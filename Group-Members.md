@@ -59,7 +59,7 @@
       <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/siweiwang.jpg"></div>
             <div> <a href="https://wangsiwei2010.github.io">Siwei Wang</a> </div>
-            <div> PhD student </div>
+            <div> PhD </div>
           </td>
            <td width="20%" style="padding-right:30px">
             <div> <img width="122" height="185" src="./groupmember/zhengxiao1.jpg"></div>
@@ -88,7 +88,7 @@
     <td width="20%" style="padding-right:30px">
             <div> <img width="140" height="185" src="./groupmember/wenxuan.jpg"></div>
             <div> <a href="https://wxtu.github.io">Wen-Xuan Tu</a></div>
-            <div> PhD student </div>
+            <div> PhD </div>
           </td>
      <td width="20%" style="padding-right:30px">
             <div> <img width="130" height="185" src="./groupmember/lwx.jpg"></div>
