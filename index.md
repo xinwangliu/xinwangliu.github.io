@@ -6,6 +6,9 @@ layout: default
 
 <ul>
 
+
+ <p style="margin-top: 6px;"><li>[<font color="red">March 12, 2024</font>] "<b>One-step Multi-view Clustering with Diverse Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">February 27, 2024</font>]  <b>One paper</b> has been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024</font>.</li></p>  
 
 <p style="margin-top: 6px;"><li>[<font color="red">January 30, 2024</font>] "<b>BGAE: Auto-encoding Multi-view Bipartite Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
