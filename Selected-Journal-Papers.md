@@ -3,6 +3,10 @@
 ## 2024
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Xinhang Wan, Bin Xiao, <b>Xinwang Liu</b>, Jiyuan Liu, Weixuan Liang, En Zhu: <i><u>Fast Continual Multi-View Clustering with Incomplete Views</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in March 2024) (CCF Rank A) </li></p >
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xinhang Wan, Jiyuan Liu, Xinbiao Gan, <b>Xinwang Liu</b>, Siwei Wang, Yi Wen, Tianjiao Wan, En Zhu: <i><u>One-step Multi-view Clustering with Diverse Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in March 2024) (CCF Rank B) </li></p >
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Liang Li, Yuangang Pan, Jie Liu, Yue Liu, <b>Xinwang Liu</b>, Kenli Li, Ivor W. Tsang, and Keqin Li: <i><u>BGAE: Auto-encoding Multi-view Bipartite Graph Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in January 2024) (CCF Rank A) </li></p >
 
