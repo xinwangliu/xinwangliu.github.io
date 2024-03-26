@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-
+ <p style="margin-top: 6px;"><li>[<font color="red">March 21, 2024</font>] "<b>Fast Continual Multi-View Clustering with Incomplete Views</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">March 12, 2024</font>] "<b>One-step Multi-view Clustering with Diverse Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
