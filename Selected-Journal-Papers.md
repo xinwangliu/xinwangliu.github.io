@@ -3,6 +3,10 @@
 ## 2024
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Weixuan Liang, Chang Tang, <b>Xinwang Liu</b>, Yong Liu, Jiyuan Liu, En Zhu, Kunlun He: <i><u>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2024) </li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Meng Liu, Ke Liang, Yawei Zhao, Wenxuan Tu, Sihang Zhou, Xinbiao Gan, <b>Xinwang Liu</b>, Kunlun He: <i><u>Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p >
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Xinhang Wan, Bin Xiao, <b>Xinwang Liu</b>, Jiyuan Liu, Weixuan Liang, En Zhu: <i><u>Fast Continual Multi-View Clustering with Incomplete Views</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in March 2024) (CCF Rank A) </li></p >
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xinhang Wan, Jiyuan Liu, Xinbiao Gan, <b>Xinwang Liu</b>, Siwei Wang, Yi Wen, Tianjiao Wan, En Zhu: <i><u>One-step Multi-view Clustering with Diverse Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in March 2024) (CCF Rank B) </li></p >
