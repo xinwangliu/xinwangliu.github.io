@@ -5,6 +5,11 @@ layout: default
 # News
 
 <ul>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">April 7, 2024</font>] "<b>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">April 2, 2024</font>] "<b>Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment.</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">March 21, 2024</font>] "<b>Fast Continual Multi-View Clustering with Incomplete Views</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">March 12, 2024</font>] "<b>One-step Multi-view Clustering with Diverse Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
