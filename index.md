@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+ <p style="margin-top: 6px;"><li>[<font color="red">April 12, 2024</font>] "<b>Layer Sequence Extraction of Optimized DNNs using Side-channel Information Leaks</b>" has been accepted by <font color="green"> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)</font>.</li></p>
+
  <p style="margin-top: 6px;"><li>[<font color="red">April 7, 2024</font>] "<b>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">April 2, 2024</font>] "<b>Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment.</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
