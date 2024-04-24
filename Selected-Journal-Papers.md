@@ -3,6 +3,8 @@
 ## 2024
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Tianrui Liu, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Category Alignment Mechanism for Few-Shot Image Classification.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p >
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Huimin Zhang, Xingchen Hu, Xiubin Zhu, <b>Xinwang Liu</b>, Witold Pedrycz: <i><u>Application of Gradient Boosting in the Design of Fuzzy Rule-based Regression Models</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in April 2024) (CCF Rank A) </li></p >
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCAD]</b></font> Yidan Sun, Guiyuan Jiang, <b>Xinwang Liu</b>, Peilan He, Siew-Kei Lam: <i><u>Layer Sequence Extraction of Optimized DNNs using Side-channel Information Leaks</u></i>. <font color="green">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>)</font>. (CCF Rank A) (Accepted in April 2024) </li></p>
