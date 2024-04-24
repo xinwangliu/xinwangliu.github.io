@@ -144,8 +144,10 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Miaomiao Li, Jingyuan Xia, Huiying Xu, Qing Liao, Xinzhong Zhu, <b>Xinwang Liu</b>: <i><u>Localized Incomplete Multiple Kernel k-means with Matrix-induced Regularization</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (Accepted in Nov. 2021)  <a href = "https://xinwangliu.github.io/document/TCYB1.pdf">[PDF]</a></li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font><b> Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Sep. 2021) (CCF Rank A) <a href = "https://xinwangliu.github.io/document/TPAMI_IncomSimpleMKKM.pdf">[PDF]</a></li></p>
- 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font><b> Xinwang Liu</b>: <i><u>Incomplete Multiple Kernel Alignment Maximization for Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (Accepted in Sep. 2021) (CCF Rank A) <a href = "https://xinwangliu.github.io/document/TPAMI_IncomSimpleMKKM.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/IMKAMC">[Code]</a></li></p>
+
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Li Liu, Sihang Zhou, En Zhu: <i><u>Late Fusion Multiple Kernel Clustering with Proxy Graph Refinement</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in Sep. 2021)  <a href = "https://xinwangliu.github.io/document/finalversion.pdf">[PDF]</a><a href = "https://github.com/wangsiwei2010/graphlatefusion_MKC">[Code]</a></li></p> 
  
  
