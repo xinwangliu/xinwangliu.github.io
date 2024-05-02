@@ -6,6 +6,12 @@
 <ol>
 
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xinhang Wan, Jiyuan Liu, <b>Xinwang Liu</b>, Yi Wen, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu: <i><u>Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, En Zhu, Shengju Yu, Huiying Xu, Xinzhong Zhu: <i><u>Scalable Multiple Kernel Clustering: Learning Clustering Structure from Expectation</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, <b>Xinwang Liu</b>: <i><u>Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering</u></i>. <font color="green">CVPR 2024</font>. (CCF Rank A) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Meng Liu, Yue Liu, Ke Liang, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Deep Temporal Graph Clustering</u></i>. <font color="green">ICLR 2024</font>. (THU Rank A) </li></p>
