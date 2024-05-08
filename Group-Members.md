@@ -167,7 +167,7 @@
           </td>                     
       <td width="20%" style="padding-right:30px">
             <div> <img width="147" height="185" src="./groupmember/wanxinhang.jpg"></div>
-            <div> Xinhang Wan</div>
+            <div> <a href="https://wanxinhang.github.io/">Xinhang Wan</a></div>
             <div> PhD student </div>
      </td>
          
