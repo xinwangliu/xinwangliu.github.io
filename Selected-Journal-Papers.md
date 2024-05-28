@@ -7,7 +7,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Jun Wang, Zhenglai Li, Chang Tang, Suyuan Liu, Xinhang Wan, <b>Xinwang Liu</b>: <i><u>Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in May 2024) (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Tianrui Liu, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Category Alignment Mechanism for Few-Shot Image Classification.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Tianrui Liu, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Category Alignment Mechanism for Few-Shot Image Classification</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Huimin Zhang, Xingchen Hu, Xiubin Zhu, <b>Xinwang Liu</b>, Witold Pedrycz: <i><u>Application of Gradient Boosting in the Design of Fuzzy Rule-based Regression Models</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in April 2024) (CCF Rank A) </li></p>
  
