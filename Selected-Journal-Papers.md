@@ -3,6 +3,8 @@
 ## 2024
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network with Affinity Recovery.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in May 2024) (CCF Rank B) </li></p >
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhenyu Zhou, Lei Luo, Tianrui Liu, Qing Liao, <b>Xinwang Liu</b>, En Zhu: <i><u>Category Alignment Mechanism for Few-Shot Image Classification.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p >
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Huimin Zhang, Xingchen Hu, Xiubin Zhu, <b>Xinwang Liu</b>, Witold Pedrycz: <i><u>Application of Gradient Boosting in the Design of Fuzzy Rule-based Regression Models</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in April 2024) (CCF Rank A) </li></p >
