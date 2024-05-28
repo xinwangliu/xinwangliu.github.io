@@ -7,11 +7,17 @@ layout: default
 <ul>
 
 
+ <p style="margin-top: 6px;"><li>[<font color="red">May 22, 2024</font>] "<b>Improved Dual Correlation Reduction Network with Affinity Recovery</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">May 5, 2024</font>] "<b>Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">May 2, 2024</font>] <b>Three papers</b> have been accepted by <font color="green"> 41st International Conference on Machine Learning (ICML 2024)</font>.</li></p>  
 
  <p style="margin-top: 6px;"><li>[<font color="red">April 23, 2024</font>] "<b>Category Alignment Mechanism for Few-Shot Image Classification</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">April 16, 2024</font>] "<b>Application of Gradient Boosting in the Design of Fuzzy Rule-based Regression Models</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">April 15, 2024</font>] "<b>Symmetric Multi-view Subspace Clustering with Automatic Neighbor Discovery</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">April 9, 2024</font>] "<b>Layer Sequence Extraction of Optimized DNNs using Side-channel Information Leaks</b>" has been accepted by <font color="green"> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)</font>.</li></p>
 
