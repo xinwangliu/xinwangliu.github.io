@@ -5,7 +5,7 @@
 
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>, Fuchun Sun: <i><u>A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in June 2024) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>, Fuchun Sun, Kunlun He: <i><u>A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in June 2024) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network with Affinity Recovery.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in May 2024) (CCF Rank B) </li></p>
 
