@@ -13,7 +13,7 @@
             <div> Professor Doctorial Tutor </div>
           </td>
         <td width="20%" style="padding-right:30px">
-            <div> <img width="130" height="185" src="./groupmember/suntao"></div>
+            <div> <img width="130" height="185" src="./groupmember/suntao.png"></div>
             <div> <a href="https://nudtsuntao1991.github.io/">Tao Sun</a> </div>
             <div> Associate Professor </div>
           </td>
