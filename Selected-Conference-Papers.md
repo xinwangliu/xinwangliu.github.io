@@ -5,6 +5,8 @@
 
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Dayu Hu, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, <b>Xinwang Liu</b>: <i><u>Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, <b>Xinwang Liu</b>, En Zhu: <i><u>GraphLearner: Graph Node Clustering with Fully Learnable Augmentation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
 
