@@ -5,6 +5,7 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">July 16, 2024</font>] <b>Eight papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2024</font>.</li></p>  
 
  <p style="margin-top: 6px;"><li>[<font color="red">July 16, 2024</font>] "<b>Regularized Instance Weighting Multi-View Clustering via Late Fusion Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
