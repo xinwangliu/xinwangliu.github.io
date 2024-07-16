@@ -6,6 +6,10 @@
 <ol>
 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Qian Qu, Xinhang Wan, Weixuan Liang, Jiyuan Liu, Yu Feng, Huiying Xu, <b>Xinwang Liu</b>, En Zhu: <i><u>A Lightweight Anchor-Based Incremental Framework to Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xiao He, Chang Tang, <b>Xinwang Liu</b>, Chuankun Li, Shan An and Zhenglai Li: <i><u>Heterogeneous Graph Guided Contrastive Learning for Spatially Resolved Transcriptomics Data</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xinhang Wan, Jiyuan Liu, <b>Xinwang Liu</b>, Yi Wen, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu: <i><u>Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
