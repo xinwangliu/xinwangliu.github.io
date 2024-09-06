@@ -5,7 +5,18 @@ layout: default
 # News
 
 <ul>
-<p style="margin-top: 6px;"><li>[<font color="red">July 16, 2024</font>] <b>Eight papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2024</font>.</li></p>  
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 31, 2024</font>] "<b>STFormer: Spatial-Temporal-Aware Transformer for Video Instance Segmentation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 24, 2024</font>] "<b>MGKsite: Multi-Modal Knowledge-Driven Site Selection via Intra and Inter-Modal Graph Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 22, 2024</font>] "<b>Multi-view Adaptive Fusion Network for Spatially Resolved Transcriptomics Data Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 5, 2024</font>] "<b>Differentiated Anchor Quantity Assisted Incomplete Multi-View Clustering without Number-Tuning</b>" has been accepted by <font color="green">IEEE Transactions on Cybernetics (IEEE TCYB)</font>.</li></p>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">July 31, 2024</font>] "<b>Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
+ 
+ <p style="margin-top: 6px;"><li>[<font color="red">July 16, 2024</font>] <b>Eight papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2024</font>.</li></p>  
 
  <p style="margin-top: 6px;"><li>[<font color="red">July 16, 2024</font>] "<b>Regularized Instance Weighting Multi-View Clustering via Late Fusion Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
