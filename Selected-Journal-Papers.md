@@ -3,7 +3,7 @@
 ## 2024
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, **Xinwang Liu**, Suyuan Liu, Wenxuan Tu, En Zhu: <i><u>Fast Continual Multi-View Clustering with Incomplete Views</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in July 2024) (CCF Rank A) </li></p >
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Wenxuan Tu, En Zhu: <i><u>Fast Continual Multi-View Clustering with Incomplete Views</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in July 2024) (CCF Rank A) </li></p >
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yi Zhang, Fengyu Tian, Chuan Ma, Miaomiao Li, Hengfu Yang, Zhe Liu, En Zhu, <b>Xinwang Liu</b>: <i><u>Regularized Instance Weighting Multi-View Clustering via Late Fusion Alignment.</u></i> <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in July 2024) (CCF Rank B) </li></p>
 
