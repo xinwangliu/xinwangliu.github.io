@@ -3,6 +3,17 @@
 ## 2024
 <ol>
 
+
+
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Junpu Zhang, Liang Li, Pei Zhang, Yue Liu, Siwei Wang, Changbao Zhou, Xinwang Liu, En Zhu: <i><u>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion.</u></i> <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> 
+  Ke Liang, Lingyuan Meng, Hao Li, Meng Liu, Siwei Wang, Sihang Zhou, Xinwang Liu, Kunlun He: <i><u>MGKsite: Multi-Modal Knowledge-Driven Site Selection via Intra and Inter-Modal Graph Fusion</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in August 2024) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Zhibin Dong, Hengfu Yang, En Zhu, <b>Xinwang Liu</b>: <i><u>Differentiated Anchor Quantity Assisted Incomplete Multi-View Clustering without Number-Tuning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (CCF Rank B) (Accepted in August 2024)</li></p> 
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Siwei Wang, <b>Xinwang Liu</b>, Suyuan Liu, Wenxuan Tu, En Zhu: <i><u>Fast Continual Multi-View Clustering with Incomplete Views</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in July 2024) (CCF Rank A) </li></p >
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yi Zhang, Fengyu Tian, Chuan Ma, Miaomiao Li, Hengfu Yang, Zhe Liu, En Zhu, <b>Xinwang Liu</b>: <i><u>Regularized Instance Weighting Multi-View Clustering via Late Fusion Alignment.</u></i> <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in July 2024) (CCF Rank B) </li></p>
