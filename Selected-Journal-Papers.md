@@ -5,12 +5,13 @@
 
 
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TOMM]</b></font> Zhenyu Zhou  Qing Liao, Lei Luo, <b>Xinwang Liu</b>, En Zhu: <i><u>ProtoRefine: Enhancing Prototypes with Similar Structure in Few-Shot Learning.</u></i> <font color="green">ACM Transactions on Multimedia Computing Communications and Applications (<b>TOMM</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Junpu Zhang, Liang Li, Pei Zhang, Yue Liu, Siwei Wang, Changbao Zhou, Xinwang Liu, En Zhu: <i><u>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion.</u></i> <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Junpu Zhang, Liang Li, Pei Zhang, Yue Liu, Siwei Wang, Changbao Zhou, <b>Xinwang Liu</b>, En Zhu: <i><u>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion.</u></i> <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> 
-  Ke Liang, Lingyuan Meng, Hao Li, Meng Liu, Siwei Wang, Sihang Zhou, Xinwang Liu, Kunlun He: <i><u>MGKsite: Multi-Modal Knowledge-Driven Site Selection via Intra and Inter-Modal Graph Fusion</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in August 2024) </li></p>
+  Ke Liang, Lingyuan Meng, Hao Li, Meng Liu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>, Kunlun He: <i><u>MGKsite: Multi-Modal Knowledge-Driven Site Selection via Intra and Inter-Modal Graph Fusion</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted in August 2024) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Zhibin Dong, Hengfu Yang, En Zhu, <b>Xinwang Liu</b>: <i><u>Differentiated Anchor Quantity Assisted Incomplete Multi-View Clustering without Number-Tuning</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (CCF Rank B) (Accepted in August 2024)</li></p> 
 
