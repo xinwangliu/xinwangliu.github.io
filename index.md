@@ -6,7 +6,10 @@ layout: default
 
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red">August 31, 2024</font>] "<b>STFormer: Spatial-Temporal-Aware Transformer for Video Instance Segmentation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">August 26, 2024</font>] "<b>ProtoRefine: Enhancing Prototypes with Similar Structure in Few-Shot Learning</b>" has been accepted by <font color="green">ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)</font>.</li></p>
+
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 25, 2024</font>] "<b>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 25, 2024</font>] "<b>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
