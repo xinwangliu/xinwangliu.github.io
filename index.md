@@ -6,13 +6,11 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">September 10, 2024</font>] "<b>FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning</b>" has been accepted by <font color="green">Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">August 26, 2024</font>] "<b>ProtoRefine: Enhancing Prototypes with Similar Structure in Few-Shot Learning</b>" has been accepted by <font color="green">ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)</font>.</li></p>
 
-
 <p style="margin-top: 6px;"><li>[<font color="red">August 25, 2024</font>] "<b>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
-
-<p style="margin-top: 6px;"><li>[<font color="red">August 25, 2024</font>] "<b>TFMKC: Tuning-Free Multiple Kernel Clustering Coupled With Diverse Partition Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
-
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 24, 2024</font>] "<b>MGKsite: Multi-Modal Knowledge-Driven Site Selection via Intra and Inter-Modal Graph Fusion</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
 
