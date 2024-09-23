@@ -5,6 +5,9 @@ layout: default
 # News
 
 <ul>
+ <p style="margin-top: 6px;"><li>[<font color="red">September 21, 2024</font>] "<b>Defending against Backdoor Attacks on Graph Neural 
+Networks via Discrepancy Learning</b>" has been accepted by <font color="green"> NDSS 2024</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">September 17, 2024</font>] "<b>Medical Federated Model with Mixture of Personalized and Shared Components</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">September 16, 2024</font>] "<b>Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</b>" has been accepted by <font color="green">IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)</font>.</li></p>
