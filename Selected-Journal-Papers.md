@@ -3,7 +3,7 @@
 ## 2024
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yawei Zhao, Qinghe Liu†, Pan Liu, <b>Xinwang Liu</b>, Kunlun He: <i><u>Medical Federated Model with Mixture of Personalized and Shared Components</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yawei Zhao, Qinghe Liu, Pan Liu, <b>Xinwang Liu</b>, Kunlun He: <i><u>Medical Federated Model with Mixture of Personalized and Shared Components</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TOMM]</b></font> Zhenyu Zhou, Qing Liao, Lei Luo, <b>Xinwang Liu</b>, En Zhu: <i><u>ProtoRefine: Enhancing Prototypes with Similar Structure in Few-Shot Learning.</u></i> <font color="green">ACM Transactions on Multimedia Computing Communications and Applications (<b>TOMM</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
 
