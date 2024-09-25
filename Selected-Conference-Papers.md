@@ -5,6 +5,8 @@
 
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2024</font>. (CCF Rank A)</li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Ke Liang, Lingyuan Meng, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, Suyuan Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Huimin Ma, Siwei Wang, Shengju Yu, Suyuan Liu, Jun-Jie Huang, Huijun Wu, <b>Xinwang Liu</b>, En Zhu: <i><u>Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
