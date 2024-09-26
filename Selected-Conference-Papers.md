@@ -6,7 +6,7 @@
 <ol>
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, Suyuan Liu, Xihong Yang,   <b>Xinwang Liu</b>, En Zhu: <i><u>Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yue Liu, Shihao Zhu Jun Xia, Yingwei MA, Jian Ma, Wenliang Zhong, <b>Xinwang Liu</b>, Shengju Yu, Kejun Zhang: <i><u>End-to-end Learnable Clustering for Intent Learning in Recommendation </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yue Liu, Shihao Zhu, Jun Xia, Yingwei Ma, Jian Ma, Wenliang Zhong, <b>Xinwang Liu</b>, Shengju Yu, Kejun Zhang: <i><u>End-to-end Learnable Clustering for Intent Learning in Recommendation </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, <b>Xinwang Liu</b>, Kunlun He: <i><u> Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
