@@ -10,7 +10,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, <b>Xinwang Liu</b>, Kunlun He: <i><u> Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Ke Liang, Yue Liu，Hao Liu, Lingyuan Meng, Suyuan Liu, Siwei Wang, Sihang, Zhou,  <b>Xinwang Liu</b>, Kunlun He: <i><u> Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Ke Liang, Yue Liu，Hao Liu, Lingyuan Meng, Suyuan Liu, Siwei Wang, Sihang, Zhou,  <b>Xinwang Liu</b>: <i><u> Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NDSS]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2025</font>. (CCF Rank A)</li></p>
 
