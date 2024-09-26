@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-<p style="margin-top: 6px;"><li>[<font color="red">September 26, 2024</font>] <b>Four papers</b> have been accepted by <font color="green"> 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">September 26, 2024</font>] <b>Five papers</b> have been accepted by <font color="green"> 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</font>.</li></p> 
 <p style="margin-top: 6px;"><li>[<font color="red">September 25, 2024</font>] Promoted to be "<b>CCF Distinguished Member</b>".</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">September 21, 2024</font>] "<b>DShield: Defending against Backdoor Attacks on Graph Neural 
