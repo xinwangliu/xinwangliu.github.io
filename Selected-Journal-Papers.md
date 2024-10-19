@@ -8,7 +8,7 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Lingyuan Meng, Ke Liang, Hao Yu, Sihang Zhou, Meng Liu, <b>Xinwang Liu</b>: <i><u>FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Renxiang Guan，Wenxuan Tu，Zihao Li，Hao Yu，Dayu Hu，Yuzeng Chen，Chang Tang，Qiangqiang Yuan， <b>Xinwang Liu</b>: <i><u>Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</u></i>. <font color="green">IIEEE Transactions on Geoscience and Remote Sensing<b>TGRS</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Renxiang Guan,Wenxuan Tu,Zihao Li,Hao Yu,Dayu Hu,Yuzeng Chen,Chang Tang,Qiangqiang Yuan, <b>Xinwang Liu</b>: <i><u>Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</u></i>. <font color="green">IIEEE Transactions on Geoscience and Remote Sensing<b>TGRS</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TOMM]</b></font> Zhenyu Zhou, Qing Liao, Lei Luo, <b>Xinwang Liu</b>, En Zhu: <i><u>ProtoRefine: Enhancing Prototypes with Similar Structure in Few-Shot Learning.</u></i> <font color="green">ACM Transactions on Multimedia Computing Communications and Applications (<b>TOMM</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
