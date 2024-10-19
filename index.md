@@ -6,7 +6,7 @@ layout: default
 
 <ul>
 
- <p style="margin-top: 6px;"><li>[<font color="red">October 16, 2024</font>] "<b>GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization</b>" has been accepted by <font color="green"> TKDE 2025</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">October 16, 2024</font>] "<b>GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization</b>" has been accepted by <font color="green"> TKDE </font>.</li></p>
 
  
 <p style="margin-top: 6px;"><li>[<font color="red">September 26, 2024</font>] <b>Five papers</b> have been accepted by <font color="green"> 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</font>.</li></p> 
