@@ -3,7 +3,7 @@
 ## 2024
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Hao Yu, Ke Liang, Dayu Hu, Wenxuan Tu, Chuan Ma, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in Octobe 2024) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Hao Yu, Ke Liang, Dayu Hu, Wenxuan Tu, Chuan Ma, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2024) </li></p>
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yawei Zhao, Qinghe Liu, Pan Liu, <b>Xinwang Liu</b>, Kunlun He: <i><u>Medical Federated Model with Mixture of Personalized and Shared Components</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
