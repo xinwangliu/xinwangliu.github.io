@@ -2,6 +2,11 @@
 
 ## 2024
 <ol>
+; ; ; ; ; Liu, Xinwang;, , ; , ,
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> , Xinhang Wan, Jiyuan Liu, Hao Yu, Qian Qu, Ao Li, <b>Xinwang Liu</b> Ke Liang, Zhibin Dong, En Zhu : <i><u>Contrastive Continual Multi-view Clustering with Filtered Structural Fusion</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TKDE</b>)</font>. (CCF Rank B) (Accepted in November 2024) </li></p>
+
+
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Hao Yu, Ke Liang, Dayu Hu, Wenxuan Tu, Chuan Ma, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2024) </li></p>
 
