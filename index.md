@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+ <p style="margin-top: 6px;"><li>[<font color="red">November 13, 2024</font>] "<b>Contrastive Continual Multi-view Clustering with Filtered Structural Fusion"</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
  <p style="margin-top: 6px;"><li>[<font color="red">October 16, 2024</font>] "<b>GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
  
