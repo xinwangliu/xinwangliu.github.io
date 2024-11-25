@@ -3,6 +3,9 @@
 ## 2024
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Peng Zhou, Rongwen Li, Zhaolong Ling, Liang Du, <b>Xinwang Liu</b>: <i><u>Fair Clustering Ensemble with Equal Cluster Capacity</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font>  Xinhang Wan, Jiyuan Liu, Hao Yu, Qian Qu, Ao Li, <b>Xinwang Liu</b>, Ke Liang, Zhibin Dong, En Zhu : <i><u>Contrastive Continual Multi-view Clustering with Filtered Structural Fusion</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in November 2024) </li></p>
 
 
