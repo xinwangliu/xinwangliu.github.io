@@ -19,7 +19,7 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Lingyuan Meng, Ke Liang, Hao Yu, Sihang Zhou, Meng Liu, <b>Xinwang Liu</b>: <i><u>FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in September 2024) </li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Renxiang Guan, Wenxuan Tu, Zihao Li,Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, <b>Xinwang Liu</b>: <i><u>Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</u></i>. <font color="green">IIEEE Transactions on Geoscience and Remote Sensing(<b>TGRS</b>)</font>. (CCF Rank B) (Accepted in September 2024) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Renxiang Guan, Wenxuan Tu, Zihao Li,Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, <b>Xinwang Liu</b>: <i><u>Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing(<b>TGRS</b>)</font>. (CCF Rank B) (Accepted in September 2024) </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TOMM]</b></font> Zhenyu Zhou, Qing Liao, Lei Luo, <b>Xinwang Liu</b>, En Zhu: <i><u>ProtoRefine: Enhancing Prototypes with Similar Structure in Few-Shot Learning.</u></i> <font color="green">ACM Transactions on Multimedia Computing Communications and Applications (<b>TOMM</b>)</font>. (Accepted in August 2024) (CCF Rank B) </li></p>
@@ -40,7 +40,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>, Fuchun Sun, Kunlun He: <i><u>A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in June 2024) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network with Affinity Recovery.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in May 2024) (CCF Rank B) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Sihang Zhou, Xihong Yang, <b>Xinwang Liu</b>, Wenxuan Tu, Liang Li, Xin Xu, Fuchun Sun: <i><u>Improved Dual Correlation Reduction Network with Affinity Recovery</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in May 2024) (CCF Rank B) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Jun Wang, Zhenglai Li, Chang Tang, Suyuan Liu, Xinhang Wan, <b>Xinwang Liu</b>: <i><u>Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted in May 2024) (CCF Rank A) </li></p>
 
@@ -54,7 +54,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Weixuan Liang, Chang Tang, <b>Xinwang Liu</b>, Yong Liu, Jiyuan Liu, En Zhu, Kunlun He: <i><u>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2024) </li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Meng Liu, Ke Liang, Yawei Zhao, Wenxuan Tu, Sihang Zhou, Xinbiao Gan, <b>Xinwang Liu</b>, Kunlun He: <i><u>Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment.</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p >
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Meng Liu, Ke Liang, Yawei Zhao, Wenxuan Tu, Sihang Zhou, Xinbiao Gan, <b>Xinwang Liu</b>, Kunlun He: <i><u>Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted in April 2024) (CCF Rank B) </li></p >
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Xinhang Wan, Bin Xiao, <b>Xinwang Liu</b>, Jiyuan Liu, Weixuan Liang, En Zhu: <i><u>Fast Continual Multi-View Clustering with Incomplete Views</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in March 2024) (CCF Rank A) </li></p >
 
