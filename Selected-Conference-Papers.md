@@ -5,7 +5,7 @@
 
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, Huiying Xu,<b>Xinwang Liu</b>: <i><u>Incremental Nystr\"om-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, Huiying Xu,<b>Xinwang Liu</b>: <i><u>Incremental Nyström-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Yuangang Pan, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, <b>Xinwang Liu</b>, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
