@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+ <p style="margin-top: 6px;"><li>[<font color="red">December 10, 2024</font>]  <b>Three papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2025</font>.</li></p>
+
 
 <p style="margin-top: 6px;"><li>[<font color="red">November 24, 2024</font>] "<b>Fair Clustering Ensemble with Equal Cluster
 Capacity</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
