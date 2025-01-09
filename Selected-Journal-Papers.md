@@ -2,7 +2,7 @@
 
 ## 2025
 <ol>
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AS]</b></font> Zhibin Dong, Pei Li, Yi Jiang, Zhihan Wang, <b>Xinwang Liu</b>, En Zhu, Kunlun He et al: <i><u>Integrative Multi-Omics and routine blood analysis using deeplearning: cost-effective early prediction of chronic disease risks</u></i>. <font color="green">Advanced Science (<b>AS</b>)</font>.  (Accepted in January 2025) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AS]</b></font> Zhibin Dong, Pei Li, Yi Jiang, Zhihan Wang, <b>Xinwang Liu</b>, En Zhu, Kunlun He, et al: <i><u>Integrative Multi-Omics and routine blood analysis using deeplearning: cost-effective early prediction of chronic disease risks</u></i>. <font color="green">Advanced Science (<b>AS</b>)</font>.  (Accepted in January 2025) </li></p>
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Tuanfei Zhu, Xingchen Hu, <b>Xinwang Liu</b>, En Zhu
 , Xinzhong Zhu, Huiying Xu: <i><u>Dynamic Ensemble Framework for Imbalanced Data Classification</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in January 2025) </li></p>
  </ol>
