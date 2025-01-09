@@ -6,8 +6,12 @@ layout: default
 
 <ul>
 
+
 <p style="margin-top: 6px;"><li>[<font color="red">January 8, 2025</font>] "<b>Dynamic Ensemble Framework for Imbalanced Data
 Classification</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+
+
+<p style="margin-top: 6px;"><li>[<font color="red">January 8, 2025</font>] "<b>Integrative Multi-Omics and routine blood analysis using deep learning: cost-effective early prediction of chronic disease risks</b>" has been accepted by <font color="green">Advanced Science</font>.</li></p>
 
  
  <p style="margin-top: 6px;"><li>[<font color="red">December 10, 2024</font>]  <b>Four papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2025</font>.</li></p>
