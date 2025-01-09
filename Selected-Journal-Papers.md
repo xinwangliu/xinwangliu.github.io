@@ -1,8 +1,8 @@
 # Selected Journal Papers:
 
 ## 2025
-</ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> HTuanfei Zhu, Xingchen Hu, , <b>Xinwang Liu</b>, En Zhu
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> HTuanfei Zhu, Xingchen Hu, <b>Xinwang Liu</b>, En Zhu
 , Xinzhong Zhu, Huiying Xu: <i><u>Dynamic Ensemble Framework for Imbalanced Data Classification</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in October 2024) </li></p>
 
 ## 2024
