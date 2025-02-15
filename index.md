@@ -6,7 +6,8 @@ layout: default
 
 <ul>
 
-
+<p style="margin-top: 6px;"><li>[<font color="red">January 25, 2025</font>] "<b>Scalable Multi-View Graph Clustering With Cross-View Corresponding Anchor Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">January 8, 2025</font>] "<b>Dynamic Ensemble Framework for Imbalanced Data
 Classification</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
