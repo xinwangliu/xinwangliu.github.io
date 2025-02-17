@@ -7,7 +7,9 @@ layout: default
 <ul>
  <p style="margin-top: 6px;"><li>[<font color="red">February 11, 2024</font>]  <b>Two papers</b> has been accepted by <font color="green">The Twelfth International Conference on Learning Representations (ICLR) 2024</font>.</li></p>
  
-<p style="margin-top: 6px;"><li>[<font color="red">January 25, 2025</font>] "<b>Scalable Multi-View Graph Clustering With Cross-View Corresponding Anchor Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">January 25, 2025</font>] "<b> DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System</b>" has been accepted by <font color="green">IEEE International Conference on Data Engineering (ICDE) </font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">January 23, 2025</font>] "<b>Scalable Multi-View Graph Clustering With Cross-View Corresponding Anchor Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">January 8, 2025</font>] "<b>Dynamic Ensemble Framework for Imbalanced Data
 Classification</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
