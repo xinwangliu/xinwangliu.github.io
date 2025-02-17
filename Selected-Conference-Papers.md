@@ -1,10 +1,8 @@
 # Selected Conference Papers:
 
-
-## 2024
+## 2025
 
 <ol>
-
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Duanyang Yuan, Sihang Zhou, Xiaoshu Chen, Dong Wang, Ke Liang, <b>Xinwang Liu</b>, Jian Huang: <i><u>Knowledge Graph Completion with Relation-Aware Anchor Enhancement</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
 
 
@@ -15,6 +13,13 @@
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Renxiang Guan, Wenxuan Tu, Siwei Wang, Jiyuan Liu, Dayu Hu, Junhong Li, Yu Feng, Baili Xiao, Chang Tang, <b>Xinwang Liu</b>: <i><u>Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
+ 
+</ol> 
+## 2024
+
+<ol>
+
+
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Haoyuan Qin, Chennan Ma, Mian Deng, Zhengzhu Liu, Songzhu Mei, <b>Xinwang Liu</b>, Cheng Wang, Siqi Shen: <i><u> The Dormant Neuron Phenomenon in Multi-Agent Reinforcement Learning Value Factorization </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
  
