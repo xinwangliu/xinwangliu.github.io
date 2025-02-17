@@ -15,6 +15,7 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Renxiang Guan, Wenxuan Tu, Siwei Wang, Jiyuan Liu, Dayu Hu, Junhong Li, Yu Feng, Baili Xiao, Chang Tang, <b>Xinwang Liu</b>: <i><u>Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
  
 </ol> 
+
 ## 2024
 
 <ol>
