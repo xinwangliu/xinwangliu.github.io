@@ -19,8 +19,6 @@
 
 <ol>
 
-
- 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Haoyuan Qin, Chennan Ma, Mian Deng, Zhengzhu Liu, Songzhu Mei, <b>Xinwang Liu</b>, Cheng Wang, Siqi Shen: <i><u> The Dormant Neuron Phenomenon in Multi-Agent Reinforcement Learning Value Factorization </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, Suyuan Liu, Xihong Yang,   <b>Xinwang Liu</b>, En Zhu: <i><u>Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
