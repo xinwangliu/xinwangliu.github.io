@@ -1,8 +1,11 @@
 # Selected Conference Papers:
 
 ## 2025
-
+Simple yet Effective Incomplete Multi-viewClustering: Similarity-level Imputation andIntra-view Hybrid-group PrototypeConstruction
 <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Pei zhang, Yi Zhang, <b>Xinwang Liu</b>, Naiyang Guan, Tiejun Li, Yiu-ming cheung : <i><u>Simple yet Effective Incomplete Multi-viewClustering: Similarity-level Imputation andIntra-view Hybrid-group Prototype Construction</u></i>. <font color="green">ICLR 2025</font>. </li></p>
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Duanyang Yuan, Sihang Zhou, Xiaoshu Chen, Dong Wang, Ke Liang, <b>Xinwang Liu</b>, Jian Huang: <i><u>Knowledge Graph Completion with Relation-Aware Anchor Enhancement</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
 
 
