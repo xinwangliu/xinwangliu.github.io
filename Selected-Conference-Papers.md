@@ -7,6 +7,8 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Yi Zhang, Siwei Wang, liyuan Liu, Shengju Yu, Zhibin Dong, Suyuan Liu, <b>Xinwang Liu</b>, En Zhu: <i><u> DLEFT-MKC: Dynamic Late Fusion Multiple Kernel clustering with Robust Tensor Learning via Min-Max Optimizaiton</u></i>. <font color="green">ICLR 2025</font>. </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Pei zhang, Yi Zhang, <b>Xinwang Liu</b>, Naiyang Guan, Tiejun Li, Yiu-ming Cheung : <i><u>Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction</u></i>. <font color="green">ICLR 2025</font>. </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICDE]</b></font> Xihong Yang, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, <b>Xinwang Liu</b>, En Zhu, Defu Lian, Erxue Min: <i><u>DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System</u></i>. <font color="green">ICDE 2025</font>. </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Duanyang Yuan, Sihang Zhou, Xiaoshu Chen, Dong Wang, Ke Liang, <b>Xinwang Liu</b>, Jian Huang: <i><u>Knowledge Graph Completion with Relation-Aware Anchor Enhancement</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
 
