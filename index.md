@@ -6,6 +6,7 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">February 28, 2025</font>]  <b>Four papers</b> has been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025</font>.</li></p>  
 <p style="margin-top: 6px;"><li>[<font color="red">February 25, 2025</font>] "<b>Dual Test-time Training for Out-of-distribution Recommender System</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
  
  <p style="margin-top: 6px;"><li>[<font color="red">February 11, 2024</font>]  <b>Two papers</b> has been accepted by <font color="green">The Twelfth International Conference on Learning Representations (ICLR) 2024</font>.</li></p>
