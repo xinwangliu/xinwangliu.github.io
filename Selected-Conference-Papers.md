@@ -10,7 +10,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Baili xiao, Zhibin Dong, Ke Liang, Suyuan  Liu, Siwei Wang, Tianrui Liu, Xingchen Hu, En Zhu, <b>Xinwang Liu</b>, En Zhu: <i><u>EEASEMVC: Efficient Dual Selection Mechanism for Deep Multi-View Clustering</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Yuzhuo Dai, Jiagi Jin, Zhibin Dong, Siwei Wang, <b>Xinwang Liu</b>, En zhu, Xihong Yang, Xinbiao Gan, Yu Feng: <i><u>Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by ConsensusSemantic Learning</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Yuzhuo Dai, Jiagi Jin, Zhibin Dong, Siwei Wang, <b>Xinwang Liu</b>, En zhu, Xihong Yang, Xinbiao Gan, Yu Feng: <i><u>Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Chuankun Li, Xinhang Wan, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, Yu Feng, Renxiang Guan, Ke Liang: <i><u>Large-scale Multi-view Tensor clustering with Implicit Linear Kernels</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
