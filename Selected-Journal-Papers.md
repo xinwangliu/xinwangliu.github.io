@@ -3,6 +3,7 @@
 ## 2025
 <ol>
  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu </b>, Zhiping Cai, Yawei Zhao, Yue Liu, Kunlun He: <i><u>WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2025) </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xihong Yang, Yiqi Wang, Jin Chen,  Wenqi Fan, Xiangyu Zhao, <b>Xinwang Liu</b>, En Zhu, Defu Lian : <i><u> Dual Test-time Training for Out-of-distribution Recommender System</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2025) </li></p>
