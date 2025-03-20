@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">March 20, 2025</font>] "<b>Prototype-Driven Multi-View Attribute-Missing Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">March 14, 2025</font>] "<b>WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
