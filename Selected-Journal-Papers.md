@@ -2,6 +2,9 @@
 
 ## 2025
 <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Renxiang Guan, Wenxuan Tu, Dayu Hu, Weixuan Liang, Ke Liang, Yaowen Hu, Yue Liu, Xinwang Liu <b>Xinwang Liu</b>: <i><u>Prototype-Driven Multi-View Attribute-Missing Graph Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia(<b>TMM</b>)</font>. (CCF Rank B) (Accepted in March 2025) </li></p>
+
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Zhiping Cai, Yawei Zhao, Yue Liu, Kunlun He: <i><u>WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2025) </li></p>
 
