@@ -5,6 +5,10 @@
 <ol>
 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yanning Hou 
+Sihang Zhou, Ke Liang, Lingyuan Meng, Xiaoshu Chen, Ke Xu, Siwei Wang, <b>Xinwang Liu</b>, Jian Huang,Wenpeng Lu: <i><u>
+Soft Reasoning Paths for Knowledge Graph Completion</u></i>. <font color="green">IJCAI 2025</font>. (CCF Rank A) </li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Lingyuan Meng,
 Ke Liang, Zeyu Zhu, <b>Xinwang Liu</b>, Wenpeng Lu: <i><u>
 FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing</u></i>. <font color="green">IJCAI 2025</font>. (CCF Rank A) </li></p>
