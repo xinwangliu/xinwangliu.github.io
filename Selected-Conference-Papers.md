@@ -5,8 +5,17 @@
 <ol>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yanwanyu Xi, Chang Tang, Xiao Zheng, Xingchen Hu, Yuanyuan Liu, Jun-Jie Huang<b>Xinwang Liu</b>: <i><u>
-LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Lingyuan Meng,
+Ke Liang, Zeyu Zhu, <b>Xinwang Liu</b>, Wenpeng Lu: <i><u>
+FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing</u></i>. <font color="green">IJCAI 2025</font>. (CCF Rank A) </li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yanwanyu Xi, Chang Tang, Xiao Zheng, Xingchen Hu, Yuanyuan Liu, Jun-Jie Huang, <b>Xinwang Liu</b>: <i><u>
+LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment</u></i>. <font color="green">IJCAI 2025</font>. (CCF Rank A) </li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yanwanyu Xi, Chang Tang, Xiao Zheng, Xingchen Hu, Yuanyuan Liu, Jun-Jie Huang, <b>Xinwang Liu</b>: <i><u>
+LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment</u></i>. <font color="green">IJCAI 2025</font>. (CCF Rank A) </li></p>
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yuang Xiao, 
