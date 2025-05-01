@@ -5,6 +5,14 @@
 <ol>
 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yanwanyu Xi, Chang Tang, Xiao Zheng, Xingchen Hu, Yuanyuan Liu, Jun-Jie Huang<b>Xinwang Liu</b>: <i><u>
+LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI]</b></font> Yuang Xiao, 
+Yanran Zhu, Chang Tang, Xiao Zheng, Yuanyuan Liu, Kun Sun, <b>Xinwang Liu</b>: <i><u>
+Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale Modulation</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Zhibin Dong, Siwei Wang, Meng Liu, Ke Liang, Yi Zhang, Suyuan Liu, Jiaqi Jin, <b>Xinwang Liu</b>, En Zhu: <i><u>Enhanced then Progressive Fusion with View Graph for Multi-View Clustering</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
