@@ -25,7 +25,7 @@ Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale M
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Zhibin Dong, Siwei Wang, Meng Liu, Ke Liang, Yi Zhang, Suyuan Liu, Jiaqi Jin, <b>Xinwang Liu</b>, En Zhu: <i><u>Enhanced then Progressive Fusion with View Graph for Multi-View Clustering</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Baili Xiao, Zhibin Dong, Ke Liang, Suyuan  Liu, Siwei Wang, Tianrui Liu, Xingchen Hu, En Zhu, <b>Xinwang Liu</b>, En Zhu: <i><u>EEASEMVC: Efficient Dual Selection Mechanism for Deep Multi-View Clustering</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Baili Xiao, Zhibin Dong, Ke Liang, Suyuan  Liu, Siwei Wang, Tianrui Liu, Xingchen Hu, En Zhu, <b>Xinwang Liu</b>, En Zhu: <i><u>EASEMVC: Efficient Dual Selection Mechanism for Deep Multi-View Clustering</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Yuzhuo Dai, Jiagi Jin, Zhibin Dong, Siwei Wang, <b>Xinwang Liu</b>, En zhu, Xihong Yang, Xinbiao Gan, Yu Feng: <i><u>Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
