@@ -8,23 +8,23 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Shengju Yu, Siwei Wang, <b>Xinwang Liu</b>, Yiu-ming Cheung, En Zhu: <i><u>Bifurcate then Alienate: Incomplete Multi-view Clustering via Coupled Distribution Learning with Linear Overhead</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Ke Liang, Jiyuan Liu, En Zhu <i><u> COKE: Core Kernel for More Efficient Approximation of Kernel Weights in Multiple Kernel Clustering
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Ke Liang, Jiyuan Liu, En Zhu: <i><u> COKE: Core Kernel for More Efficient Approximation of Kernel Weights in Multiple Kernel Clustering
 </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Yaowenhu, Wenxuan Tu, Yue Liu, Xinhang Wan, Junyi Yan, Taichun Zhou, <b>Xinwang Liu</b> <i><u> Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Yaowenhu, Wenxuan Tu, Yue Liu, Xinhang Wan, Junyi Yan, Taichun Zhou, <b>Xinwang Liu</b>: <i><u> Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xihong Yang, Siwei Wang, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, <b>Xinwang Liu</b>, Yueming Jin <i><u> Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xihong Yang, Siwei Wang, Fangdi Wang, Jiaqi Jin, Suyuan Liu, Yue Liu, En Zhu, <b>Xinwang Liu</b>, Yueming Jin: <i><u> Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Suyuan Liu, Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, <b>Xinwang Liu</b> <i><u> Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Suyuan Liu, Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, <b>Xinwang Liu</b>: <i><u> Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Hao Yu, Weixuan Liang, KE LIANG, Suyuan Liu, Meng Liu, <b>Xinwang Liu</b> <i><u> On the Adversarial Robustness of Multi-Kernel Clustering</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Hao Yu, Weixuan Liang, KE LIANG, Suyuan Liu, Meng Liu, <b>Xinwang Liu</b>: <i><u> On the Adversarial Robustness of Multi-Kernel Clustering</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 
