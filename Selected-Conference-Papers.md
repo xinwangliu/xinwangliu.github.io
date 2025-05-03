@@ -20,7 +20,7 @@
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Suyuan Liu, Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, <b>Xinwang Liu</b>: <i><u> Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Suyuan Liu, Hao Yu, Hao Tan, Ke Liang, Siwei Wang, Shengju Yu, En Zhu, <b>Xinwang Liu</b>: <i><u> fficient Federated Incomplete Multi-View Clustering </u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 
