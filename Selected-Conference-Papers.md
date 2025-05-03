@@ -24,7 +24,7 @@
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Hao Yu, Weixuan Liang, KE LIANG, Suyuan Liu, Meng Liu, <b>Xinwang Liu</b>: <i><u> On the Adversarial Robustness of Multi-Kernel Clustering</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Hao Yu, Weixuan Liang, Ke Liang, Suyuan Liu, Meng Liu, <b>Xinwang Liu</b>: <i><u> On the Adversarial Robustness of Multi-Kernel Clustering</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 
