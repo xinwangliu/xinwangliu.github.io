@@ -8,8 +8,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Shengju Yu, Siwei Wang, <b>Xinwang Liu</b>, Yiu-ming Cheung, En Zhu: <i><u>Bifurcate then Alienate: Incomplete Multi-view Clustering via Coupled Distribution Learning with Linear Overhead</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Ke Liang, Jiyuan Liu, En Zhu: <i><u> COKE: Core Kernel for More Efficient Approximation of Kernel Weights in Multiple Kernel Clustering
-</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, Ke Liang, Jiyuan Liu, En Zhu: <i><u> COKE: Core Kernel for More Efficient Approximation of Kernel Weights in Multiple Kernel Clustering</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Yaowenhu, Wenxuan Tu, Yue Liu, Xinhang Wan, Junyi Yan, Taichun Zhou, <b>Xinwang Liu</b>: <i><u> Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) </li></p>
