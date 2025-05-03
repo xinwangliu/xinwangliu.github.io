@@ -7,7 +7,6 @@ layout: default
 <ul>
 
 <p style="margin-top: 6px;"><li>[<font color="red">May 1, 2025</font>] <b>Seven papers</b> have been accepted by <font color="green"> International Conference on Machine Learning (ICML 2025)</font>.</li></p> 
-<p style="margin-top: 6px;"><li>[<font color="red">September 25, 2024</font>] Promoted to be "<b>CCF Distinguished Member</b>".</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">May 1, 2025</font>]  <b>Four papers</b> has been accepted by <font color="green"> International Joint Conference on Artificial Intelligence (IJCAI) 2025</font>.</li></p>  
 
