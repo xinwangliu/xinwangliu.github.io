@@ -3,15 +3,17 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TVCG]</b></font> Yuhang Huang, Shilong Zou, <b>Xinwang Liu</b>, Kai Xu: <i><u>Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields</u></i>. <font color="green">IEEE Transactions on Visualization and Computer Graphics(<b>TVCG</b>)</font>. (CCF Rank A) (Accepted in April 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Tao Sun, Li Shen, <b>Xinwang Liu</b>: <i><u>On Nonconvex SGD under Unbounded Noise with Weak Gradient Lipschitz and Delayed Stochastic Gradient</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2025) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Renxiang Guan, Wenxuan Tu, Dayu Hu, Weixuan Liang, Ke Liang, Yaowen Hu, Yue Liu, <b>Xinwang Liu</b>: <i><u>Prototype-Driven Multi-View Attribute-Missing Graph Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia(<b>TMM</b>)</font>. (CCF Rank B) (Accepted in March 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TVCG]</b></font> Yuhang Huang, Shilong Zou, <b>Xinwang Liu</b>, Kai Xu: <i><u>Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields</u></i>. <font color="green">IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>)</font>. (CCF Rank A) (Accepted in April 2025) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Renxiang Guan, Wenxuan Tu, Dayu Hu, Weixuan Liang, Ke Liang, Yaowen Hu, Yue Liu, <b>Xinwang Liu</b>: <i><u>Prototype-Driven Multi-View Attribute-Missing Graph Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B) (Accepted in March 2025) </li></p>
 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Zhiping Cai, Yawei Zhao, Yue Liu, Kunlun He: <i><u>WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2025) </li></p>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xihong Yang, Yiqi Wang, Jin Chen,  Wenqi Fan, Xiangyu Zhao, <b>Xinwang Liu</b>, En Zhu, Defu Lian : <i><u> Dual Test-time Training for Out-of-distribution Recommender System</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xihong Yang, Yiqi Wang, Jin Chen,  Wenqi Fan, Xiangyu Zhao, <b>Xinwang Liu</b>, En Zhu, Defu Lian: <i><u> Dual Test-time Training for Out-of-distribution Recommender System</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Siwei Wang, Qing Liao, <b>Xinwang Liu</b>, Yi Wen, En Zhu, Kunlun He: <i><u>Scalable Multi-View Graph Clustering with Cross-View Corresponding Anchor Alignment</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in January 2025) </li></p>
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AS]</b></font> Zhibin Dong, Pei Li, Yi Jiang, Zhihan Wang, <b>Xinwang Liu</b>, En Zhu, Kunlun He, et al: <i><u>Integrative Multi-Omics and Routine Blood Analysis Using Deeplearning: Cost-Effective Early Prediction of Chronic Disease Risks</u></i>. <font color="green">Advanced Science (<b>AS</b>)</font>.  (Accepted in January 2025) </li></p>
