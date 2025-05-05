@@ -3,6 +3,8 @@
 ## 2025
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TVCG]</b></font> Yuhang Huang, Shilong Zou, <b>Xinwang Liu</b>, Kai Xu: <i><u>Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields</u></i>. <font color="green">IEEE Transactions on Visualization and Computer Graphics(<b>TVCG</b>)</font>. (CCF Rank A) (Accepted in April 2025) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Renxiang Guan, Wenxuan Tu, Dayu Hu, Weixuan Liang, Ke Liang, Yaowen Hu, Yue Liu, <b>Xinwang Liu</b>: <i><u>Prototype-Driven Multi-View Attribute-Missing Graph Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia(<b>TMM</b>)</font>. (CCF Rank B) (Accepted in March 2025) </li></p>
 
  
