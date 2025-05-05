@@ -11,6 +11,7 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">May 1, 2025</font>]  <b>Four papers</b> have been accepted by <font color="green"> International Joint Conference on Artificial Intelligence (IJCAI) 2025</font>.</li></p>  
 
 
+<p style="margin-top: 6px;"><li>[<font color="red">April 30, 2025</font>] "<b>On Nonconvex SGD under Unbounded Noise with Weak Gradient Lipschitz and Delayed Stochastic Gradient</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 17, 2025</font>] "<b>Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields</b>" has been accepted by <font color="green">IEEE Transactions on Visualization and Computer Graphics (TVCG)</font>.</li></p>
 
