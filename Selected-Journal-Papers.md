@@ -4,7 +4,7 @@
 <ol>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Yuzeng Chen, Qiangqiang Yuan, Hong Xie, Yuqi Tang, Yi Xiao, Jiang
-He, Renxiang Guan, <b>Xinwang Liu</b>, Liangpei Zhang: <i><u>Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in May 2024) (CCF Rank A) </li></p >
+He, Renxiang Guan, <b>Xinwang Liu</b>, Liangpei Zhang: <i><u>Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in May 2025) (CCF Rank A) </li></p >
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Tao Sun, Li Shen, <b>Xinwang Liu</b>: <i><u>On Nonconvex SGD under Unbounded Noise with Weak Gradient Lipschitz and Delayed Stochastic Gradient</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2025) </li></p>
