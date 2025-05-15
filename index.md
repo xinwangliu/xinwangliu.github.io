@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+ <p style="margin-top: 6px;"><li>[<font color="red">May 15, 2025</font>] "<b>yes on Islanded Nodes: Better Reasoning via Structure Augmentation and Feature Co-Training on Bi-level Knowledge Graphs</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
+
  <p style="margin-top: 6px;"><li>[<font color="red">May 8, 2025</font>] "<b>Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
  
