@@ -104,44 +104,55 @@ Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale M
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Ke Liang, Yue Liu，Hao Liu, Lingyuan Meng, Suyuan Liu, Siwei Wang, Sihang, Zhou,  <b>Xinwang Liu</b>: <i><u> Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
-https://proceedings.neurips.cc/paper_files/paper/2024/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NDSS]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2025</font>. (CCF Rank A)</li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NDSS]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2025</font>. (CCF Rank A)<a href = "">[PDF]</a><a href = "">[Code]</a></li></p>
+
+
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Ke Liang, Lingyuan Meng, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, Suyuan Liu, Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Huimin Ma, Siwei Wang, Shengju Yu, Suyuan Liu, Jun-Jie Huang, Huijun Wu, <b>Xinwang Liu</b>, En Zhu: <i><u>Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
-
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Dayu Hu, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, <b>Xinwang Liu</b>: <i><u>Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Huimin Ma, Siwei Wang, Shengju Yu, Suyuan Liu, Jun-Jie Huang, Huijun Wu, <b>Xinwang Liu</b>, En Zhu: <i><u>Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)<a href = "https://dl.acm.org/doi/abs/10.1145/3664647.3681273">[PDF]</a><a href = "https://github.com/mahuimin16/3AMVC">[Code]</a></li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, <b>Xinwang Liu</b>, En Zhu: <i><u>GraphLearner: Graph Node Clustering with Fully Learnable Augmentation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Dayu Hu, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, <b>Xinwang Liu</b>: <i><u>Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)<a href = "https://dl.acm.org/doi/abs/10.1145/3664647.3680997">[PDF]</a><a href = "https://github.com/DayuHuu/RAMMVC">[Code]</a></li></p>
+
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, <b>Xinwang Liu</b>, En Zhu: <i><u>GraphLearner: Graph Node Clustering with Fully Learnable Augmentation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)<a href = "https://dl.acm.org/doi/abs/10.1145/3664647.3680602">[PDF]</a><a href = "https://github.com/xihongyang1999/GraphLearner">[Code]</a></li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Qian Qu, Xinhang Wan, Weixuan Liang, Jiyuan Liu, Yu Feng, Huiying Xu, <b>Xinwang Liu</b>, En Zhu: <i><u>A Lightweight Anchor-Based Incremental Framework for Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Xiao He, Chang Tang, <b>Xinwang Liu</b>, Chuankun Li, Shan An and Zhenglai Li: <i><u>Heterogeneous Graph Guided Contrastive Learning for Spatially Resolved Transcriptomics Data</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Fangdi Wang, Siwei Wang, Tianrui Liu, Jiaqi Jin, Zhibin Dong, Xihong Yang, Yu Feng, Xinzhong Zhu, <b>Xinwang Liu</b>, En Zhu: <i><u>View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Fangdi Wang, Siwei Wang, Tianrui Liu, Jiaqi Jin, Zhibin Dong, Xihong Yang, Yu Feng, Xinzhong Zhu, <b>Xinwang Liu</b>, En Zhu: <i><u>View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)<a href = "https://openreview.net/pdf?id=DgNJ18FQLe">[PDF]</a><a href = "https://github.com/Fangdi-Wang/TGM-MVC">[Code]</a></li></p>
+
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Jiaxin Zhang, Yiqi Wang, Xihong Yang, Siwei Wang, Yu Feng, Yu Shi, Ruichao Ren, En Zhu, <b>Xinwang Liu</b>: <i><u>Test-Time Training on Graphs with Large Language Models (LLMs)</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A)</li></p>
  
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xinhang Wan, Jiyuan Liu, <b>Xinwang Liu</b>, Yi Wen, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu: <i><u>Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xinhang Wan, Jiyuan Liu, <b>Xinwang Liu</b>, Yi Wen, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu: <i><u>Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A)<a href = "https://proceedings.mlr.press/v235/wan24e.html">[PDF]</a><a href = "https://github.com/wanxinhang/ICML2024_decouple_then_classify">[Code]</a></li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, Wenxuan Tu, <b>Xinwang Liu</b>: <i><u>Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Weixuan Liang, <b>Xinwang Liu</b>, En Zhu, Shengju Yu, Huiying Xu, Xinzhong Zhu: <i><u>Scalable Multiple Kernel Clustering: Learning Clustering Structure from Expectation</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) </li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, <b>Xinwang Liu</b>: <i><u>Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering</u></i>. <font color="green">CVPR 2024</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Suyuan Liu, Ke Liang, Zhibin Dong, Siwei Wang, Xihong Yang, Sihang Zhou, En Zhu, <b>Xinwang Liu</b>: <i><u>Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering</u></i>. <font color="green">CVPR 2024</font>. (CCF Rank A) <a href = "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf">[PDF]</a><a href = "https://github.com/Tracesource/AEVC">[Code]</a></li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Meng Liu, Yue Liu, Ke Liang, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Deep Temporal Graph Clustering</u></i>. <font color="green">ICLR 2024</font>. (THU Rank A) </li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Meng Liu, Yue Liu, Ke Liang, Wenxuan Tu, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Deep Temporal Graph Clustering</u></i>. <font color="green">ICLR 2024</font>. (THU Rank A) <a href = "https://arxiv.org/abs/2305.10738">[PDF]</a><a href = "https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering">[Code]</a></li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Wenxuan Tu, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, <b>Xinwang Liu</b>: <i><u>Attribute-missing Graph Clustering Network</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, <b>Xinwang Liu</b>: <i><u>Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Suyuan Liu, Junpu Zhang, Yi Wen, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, <b>Xinwang Liu</b>: <i><u>Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/29310/30472">[PDF]</a><a href = "https://github.com/Tracesource/SCSL">[Code]</a></li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, Wenxuan Tu, Yi Zhang, Liming Fang, Zhe Liu, <b>Xinwang Liu</b>: <i><u>Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations</u></i>. <font color="green">AAAI 2024</font>. (CCF Rank A) </li></p>
 
