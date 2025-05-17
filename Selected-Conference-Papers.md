@@ -94,11 +94,18 @@ Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale M
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Fangdi Wang, Siwei Wang, Jiaqi Jin, jingtao Hu, Suyuan Liu, Xihong Yang,   <b>Xinwang Liu</b>, En Zhu: <i><u>Evaluate then cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)<a href = "https://openreview.net/pdf?id=xoc4QOvbDs">[PDF]</a><a href = "https://github.com/Fangdi-Wang/SCE-MVC">[Code]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yue Liu, Shihao Zhu, Jun Xia, Yingwei Ma, Jian Ma, Wenliang Zhong, <b>Xinwang Liu</b>, Shengju Yu, Kejun Zhang: <i><u>End-to-end Learnable Clustering for Intent Learning in Recommendation </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yue Liu, Shihao Zhu, Jun Xia, Yingwei Ma, Jian Ma, Wenliang Zhong, <b>Xinwang Liu</b>, Shengju Yu, Kejun Zhang: <i><u>End-to-end Learnable Clustering for Intent Learning in Recommendation </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)<a href = "https://arxiv.org/abs/2401.05975">[PDF]</a><a href = "https://github.com/yueliu1999/ELCRec">[Code]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, <b>Xinwang Liu</b>, Kunlun He: <i><u> Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, <b>Xinwang Liu</b>, Kunlun He: <i><u> Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)<a href = "https://proceedings.neurips.cc/paper_files/paper/2024/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf">[PDF]</a><a href = "">[Code]</a></li></p>
+
+
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Ke Liang, Yue Liu，Hao Liu, Lingyuan Meng, Suyuan Liu, Siwei Wang, Sihang, Zhou,  <b>Xinwang Liu</b>: <i><u> Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
+
+https://proceedings.neurips.cc/paper_files/paper/2024/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NDSS]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2025</font>. (CCF Rank A)</li></p>
 
