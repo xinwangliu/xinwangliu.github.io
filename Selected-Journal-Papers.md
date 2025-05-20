@@ -3,7 +3,10 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Yi Zhang, Li Liu, Chang Tang, Limin Peng, Long Lan, Dewen Hu: <i><u> <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in May 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Yi Zhang, Li Liu, Chang Tang, Limin Peng, Long Lan, Dewen Hu: <i><u>Sample Adaptive Localized Simple Multiple
+Kernel K-means and Its Application in Parcellation of Human Cerebral Cortex</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in May 2025) </li></p>
+
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Hao Li, Ke Liang, Wenjing Yang, Lingyuan Meng, Yaohua Wang, Sihang Zhou, <b>Xinwang Liu</b>: <i><u>Eyes on Islanded Nodes: Better Reasoning via Structure Augmentation and Feature Co-Training on Bi-level Knowledge Graphs</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in May 2025) (CCF Rank A) </li></p >
 
