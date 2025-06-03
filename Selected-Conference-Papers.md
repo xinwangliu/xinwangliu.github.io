@@ -73,13 +73,17 @@ Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale M
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Duanyang Yuan, Sihang Zhou, Xiaoshu Chen, Dong Wang, Ke Liang, <b>Xinwang Liu</b>, Jian Huang: <i><u>Knowledge Graph Completion with Relation-Aware Anchor Enhancement</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, Huiying Xu,<b>Xinwang Liu</b>: <i><u>Incremental Nyström-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, Huiying Xu,<b>Xinwang Liu</b>: <i><u>Incremental Nyström-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/33825/35980">[PDF]</a> <a href = "https://github.com/YuFeng23/Incremental-Nystrom-based-Multiple-Kernel-Clustering">[Code]</a></li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Yuangang Pan, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, <b>Xinwang Liu</b>, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Renxiang Guan, Wenxuan Tu, Siwei Wang, Jiyuan Liu, Dayu Hu, Junhong Li, Yu Feng, Baili Xiao, Chang Tang, <b>Xinwang Liu</b>: <i><u>Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Pei Zhang, Yuangang Pan, Siwei Wang, Shengju Yu, Huiying Xu, En Zhu, <b>Xinwang Liu</b>, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/34406">[PDF]</a> <a href = "https://github.com/Jeaninezpp/AAAI25-Magic">[Code]</a></li></p>
+
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI]</b></font> Renxiang Guan, Wenxuan Tu, Siwei Wang, Jiyuan Liu, Dayu Hu, Junhong Li, Yu Feng, Baili Xiao, Chang Tang, <b>Xinwang Liu</b>: <i><u>Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/33861">[PDF]</a> <a href = "https://github.com/GuanRX/SAMVGC">[Code]</a></li></p>
+
  
 </ol> 
 
