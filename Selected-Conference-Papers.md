@@ -111,7 +111,7 @@ Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale M
 
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NDSS]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2025</font>. (CCF Rank A)<a href = "">[PDF]</a><a href = "">[Code]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NDSS]</b></font> Hao Yu, Chuan Ma, Xinhang Wang, Jun Wang, Tao Xiang, Meng Shen, <b>Xinwang Liu</b>: <i><u>DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning</u></i>. <font color="green">NDSS 2025</font>. (CCF Rank A)</li></p>
 
 
 
