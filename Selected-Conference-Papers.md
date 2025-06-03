@@ -101,7 +101,7 @@ Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale M
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Yue Liu, Shihao Zhu, Jun Xia, Yingwei Ma, Jian Ma, Wenliang Zhong, <b>Xinwang Liu</b>, Shengju Yu, Kejun Zhang: <i><u>End-to-end Learnable Clustering for Intent Learning in Recommendation </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)<a href = "https://arxiv.org/abs/2401.05975">[PDF]</a><a href = "https://github.com/yueliu1999/ELCRec">[Code]</a></li></p>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, <b>Xinwang Liu</b>, Kunlun He: <i><u> Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)<a href = "https://proceedings.neurips.cc/paper_files/paper/2024/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf">[PDF]</a><a href = "">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Junpu Zhang, Zhibin Dong, Tianrui Liu, En Zhu, <b>Xinwang Liu</b>, Kunlun He: <i><u> Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering </u></i>. <font color="green">NeurIPS 2024</font>. (CCF Rank A)</li></p>
 
 
 
