@@ -3,6 +3,9 @@
 ## 2025
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Renxiang Guan, Tianrui Liu, Wenxuan Tu, Chang Tang, Wenhan Luo, <b>Xinwang Liu</b>: <i><u> Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in June 2025) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Yi Zhang, Li Liu, Chang Tang, Limin Peng, Long Lan, Dewen Hu: <i><u>Sample Adaptive Localized Simple Multiple
 Kernel K-means and Its Application in Parcellation of Human Cerebral Cortex</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in May 2025) </li></p>
 
