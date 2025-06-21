@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-
+<p style="margin-top: 6px;"><li>[<font color="red">June 19, 2025</font>] "<b>From Concrete to Abstract: Multi-view Clustering on Relational Knowledge</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 12, 2025</font>] "<b>Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
