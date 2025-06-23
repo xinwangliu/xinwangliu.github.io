@@ -3,6 +3,11 @@
 ## 2025
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Liang Li, Yuangang Pan, Junpu Zhang, Pei Zhang, Jie Liu, <b>Xinwang Liu</b>, Kenli Li, Ivor W. Tsang, Keqin Li: <i><u> JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering.</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in June 2025) </li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhibin Dong, Dayu Hu, Jiaqi Jin, Siwei Wang , <b>Xinwang Liu</b>, En Zhu: <i><u>Selective Cross-view Topology for Deep Incomplete Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (Accepted in June 2025) (CCF Rank A) </li></p >
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Ke Liang, Lingyuan Meng, Hao Li, Jun Wang, Long Lan, Miaomiao Li,
  <b>Xinwang Liu</b>, Huaimin Wang: <i><u>From Concrete to Abstract: Multi-view Clustering on Relational Knowledge Cortex</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in June 2025) </li></p>
 
