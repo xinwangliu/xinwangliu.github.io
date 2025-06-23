@@ -5,6 +5,12 @@ layout: default
 # News
 
 <ul>
+
+<p style="margin-top: 6px;"><li>[<font color="red">June 23, 2025</font>] "<b>JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering.</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+
+ <p style="margin-top: 6px;"><li>[<font color="red">June 23, 2025</font>] "<b>Selective Cross-view Topology for Deep Incomplete Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
+
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">June 19, 2025</font>] "<b>From Concrete to Abstract: Multi-view Clustering on Relational Knowledge</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 12, 2025</font>] "<b>Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
