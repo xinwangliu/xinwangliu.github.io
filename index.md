@@ -5,7 +5,9 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">June 26, 2025</font>] <b>Three papers</b> have been accepted by <font color="green"> International Conference on Computer Vision (ICCV 2025)</font>.</li></p> 
 
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">June 23, 2025</font>] "<b>JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering.</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">June 23, 2025</font>] "<b>Selective Cross-view Topology for Deep Incomplete Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
