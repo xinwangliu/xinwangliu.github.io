@@ -4,6 +4,9 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Jiaqi Jin, Siwei Wang, Zhibin Dong, Xihong Yang, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>Deep Incomplete Multi-view Clustering with Distribution Dual-Consistency Recovery Guidance</u></i>. <font color="green">ICCV 2025</font>. (CCF Rank A) </li></p>
+
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Xinhang Wan, Jiyuan Liu, Qian Qu, Suyuan Liu, Chuyu Zhang, Fangdi Wang, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>Intra-view and Inter-view Correlation Guided Multi-view Novel Class Discovery</u></i>. <font color="green">ICCV 2025</font>. (CCF Rank A) </li></p>
 
