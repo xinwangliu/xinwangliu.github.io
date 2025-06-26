@@ -4,6 +4,10 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Xihong Yang, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence</u></i>. <font color="green">ICCV 2025</font>. (CCF Rank A) </li></p>
+
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Jiaqi Jin, Siwei Wang, Zhibin Dong, Xihong Yang, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>Deep Incomplete Multi-view Clustering with Distribution Dual-Consistency Recovery Guidance</u></i>. <font color="green">ICCV 2025</font>. (CCF Rank A) </li></p>
 
 
