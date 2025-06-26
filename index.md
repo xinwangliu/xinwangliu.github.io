@@ -5,6 +5,10 @@ layout: default
 # News
 
 <ul>
+
+
+ <p style="margin-top: 6px;"><li>[<font color="red">June 26, 2025</font>] "<b>Multi-View Temporal Graph Clustering"</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">June 26, 2025</font>] <b>Three papers</b> have been accepted by <font color="green"> International Conference on Computer Vision (ICCV 2025)</font>.</li></p> 
 
  
