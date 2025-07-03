@@ -5,7 +5,7 @@ layout: default
 # News
 
 <ul>
-
+<p style="margin-top: 6px;"><li>[<font color="red">July 3, 2025</font>] "<b>WildVideo: Benchmarking LMMs for Understanding Video-Language Interaction</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">June 26, 2025</font>] "<b>Multi-View Temporal Graph Clustering"</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
