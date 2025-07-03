@@ -3,7 +3,9 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Meng Liu, Ke Liang, Hao Yu, Lingyuan Meng, Siwei Wang, Sihang Zhou,<b>Xinwang Liu</b> : <i><u>Multi-View Temporal Graph Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in June 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Songyuan Yang, Weijiang Yu, Wenjing Yang, <b>Xinwang Liu</b>, Huibin Tan, Long Lan, Nong Xiao: <i><u>WildVideo: Benchmarking LMMs for Understanding Video-Language Interaction</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in June 2025) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Meng Liu, Ke Liang, Hao Yu, Lingyuan Meng, Siwei Wang, Sihang Zhou, <b>Xinwang Liu</b> : <i><u>Multi-View Temporal Graph Clustering</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in June 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Liang Li, Yuangang Pan, Junpu Zhang, Pei Zhang, Jie Liu, <b>Xinwang Liu</b>, Kenli Li, Ivor W. Tsang, Keqin Li: <i><u> JetBGC: Joint Robust Embedding and Structural Fusion Bipartite Graph Clustering.</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in June 2025) </li></p>
 
