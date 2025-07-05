@@ -15,7 +15,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Zeyu Zhu, Ke Liang, Lingyuan Meng, Xingchen Hu, <b>Xinwang Liu</b>, Wanwei Liu, Kunlun He: <i><u>SALVG: Latent Variable Gene Augmented Graph Learning for Multi-View Clustering in Spatial Transcriptomics</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yamiao Ding, Tianrui Liu, Zhizhou Lu, Jun-Jie Huang, zhao wentao, <b>Xinwang Liu</b>, Meng Wang: <i><u>VSumMamba: Mamba Empowered Efficient Video Summarization with Multi-Scale Spatial-Temporal Modeling</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yamiao Ding, Tianrui Liu, Zhizhou Lu, JunJie Huang, Wentao Zhao, <b>Xinwang Liu</b>, Meng Wang: <i><u>VSumMamba: Mamba Empowered Efficient Video Summarization with Multi-Scale Spatial-Temporal Modeling</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Shanghui Deng, Xiao Zheng, Chang Tang, Kun Sun, Yuanyuan Liu, <b>Xinwang Liu</b> : <i><u>Find True Collaborators: Banzhaf Index-based Cross View Alignment for Partially View-aligned Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
