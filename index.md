@@ -6,6 +6,9 @@ layout: default
 
 <ul>
 
+ <p style="margin-top: 6px;"><li>[<font color="red">July 8, 2024</font>] "<b>Mutual Calibration Network for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">July 5, 2023</font>] <b>Sevent papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2025</font>.</li></p> 
  
 <p style="margin-top: 6px;"><li>[<font color="red">July 3, 2025</font>] "<b>WildVideo: Benchmarking LMMs for Understanding Video-Language Interaction</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
