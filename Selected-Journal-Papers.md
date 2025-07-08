@@ -4,7 +4,7 @@
 <ol>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Yuang Xiao, Chang Tang, Xiao Zheng, Weiqing Yan, Yuanyuan
-Liu,  <b>Xinwang Liu</b> : <i><u>utual Calibration Network for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
+Liu,  <b>Xinwang Liu</b> : <i><u>Mutual Calibration Network for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Songyuan Yang, Weijiang Yu, Wenjing Yang, <b>Xinwang Liu</b>, Huibin Tan, Long Lan, Nong Xiao: <i><u>WildVideo: Benchmarking LMMs for Understanding Video-Language Interaction</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2025) </li></p>
