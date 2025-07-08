@@ -3,7 +3,7 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yuang Xiao, Chang Tang, Xiao Zheng, Weiqing Yan, Yuanyuan
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Yuang Xiao, Chang Tang, Xiao Zheng, Weiqing Yan, Yuanyuan
 Liu,  <b>Xinwang Liu</b> : <i><u>utual Calibration Network for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
 
 
