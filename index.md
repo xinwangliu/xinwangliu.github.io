@@ -8,7 +8,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 13, 2025</font>] "<b>Thinking on Context: Inductive Relation Prediction Guided by the Reasoning Ability of Large Language Models.</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
-<p style="margin-top: 6px;"><li>[<font color="red">July 12, 2025</font>] "<b>Latent Semantics and Anchor Graph Multi-layer Learning for Multi-view Unsupervised Feature Selection.</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">July 12, 2025</font>] "<b>Latent Semantics and Anchor Graph Multi-layer Learning for Multi-view Unsupervised Feature Selection.</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 
  <p style="margin-top: 6px;"><li>[<font color="red">July 8, 2024</font>] "<b>Mutual Calibration Network for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
