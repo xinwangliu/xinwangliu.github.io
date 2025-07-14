@@ -6,6 +6,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xiaoshu Chen, Sihang Zhou, Liang Ke, Jiafei Wu,  <b>Xinwang Liu</b>, Dongsheng Li, Kai Lu: <i><u> Thinking on Context: Inductive Relation Prediction Guided by the Reasoning Ability of Large Language Models.</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2025) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Qi Liu, Suyuan Liu, <b>Xinwang Liu</b>,  Jianhua Dai : <i><u> Latent Semantics and Anchor Graph Multi-layer Learning for Multi-view Unsupervised Feature Selection.</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2025) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Yuang Xiao, Chang Tang, Xiao Zheng, Weiqing Yan, Yuanyuan
 Liu,  <b>Xinwang Liu</b> : <i><u>Mutual Calibration Network for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
 
