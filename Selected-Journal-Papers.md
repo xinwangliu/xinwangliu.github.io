@@ -3,6 +3,7 @@
 ## 2025
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xiaoshu Chen, Sihang Zhou, Ke Liang, <b>Xinwang Liu</b> : <i><u>Distilling Reasoning Ability from Large Language Models with Adaptive Thinking</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Xiaoshu Chen, Sihang Zhou, Liang Ke, Jiafei Wu,  <b>Xinwang Liu</b>, Dongsheng Li, Kai Lu: <i><u> Thinking on Context: Inductive Relation Prediction Guided by the Reasoning Ability of Large Language Models.</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2025) </li></p>
 
