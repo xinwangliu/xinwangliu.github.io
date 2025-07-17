@@ -3,7 +3,7 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Mengjiao Zhang, Tianhao Han, Sijie Niu, <b>Xinwang Liu</b>, Xiaofeng Qu, Xizhan Gao : <i><u>Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing(<b>TGRS</b>)</font>. (CCF Rank B) (Accepted in July 2025) <a href = "https://github.com/GuanRX/SSGCC">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Mengjiao Zhang, Tianhao Han, Sijie Niu, <b>Xinwang Liu</b>, Xiaofeng Qu, Xizhan Gao : <i><u>Masked Superpixel Cntrastive Subspace Clustering Network for Usupervised Large-Scale Hyperspectral Image Classifcation</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing(<b>TGRS</b>)</font>. (CCF Rank B) (Accepted in July 2025)</li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Xiaoshu Chen, Sihang Zhou, Ke Liang, <b>Xinwang Liu</b> : <i><u>Distilling Reasoning Ability from Large Language Models with Adaptive Thinking</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
