@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">July 17, 2025</font>] "<b>Masked Superpixel Cntrastive Subspace Clustering Network for Usupervised Large-Scale Hyperspectral Image Classifcation</b>" has been accepted by <font color="green">IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)</font>.</li></p>
+
  <p style="margin-top: 6px;"><li>[<font color="red">July 14, 2025</font>] "<b>Distilling Reasoning Ability from Large Language Models with Adaptive Thinking"</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
 
