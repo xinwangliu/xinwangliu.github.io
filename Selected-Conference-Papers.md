@@ -11,7 +11,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Taichun Zhou, Zhibin Dong, Siwei Wang, Ke Liang, Miaomiao Li, <b>Xinwang Liu</b>, En Zhu, Xiangjun Dong: <i><u>DPFMVC: Dynamic Progressive Fusion for Multi-view Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Yaowen Hu, Wenxuan Tu, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, <b>Xinwang Liu</b>, Chen ping : <i><u>Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font>Yaowen Hu, Wenxuan Tu, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, <b>Xinwang Liu</b>,  Ping Chen : <i><u>Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Zeyu Zhu, Ke Liang, Lingyuan Meng, Xingchen Hu, <b>Xinwang Liu</b>, Wanwei Liu, Kunlun He: <i><u>SALVG: Latent Variable Gene Augmented Graph Learning for Multi-View Clustering in Spatial Transcriptomics</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
