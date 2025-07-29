@@ -3,7 +3,7 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Nan Yin, Li Shen, Mengzhu Wang, <b>Xinwang Liu</b>, Chong Chen, Xian-Sheng Hua, Xiao Luo: <i><u> DREAM: A Dual Variational Framework for Unsupervised Graph Domain Adaptation. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Nan Yin, Li Shen, Mengzhu Wang, <b>Xinwang Liu</b>, Chong Chen, Xian-Sheng Hua, Xiao Luo: <i><u> DREAM: A Dual Variational Framework for Unsupervised Graph Domain Adaptation</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TGRS]</b></font> Mengjiao Zhang, Tianhao Han, Sijie Niu, <b>Xinwang Liu</b>, Xiaofeng Qu, Xizhan Gao : <i><u>Masked Superpixel Cntrastive Subspace Clustering Network for Usupervised Large-Scale Hyperspectral Image Classifcation</u></i>. <font color="green">IEEE Transactions on Geoscience and Remote Sensing(<b>TGRS</b>)</font>. (CCF Rank B) (Accepted in July 2025)</li></p>
 
