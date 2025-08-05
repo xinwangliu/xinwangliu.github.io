@@ -6,7 +6,11 @@ layout: default
 
 <ul>
 
- <p style="margin-top: 6px;"><li>[<font color="red">July 31, 2025</font>] "<b>Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">August 4, 2025</font>] "<b>Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 3, 2025</font>] "<b>Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">July 31, 2025</font>] "<b>Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2025</font>] "<b>DREAM: A Dual Variational Framework for Unsupervised Graph Domain Adaptation</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
  
