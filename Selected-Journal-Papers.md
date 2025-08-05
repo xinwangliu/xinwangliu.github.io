@@ -2,10 +2,9 @@
 
 ## 2025
 <ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Meng Liu, Ke Liang, Siwei Wang, Xingchen Hu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u> Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Liang Li, Yuangang Pan, Yinghua Yao, Junpu Zhang, Moyun Liu, Xueling Zhu, <b>Xinwang Liu</b>, Kenli Li, Ivor W. Tsang, Keqin Li: <i><u> Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Meng Liu, Ke Liang, Siwei Wang, Xingchen Hu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u> Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Hao Li, Wei Wang, Cong Wang, Mengzhu Wang, Xiang Zhang, Long Lan, <b>Xinwang Liu</b>, Kenli Li, Xiaochun Cao : <i><u>Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in July 2025) </li></p>
 
