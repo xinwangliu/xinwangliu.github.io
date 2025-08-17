@@ -5,7 +5,8 @@ layout: default
 # News
 
 <ul>
-
+<p style="margin-top: 6px;"><li>[<font color="red">August 17, 2025</font>] "<b> Communication-Efficient Federated Multi-view Clustering </b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">August 4, 2025</font>] "<b>Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 3, 2025</font>] "<b>Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
