@@ -2,6 +2,9 @@
 
 ## 2025
 <ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Siqi Wang, Xinhang Wan, Dongsheng Li, Kai Lu and Kunlun He: <i><u> Communication-Efficient Federated Multi-view Clustering </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Meng Liu, Ke Liang, Siwei Wang, Xingchen Hu, Sihang Zhou, <b>Xinwang Liu</b>: <i><u> Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Liang Li, Yuangang Pan, Yinghua Yao, Junpu Zhang, Moyun Liu, Xueling Zhu, <b>Xinwang Liu</b>, Kenli Li, Ivor W. Tsang, Keqin Li: <i><u> Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
