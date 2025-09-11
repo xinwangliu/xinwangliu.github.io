@@ -5,7 +5,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Miaomiao Li, <b>Xinwang Liu</b>: <i><u> Incremental Multi-View Clustering: Exploring Stream-View Correlations to Learn Consistency and Diversity</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Chang Tang, Jiahe Jiang, Tianyi Wang, En Zhu, <b>Xinwang Liu</b>: <i><u> IMulti-view Clustering via High-order Bipartite Graph Learning and Tensor Low-Rank Representation </u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Chang Tang, Jiahe Jiang, Tianyi Wang, En Zhu, <b>Xinwang Liu</b>: <i><u> Multi-view Clustering via High-order Bipartite Graph Learning and Tensor Low-Rank Representation </u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Siqi Wang, Xinhang Wan, Dongsheng Li, Kai Lu and Kunlun He: <i><u> Communication-Efficient Federated Multi-view Clustering </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
  
