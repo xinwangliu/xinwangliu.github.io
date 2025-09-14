@@ -3,6 +3,8 @@
 ## 2025
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Junyi Yan, Enguang Zuo, Ke Liang, Meng Liu, Miaomiao Li,  <b>Xinwang Liu</b>, Xiaoyi Lv, Kai Lu: <i><u> Address Anomalies at Critical Crossroads for Graph Anomaly Detection</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in September 2025) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Miaomiao Li, <b>Xinwang Liu</b>: <i><u> Incremental Multi-View Clustering: Exploring Stream-View Correlations to Learn Consistency and Diversity</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Chang Tang, Jiahe Jiang, Tianyi Wang, En Zhu, <b>Xinwang Liu</b>: <i><u> Multi-view Clustering via High-order Bipartite Graph Learning and Tensor Low-Rank Representation </u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
