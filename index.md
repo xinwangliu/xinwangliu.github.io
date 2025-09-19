@@ -5,6 +5,10 @@ layout: default
 # News
 
 <ul>
+
+<p style="margin-top: 6px;"><li>[<font color="red">September 19, 2025</font>] <b>Six papers</b> have been accepted by <font color="green"> 38th Conference on Neural Information Processing Systems (NeurIPS 2025)</font>.</li></p> 
+
+ 
 <p style="margin-top: 6px;"><li>[<font color="red">September 14, 2025</font>] <b>One paper</b> have been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
  
  <p style="margin-top: 6px;"><li>[<font color="red">August 29, 2025</font>] “<b> Revisiting Gradient Normalization and Clipping for Nonconvex SGD under Heavy-Tailed Noise: Necessity, Sufficiency, and Acceleration </b>” have been accepted by <font color="green">  Journal of Machine Learning Research (JMLR) </font>.</li></p> 
