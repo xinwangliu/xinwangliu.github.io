@@ -4,6 +4,11 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, Xinwang Liu: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, Xinwang Liu: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Junpu Zhang, Shengju Yu, Suyuan Liu, Siwei Wang, Miaomiao Li, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>  Learning the Anchors with Similar Distributions to Original Data for Multi-view Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
