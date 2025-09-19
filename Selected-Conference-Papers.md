@@ -4,9 +4,24 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, Xinwang Liu: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, <b>Xinwang Liu</b>: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, Xinwang Liu: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Xinhang Wan, Ke Liang, Weixuan Liang, Sihang Zhou, Huijun Wu, Kehua Guo: <i><u> Incomplete Multi-view Deep Clustering with Data Imputation and Alignment </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Jun Wang, Zhenglai Li, Chang Tang, Suyuan Liu, Hao Yu, Chuan Tang, Miaomiao Li, <b>Xinwang Liu</b>: <i><u> Scalable Cross-View Sample Alignment for Multi-View Clustering with View Structure Similarity </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Ruimeng Liu, Xin Zou, Chang Tang, Xiao Zheng, Xingchen Hu, Kun Sun, <b>Xinwang Liu</b>: <i><u> SparseMVC: Probing Cross-view Sparsity Variations for Multi-view Clustering </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Dongyang Zeng, Yaping Liu, Wei Zhang, Shuo Zhang, <b>Xinwang Liu</b>, Binxing Fang: <i><u> EAReranker: Efficient Embedding Adequacy Assessment for Retrieval Augmented Generation </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Zeyu Zhu, Ke Liang, Lingyuan Meng, Meng Liu, Suyuan Liu, Renxiang Guan, Miaomiao Li, Wanwei Liu, <b>Xinwang Liu</b>: <i><u> SAINT: Sequence-Aware Integration for Spatial Transcriptomics Multi-View Clustering </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+
+
+
+
+
+
 
 
 
