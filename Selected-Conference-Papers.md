@@ -13,9 +13,9 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Ruimeng Liu, Xin Zou, Chang Tang, Xiao Zheng, Xingchen Hu, Kun Sun, <b>Xinwang Liu</b>: <i><u> SparseMVC: Probing Cross-view Sparsity Variations for Multi-view Clustering </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Dongyang Zeng, Yaping Liu, Wei Zhang, Shuo Zhang, <b>Xinwang Liu</b>, Binxing Fang: <i><u> EAReranker: Efficient Embedding Adequacy Assessment for Retrieval Augmented Generation </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Dongyang Zeng, Yaping Liu, Wei Zhang, Shuo Zhang, <b>Xinwang Liu</b>, Binxing Fang: <i><u> EAReranker: Efficient Embedding Adequacy Assessment for Retrieval Augmented Generation </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font>Zeyu Zhu, Ke Liang, Lingyuan Meng, Meng Liu, Suyuan Liu, Renxiang Guan, Miaomiao Li, Wanwei Liu, <b>Xinwang Liu</b>: <i><u> SAINT: Sequence-Aware Integration for Spatial Transcriptomics Multi-View Clustering </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Zeyu Zhu, Ke Liang, Lingyuan Meng, Meng Liu, Suyuan Liu, Renxiang Guan, Miaomiao Li, Wanwei Liu, <b>Xinwang Liu</b>: <i><u> SAINT: Sequence-Aware Integration for Spatial Transcriptomics Multi-View Clustering </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
 
 
 
