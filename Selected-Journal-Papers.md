@@ -3,6 +3,9 @@
 ## 2025
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Qian Qu, Xinhang Wan, Jiyuan Liu, <b>Xinwang Liu</b>, En Zhu : <i><u>Anchor-guided Sample-and-feature Incremental Alignment Framework for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in September 2025) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Junyi Yan, Enguang Zuo, Ke Liang, Meng Liu, Miaomiao Li,  <b>Xinwang Liu</b>, Xiaoyi Lv, Kai Lu: <i><u> Address Anomalies at Critical Crossroads for Graph Anomaly Detection</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in September 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Miaomiao Li, <b>Xinwang Liu</b>: <i><u> Incremental Multi-View Clustering: Exploring Stream-View Correlations to Learn Consistency and Diversity</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in August 2025) </li></p>
