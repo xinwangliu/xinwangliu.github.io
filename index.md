@@ -146,6 +146,11 @@ Networks via Discrepancy Learning</b>" has been accepted by <font color="green">
 
  <p style="margin-top: 6px;"><li>[<font color="red">May 22, 2024</font>] "<b>Improved Dual Correlation Reduction Network with Affinity Recovery</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
+
+ <p style="margin-top: 6px;"><li>[<font color="red">May 13, 2024</font>] "<b>High-order Topology for Deep Single-Cell Multiview Fuzzy Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Fuzzy Systems (IEEE TFS)</font>.</li></p>
+
+
+
  <p style="margin-top: 6px;"><li>[<font color="red">May 5, 2024</font>] "<b>Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">May 2, 2024</font>] <b>Three papers</b> have been accepted by <font color="green"> 41st International Conference on Machine Learning (ICML 2024)</font>.</li></p>  
