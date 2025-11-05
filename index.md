@@ -9,6 +9,9 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">November 5, 2025</font>] "<b>A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
+ <p style="margin-top: 6px;"><li>[<font color="red">November 4, 2025</font>] “<b> Revisiting Gradient Normalization and Clipping for Nonconvex SGD under Heavy-Tailed Noise: Necessity, Sufficiency, and Acceleration </b>” have been accepted by <font color="green">  Journal of Machine Learning Research (JMLR) </font>.</li></p> 
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">November 3, 2025</font>] "<b>Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering</b>" has been accepted by <font color="green">Science China Information Sciences (SCIS)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">October 27, 2025</font>] "<b>Knowledge Graph Reasoning Based on Information Enhancement and Subgraph Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
@@ -25,7 +28,7 @@ layout: default
  
 <p style="margin-top: 6px;"><li>[<font color="red">September 14, 2025</font>] <b>One paper</b> have been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
  
- <p style="margin-top: 6px;"><li>[<font color="red">August 29, 2025</font>] “<b> Revisiting Gradient Normalization and Clipping for Nonconvex SGD under Heavy-Tailed Noise: Necessity, Sufficiency, and Acceleration </b>” have been accepted by <font color="green">  Journal of Machine Learning Research (JMLR) </font>.</li></p> 
+
  
 <p style="margin-top: 6px;"><li>[<font color="red">August 26, 2025</font>] <b>Two papers</b> have been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
