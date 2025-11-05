@@ -11,6 +11,11 @@ layout: default
 
  <p style="margin-top: 6px;"><li>[<font color="red">October 27, 2025</font>] "<b>Knowledge Graph Reasoning Based on Information Enhancement and Subgraph Alignment</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
 
+
+ <p style="margin-top: 6px;"><li>[<font color="red">September 25, 2025</font>] "<b>SKIP: A Prototype-based Scalable Knowledge Graph Representation Learning Method</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
+
+ 
+
 <p style="margin-top: 6px;"><li>[<font color="red">September 22, 2025</font>] "<b>Anchor-guided Sample-and-feature Incremental Alignment Framework for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">September 19, 2025</font>] <b>Six papers</b> have been accepted by <font color="green"> 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</font>.</li></p> 
