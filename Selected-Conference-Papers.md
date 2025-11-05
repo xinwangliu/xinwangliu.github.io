@@ -27,17 +27,17 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Junpu Zhang, Shengju Yu, Suyuan Liu, Siwei Wang, Miaomiao Li, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>  Learning the Anchors with Similar Distributions to Original Data for Multi-view Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Renxiang Guan, Junhong Li, Siwei Wang, Wenxuan Tu, Miaomiao Li, En Zhu, <b>Xinwang Liu</b>, Ping Chen  : <i><u>Multi-view Graph Clustering with Dual Relation Optimization for Remote Sensing Data</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Renxiang Guan, Junhong Li, Siwei Wang, Wenxuan Tu, Miaomiao Li, En Zhu, <b>Xinwang Liu</b>, Ping Chen : <i><u>Multi-view Graph Clustering with Dual Relation Optimization for Remote Sensing Data</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Taichun Zhou, Zhibin Dong, Siwei Wang, Ke Liang, Miaomiao Li, <b>Xinwang Liu</b>, En Zhu, Xiangjun Dong: <i><u>DPFMVC: Dynamic Progressive Fusion for Multi-view Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yaowen Hu, Wenxuan Tu, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, <b>Xinwang Liu</b>,  Ping Chen : <i><u>Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yaowen Hu, Wenxuan Tu, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, <b>Xinwang Liu</b>,  Ping Chen: <i><u>Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Zeyu Zhu, Ke Liang, Lingyuan Meng, Xingchen Hu, <b>Xinwang Liu</b>, Wanwei Liu, Kunlun He: <i><u>SALVG: Latent Variable Gene Augmented Graph Learning for Multi-View Clustering in Spatial Transcriptomics</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yamiao Ding, Tianrui Liu, Zhizhou Lu, JunJie Huang, Wentao Zhao, <b>Xinwang Liu</b>, Meng Wang: <i><u>VSumMamba: Mamba Empowered Efficient Video Summarization with Multi-Scale Spatial-Temporal Modeling</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Shanghui Deng, Xiao Zheng, Chang Tang, Kun Sun, Yuanyuan Liu, <b>Xinwang Liu</b> : <i><u>Find True Collaborators: Banzhaf Index-based Cross View Alignment for Partially View-aligned Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Shanghui Deng, Xiao Zheng, Chang Tang, Kun Sun, Yuanyuan Liu, <b>Xinwang Liu</b>: <i><u>Find True Collaborators: Banzhaf Index-based Cross View Alignment for Partially View-aligned Clustering</u></i>. <font color="green">ACM MM 2025</font>. (CCF Rank A)</li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV]</b></font> Xihong Yang, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, <b>Xinwang Liu</b>, En Zhu, Kunlun He: <i><u>Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence</u></i>. <font color="green">ICCV 2025</font>. (CCF Rank A) </li></p>
 
