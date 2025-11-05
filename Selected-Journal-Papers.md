@@ -3,9 +3,15 @@
 ## 2025
 <ol>
 
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, <b>Xinwang Liu</b>, Xiao Luo, Philip Yu, Ming Zhang: <i><u> A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Miaomiao Li, Ke Liang, Yuping Lai, <b>Xinwang Liu</b>: <i><u>Knowledge Graph Reasoning Based on Information Enhancement and Subgraph Alignment</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in October 2025) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Yue Liu, Ke Liang, Jun Xia, Meng Liu, Xihong Yang, <b>Xinwang Liu</b>, Sihang Zhou, Stan Z. Li: <i><u>SKIP: A Prototype-based Scalable Knowledge Graph Representation Learning Method</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B) (Accepted in October 2025) </li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Qian Qu, Xinhang Wan, Jiyuan Liu, <b>Xinwang Liu</b>, En Zhu: <i><u>Anchor-guided Sample-and-feature Incremental Alignment Framework for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in September 2025) </li></p>
 
