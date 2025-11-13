@@ -17,7 +17,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Taichun Zhou, Siwei Wang, Zhibin Dong, Jiaqi Jin, Ke Liang, Baili Xiao, Miaomiao Li, Xinwang Liu, En Zhu:
+    Taichun Zhou, Siwei Wang, Zhibin Dong, Jiaqi Jin, Ke Liang, Baili Xiao, Miaomiao Li, <b>Xinwang Liu</b>, En Zhu:
     <i><u>Hierarchical Cross-View Alignment for Multi-View Clustering via Decoupled Information Distillation</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
@@ -27,7 +27,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Lijun Zhang, Suyuan Liu, Siwei Wang, Shengju Yu, Xueling Zhu, Miaomiao Li, Xinwang Liu:
+    Lijun Zhang, Suyuan Liu, Siwei Wang, Shengju Yu, Xueling Zhu, Miaomiao Li, <b>Xinwang Liu</b>:
     <i><u>Parameter-Free Clustering via Self-Supervised Consensus Maximization</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
@@ -37,7 +37,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Lingyuan Meng, Ke Liang, Hao Yu, Haotian Wang, Miaomiao Li, Xinwang Liu:
+    Lingyuan Meng, Ke Liang, Hao Yu, Haotian Wang, Miaomiao Li, <b>Xinwang Liu</b>:
     <i><u>Make Model Transparent: Brain Network Analysis via Causal and Knowledge Graph Learning</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
@@ -47,7 +47,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Hao Yu, Ke Liang, Junxian Duan, Jun Wang, Siwei Wang, Chuan Ma, Xinwang Liu:
+    Hao Yu, Ke Liang, Junxian Duan, Jun Wang, Siwei Wang, Chuan Ma, <b>Xinwang Liu</b>:
     <i><u>TVChain: Leveraging Textual-Visual Prompt Chains for Jailbreaking Large Vision-Language Models</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
@@ -57,7 +57,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Yixi Chen, Weixuan Liang, Tianrui Liu, Jun-Jie Huang, Aco Li, Xueling Zhu, Xinwang Liu:
+    Yixi Chen, Weixuan Liang, Tianrui Liu, Jun-Jie Huang, Aco Li, Xueling Zhu, <b>Xinwang Liu</b>:
     <i><u>Enhancing Kernel Power K-means: Scalable and Robust Clustering with Random Fourier Features and Possibilistic Method</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
@@ -67,7 +67,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Jungsong Chen, Jiyuan Liu, Suyuan Liu, Wei Zhang, Ao Li, En Zhu, Xinwang Liu:
+    Jungsong Chen, Jiyuan Liu, Suyuan Liu, Wei Zhang, Ao Li, En Zhu, <b>Xinwang Liu</b>:
     <i><u>Sample-specific Modality Diagnosis and Cross-modal Enhancement for Incomplete Multimodal Representations</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
