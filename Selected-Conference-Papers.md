@@ -4,6 +4,16 @@
 
 <ol>
 
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Renxiang Guan, Junhong Li, Siwei Wang, Tianrui Liu, Dayu Hu, Miaomiao Li, <b>Xinwang Liu</b>:
+    <i><u>Graph Masked Autoencoder for Multi-view Remote Sensing Data Clustering</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, <b>Xinwang Liu</b>: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Xinhang Wan, Ke Liang, Weixuan Liang, Sihang Zhou, Huijun Wu, Kehua Guo: <i><u> Incomplete Multi-view Deep Clustering with Data Imputation and Alignment </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
