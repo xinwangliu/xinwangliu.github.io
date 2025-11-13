@@ -14,6 +14,66 @@
   </li>
 </p>
 
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Taichun Zhou, Siwei Wang, Zhibin Dong, Jiaqi Jin, Ke Liang, Baili Xiao, Miaomiao Li, Xinwang Liu, En Zhu:
+    <i><u>Hierarchical Cross-View Alignment for Multi-View Clustering via Decoupled Information Distillation</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Lijun Zhang, Suyuan Liu, Siwei Wang, Shengju Yu, Xueling Zhu, Miaomiao Li, Xinwang Liu:
+    <i><u>Parameter-Free Clustering via Self-Supervised Consensus Maximization</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Lingyuan Meng, Ke Liang, Hao Yu, Haotian Wang, Miaomiao Li, Xinwang Liu:
+    <i><u>Make Model Transparent: Brain Network Analysis via Causal and Knowledge Graph Learning</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Hao Yu, Ke Liang, Junxian Duan, Jun Wang, Siwei Wang, Chuan Ma, Xinwang Liu:
+    <i><u>TVChain: Leveraging Textual-Visual Prompt Chains for Jailbreaking Large Vision-Language Models</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Yixi Chen, Weixuan Liang, Tianrui Liu, Jun-Jie Huang, Aco Li, Xueling Zhu, Xinwang Liu:
+    <i><u>Enhancing Kernel Power K-means: Scalable and Robust Clustering with Random Fourier Features and Possibilistic Method</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
+<p style="margin-top: 8px;">
+  <li>
+    <font face="verdana" color="blue"><b>[AAAI]</b></font>
+    Jungsong Chen, Jiyuan Liu, Suyuan Liu, Wei Zhang, Ao Li, En Zhu, Xinwang Liu:
+    <i><u>Sample-specific Modality Diagnosis and Cross-modal Enhancement for Incomplete Multimodal Representations</u></i>.
+    <font color="green">AAAI 2026</font>.
+    (CCF Rank A)
+  </li>
+</p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, <b>Xinwang Liu</b>: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Xinhang Wan, Ke Liang, Weixuan Liang, Sihang Zhou, Huijun Wu, Kehua Guo: <i><u> Incomplete Multi-view Deep Clustering with Data Imputation and Alignment </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
