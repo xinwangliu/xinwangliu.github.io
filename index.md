@@ -6,6 +6,10 @@ layout: default
 
 <ul>
 
+
+ <p style="margin-top: 6px;"><li>[<font color="red">December 8, 2025</font>]  <b>Seven papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2026</font>.</li></p>
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">November 5, 2025</font>] "<b>A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
