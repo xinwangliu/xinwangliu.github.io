@@ -4,6 +4,9 @@
 <ol>
 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCBB]</b></font> Dayu Hu, Renxiang Guan, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, <b>Xinwang Liu</b>: <i><u> Single-cell Multi-view Clustering via Community Detection with Unknown Number of Clusters. </u></i>. <font color="green">IEEE Transactions on Computational Biology and Bioinformatics  (<b>TCBB</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
+
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, <b>Xinwang Liu</b>, Xiao Luo, Philip Yu, Ming Zhang: <i><u> A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
 
