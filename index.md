@@ -6,9 +6,11 @@ layout: default
 
 <ul>
 
+
+
  <p style="margin-top: 6px;"><li>[<font color="red">November 17, 2025</font>]  "<b>Single-cell Multi-view Clustering via Community Detection with Unknown Number of Clusters</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics</font>.</li></p>
 
-
+ <p style="margin-top: 6px;"><li>[<font color="red">November 10, 2025</font>] "<b>Linear Complexity Multi-View Unsupervised Feature Selection via Anchor-Based Feature Relationship Construction</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">November 8, 2025</font>]  <b>Seven papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2026</font>.</li></p>
 
