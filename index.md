@@ -6,6 +6,7 @@ layout: default
 
 <ul>
 
+ <p style="margin-top: 6px;"><li>[<font color="red">December 17, 2025</font>]  <b>One paper</b> has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">December 8, 2025</font>]  <b>Seven papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2026</font>.</li></p>
 
