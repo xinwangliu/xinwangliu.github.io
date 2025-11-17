@@ -1,4 +1,4 @@
----
+![f4d495402a21c9ebc608489755ca3a1e](https://github.com/user-attachments/assets/e52c3361-b7a1-458f-880f-b92fb9bd8c98)---
 layout: default
 ---
 
@@ -6,9 +6,12 @@ layout: default
 
 <ul>
 
- <p style="margin-top: 6px;"><li>[<font color="red">December 17, 2025</font>]  <b>One paper</b> has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">November 17, 2025</font>]  "<b>Single-cell Multi-view Clustering via Community Detection with Unknown Number of Clusters</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics</font>.</li></p>
 
- <p style="margin-top: 6px;"><li>[<font color="red">December 8, 2025</font>]  <b>Seven papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2026</font>.</li></p>
+
+
+ <p style="margin-top: 6px;"><li>[<font color="red">November 8, 2025</font>]  <b>Seven papers</b> have been accepted by <font color="green"> AAAI Conference on Artificial Intelligence (AAAI) 2026</font>.</li></p>
+
 
 
 <p style="margin-top: 6px;"><li>[<font color="red">November 5, 2025</font>] "<b>A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
