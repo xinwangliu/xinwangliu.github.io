@@ -4,7 +4,7 @@
 <ol>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCBB]</b></font> Dayu Hu, Renxiang Guan, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, <b>Xinwang Liu</b>: <i><u> Single-cell Multi-view Clustering via Community Detection with Unknown Number of Clusters. </u></i>. <font color="green">IEEE Transactions on Computational Biology and Bioinformatics  (<b>TCBB</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCBB]</b></font> Dayu Hu, Renxiang Guan, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, <b>Xinwang Liu</b>: <i><u> Single-cell Multi-view Clustering via Community Detection with Unknown Number of Clusters. </u></i>. <font color="green">IEEE Transactions on Computational Biology and Bioinformatics  (<b>TCBB</b>)</font>(CCF Rank A) (Accepted in November 2025) </li></p>
 
 
 
