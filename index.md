@@ -1,4 +1,3 @@
-![f4d495402a21c9ebc608489755ca3a1e](https://github.com/user-attachments/assets/e52c3361-b7a1-458f-880f-b92fb9bd8c98)---
 layout: default
 ---
 
