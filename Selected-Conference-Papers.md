@@ -56,7 +56,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Yixi Chen, Weixuan Liang, Tianrui Liu, Jun-Jie Huang, Aco Li, Xueling Zhu, <b>Xinwang Liu</b>:
+    Yixi Chen, Weixuan Liang, Tianrui Liu, Jun-Jie Huang, Ao Li, Xueling Zhu, <b>Xinwang Liu</b>:
     <i><u>Enhancing Kernel Power K-means: Scalable and Robust Clustering with Random Fourier Features and Possibilistic Method</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
