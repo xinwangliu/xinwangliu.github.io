@@ -8,6 +8,8 @@ layout: default
 
  <p style="margin-top: 6px;"><li>[<font color="red">November 21, 2025</font>]  "<b>G<sup>2</sup>uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p>
 
+<p style="margin-top: 6px;"><li>[<font color="red">November 20, 2025</font>] "<b>Enhancing Anchor Representativeness and Stability in Scalable
+Multi-View Clustering with Prior Guidance</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">November 17, 2025</font>]  "<b>Single-cell Multi-view Clustering via Community Detection with Unknown Number of Clusters</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics (IEEE TCBB)</font>.</li></p>
 
