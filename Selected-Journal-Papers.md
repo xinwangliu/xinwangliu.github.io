@@ -3,6 +3,11 @@
 ## 2025
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Hao Yu, Chuan Ma, Meng Liu, Tianyu Du, Ming Ding, Tao Xiang, Shouling Ji, <b>Xinwang Liu</b>: <i><u> G<sup>2</sup>uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering. </u></i><font color="green"> IEEE Transactions on Information Forensics and Security  (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Miaomiao Li, Suyuan Liu, Hengfu Yang, Xueling Zhu, <b>Xinwang Liu</b>: <i><u>Enhancing Anchor Representativeness and Stability in Scalable Multi-View Clustering with Prior Guidance</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B) (Accepted in November 2025) </li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Qi Liu, Suyuan Liu, Jianhua Dai, Xueling Zhu, <b>Xinwang Liu</b>: <i><u> Linear Complexity Multi-View Unsupervised Feature Selection via Anchor-Based Feature Relationship Construction. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
 
