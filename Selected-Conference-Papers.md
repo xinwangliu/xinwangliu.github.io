@@ -1,7 +1,7 @@
 # Selected Conference Papers:
 
 ## 2026
-
+<ol>
 
 <p style="margin-top: 8px;">
   <li>
@@ -75,7 +75,6 @@
 
 ## 2025
 
-<ol>
 
 
 
