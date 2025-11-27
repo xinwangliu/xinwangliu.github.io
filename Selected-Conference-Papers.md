@@ -72,10 +72,10 @@
     (CCF Rank A)
   </li>
 </p>
-
+</ol> 
 ## 2025
 
-
+<ol>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS]</b></font> Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, Xinhang Wan, Zhibin Dong, Tiejun Li, <b>Xinwang Liu</b>: <i><u> Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios </u></i>. <font color="green">NeurIPS 2025</font>. (CCF Rank A) </li></p>
