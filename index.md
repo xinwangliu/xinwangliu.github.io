@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">November 30, 2025</font>] "<b>Two Decades of Multi-view Clustering: Taxonomy, Application, and Challenge</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
  <p style="margin-top: 6px;"><li>[<font color="red">November 21, 2025</font>]  "<b>G<sup>2</sup>uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">November 20, 2025</font>] "<b>Enhancing Anchor Representativeness and Stability in Scalable
