@@ -3,6 +3,8 @@
 ## 2025
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Ke Liang, Jun Wang, Suyuan Liu, Xiangke Wang, Huaimin Wang: <i><u> Two Decades of Multi-view Clustering: Taxonomy, Application, and Challenge </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Hao Yu, Chuan Ma, Meng Liu, Tianyu Du, Ming Ding, Tao Xiang, Shouling Ji, <b>Xinwang Liu</b>: <i><u> G<sup>2</sup>uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering. </u></i><font color="green"> IEEE Transactions on Information Forensics and Security  (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
 
 
