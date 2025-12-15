@@ -66,7 +66,7 @@
 <p style="margin-top: 8px;">
   <li>
     <font face="verdana" color="blue"><b>[AAAI]</b></font>
-    Jungsong Chen, Jiyuan Liu, Suyuan Liu, Wei Zhang, Ao Li, En Zhu, <b>Xinwang Liu</b>:
+    Junsong Chen, Jiyuan Liu, Suyuan Liu, Wei Zhang, Ao Li, En Zhu, <b>Xinwang Liu</b>:
     <i><u>Sample-specific Modality Diagnosis and Cross-modal Enhancement for Incomplete Multimodal Representations</u></i>.
     <font color="green">AAAI 2026</font>.
     (CCF Rank A)
