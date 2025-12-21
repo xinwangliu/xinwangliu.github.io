@@ -3,7 +3,7 @@
 ## 2025
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font>Long Lan, Jingyi Wang, Xinghao Wu, Bo Han, <b>Xinwang Liu</b>: <i><u> Continuous Review and Timely Correction: Enhancing the Resistance to Noisy Labels via Self-Not-True and Class-Wise Distillation </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2025) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font>Long Lan, Jingyi Wang, Xinghao Wu, Bo Han, <b>Xinwang Liu</b>: <i><u> Continuous Review and Timely Correction: Enhancing the Resistance to Noisy Labels via Self-Not-True and Class-Wise Distillation</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence(<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2025) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Xinwang Liu</b>, Ke Liang, Jun Wang, Suyuan Liu, Xiangke Wang, Huaimin Wang: <i><u> Two Decades of Multi-view Clustering: Taxonomy, Application, and Challenge </u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2025) </li></p>
 
