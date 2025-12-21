@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">December 21, 2025</font>] "<b>Continuous Review and Timely Correction: Enhancing the Resistance to Noisy Labels via Self-Not-True and Class-Wise Distillation</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">November 30, 2025</font>] "<b>Two Decades of Multi-view Clustering: Taxonomy, Application, and Challenge</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">November 21, 2025</font>]  "<b>G<sup>2</sup>uardFL: Safeguarding Federated Learning against Backdoor Attacks via Attributed Client Graph Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p>
