@@ -4,7 +4,7 @@
 <ol>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u>Sample-Level Weighted and Structure-Enhanced Anchor Graph Learning for Scalable Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in January 2025) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u>Sample-Level Weighted and Structure-Enhanced Anchor Graph Learning for Scalable Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in January 2026) </li></p>
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Long Lan, Jingyi Wang, Xinghao Wu, Bo Han, <b>Xinwang Liu</b>: <i><u> Continuous Review and Timely Correction: Enhancing the Resistance to Noisy Labels via Self-Not-True and Class-Wise Distillation</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence(<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in December 2025) </li></p>
