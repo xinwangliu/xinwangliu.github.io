@@ -6,7 +6,7 @@ layout: default
 
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red"> January 7, 2026</font>] "<b>Sample-Level Weighted and Structure-Enhanced Anchor Graph Learning for Scalable Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">January 7, 2026</font>] "<b>Sample-Level Weighted and Structure-Enhanced Anchor Graph Learning for Scalable Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">December 21, 2025</font>] "<b>Continuous Review and Timely Correction: Enhancing the Resistance to Noisy Labels via Self-Not-True and Class-Wise Distillation</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
