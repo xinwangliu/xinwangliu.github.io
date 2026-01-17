@@ -3,6 +3,12 @@
 ## 2026
 
 <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Jun Wang，Miaomiao Li，Zhenglai Li，Hao Yu，Suyuan Liu，Dayu Hu，Chang Tang，<b>Xinwang Liu</b>: <i><u> ensor Multi-rank Constraint Guided Anchor-wise Adaptive Alignment for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in January 2026) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Zhibin Dong, Shengju Yu, Siwei Wang, <b>Xinwang Liu</b>, En Zhu: <i><u> Cross-View Graph Matching for Unsupervised Learning with Unaligned Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in January 2026) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u>Rényi Entropy Induced Efficient and Balanced One-Step Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B) (Accepted in January 2026) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Zheng Zhang, Peng Zhou, Aiting Yao, Liang Du, <b>Xinwang Liu</b>: <i><u> Interpretable Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in January 2026) </li></p>
 
