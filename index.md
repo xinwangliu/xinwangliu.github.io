@@ -6,10 +6,10 @@ layout: default
 
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red">January 16, 2026</font>] "<b>Tensor Multi-rank Constraint Guided Anchor-wise Adaptive Alignment for Multi-view Clustering.</b>" IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">January 16, 2026</font>] "<b>Tensor Multi-rank Constraint Guided Anchor-wise Adaptive Alignment for Multi-view Clustering.</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
  
-<p style="margin-top: 6px;"><li>[<font color="red">January 15, 2026</font>] "<b>Cross-View Graph Matching for Unsupervised Learning with Unaligned Multi-view Clustering</b>" IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">January 15, 2026</font>] "<b>Cross-View Graph Matching for Unsupervised Learning with Unaligned Multi-view Clustering</b>"  has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 <p style="margin-top: 6px;"><li>[<font color="red">January 15, 2026</font>] "<b>Rényi Entropy Induced Efficient and Balanced One-Step Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
 
