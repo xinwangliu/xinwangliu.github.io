@@ -6,6 +6,9 @@ layout: default
 
 <ul>
 
+
+<p style="margin-top: 6px;"><li>[<font color="red">January 19, 2026</font>] "<b>A Wolf in Sheep's Clothing: Unveiling a Stealthy Backdoor Attack in Subgraph Federated Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
+
 <p style="margin-top: 6px;"><li>[<font color="red">January 16, 2026</font>] "<b>Tensor Multi-rank Constraint Guided Anchor-wise Adaptive Alignment for Multi-view Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
  
