@@ -154,8 +154,9 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Chuankun Li, Xinhang Wan, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, Yu Feng, Renxiang Guan, Ke Liang: <i><u>Large-scale Multi-view Tensor clustering with Implicit Linear Kernels</u></i>. <font color="green">CVPR 2025</font>. (CCF Rank A) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Yi Zhang, Siwei Wang, Jiyuan Liu, Shengju Yu, Zhibin Dong, Suyuan Liu, <b>Xinwang Liu</b>, En Zhu: <i><u>DLEFT-MKC: Dynamic Late Fusion Multiple Kernel Clustering with Robust Tensor Learning via Min-Max Optimization</u></i>. <font color="green">ICLR 2025</font>. </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Pei zhang, Yi Zhang, <b>Xinwang Liu</b>, Naiyang Guan, Tiejun Li, Yiu-ming Cheung : <i><u>Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction</u></i>. <font color="green">ICLR 2025</font>. </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Shengju Yu, Zhibin Dong, Siwei Wang, Pei zhang, Yi Zhang, <b>Xinwang Liu</b>, Naiyang Guan, Tiejun Li, Yiu-ming Cheung: <i><u>Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction</u></i>. <font color="green">ICLR 2025</font>. </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICDE]</b></font> Xihong Yang, Heming Jing, Zixing Zhang, Jindong Wang, Huakang Niu, Shuaiqiang Wang, Yu Lu, Jufeng Wang, Dawei Yin, <b>Xinwang Liu</b>, En Zhu, Defu Lian, Erxue Min: <i><u>DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System</u></i>. <font color="green">ICDE 2025</font>. </li></p>
  
