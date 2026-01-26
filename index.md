@@ -225,7 +225,7 @@ Networks via Discrepancy Learning</b>" has been accepted by <font color="green">
 
 <p style="margin-top: 6px;"><li>[<font color="red">January 24, 2024</font>] "<b>Robust and Consistent Anchor Graph Learning for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
- <p style="margin-top: 6px;"><li>[<font color="red">January 16, 2024</font>]  <b>One paper</b> has been accepted by <font color="green">The Twelfth International Conference on Learning Representations (ICLR) 2024</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">January 16, 2024</font>]  <b>Two paper</b> has been accepted by <font color="green">The Twelfth International Conference on Learning Representations (ICLR) 2024</font>.</li></p>
 
  <p style="margin-top: 6px;"><li>[<font color="red">January 13, 2024</font>] "<b>SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p>
  
