@@ -12,6 +12,9 @@ layout: default
  
 <p style="margin-top: 6px;"><li>[<font color="red">February 21, 2026</font>]  <b>Two papers</b> have been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026</font>.</li></p>  
 
+<p style="margin-top: 6px;"><li>[<font color="red">February 19, 2026</font>] "<b>SOn the Two Facets to Conquer Wild out-of-distribution Detection</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">February 14, 2026</font>] "<b>A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 
