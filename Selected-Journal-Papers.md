@@ -4,6 +4,11 @@
 
 <ol>
 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Zeyu Zhu, Ke Liang, Lingyuan Meng, Wanwei Liu, <b>Xinwang Liu</b>: <i><u> STCF: Multi-View Clustering for Spatial Transcriptomics Based on Cross-View Fusion
+</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in February 2026) </li></p>
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Long Lan, Zhaohui Hu, He Li, Tongliang Liu, <b>Xinwang Liu</b>: <i><u> C-WOE: Clustering for Out-of-Distribution Detection Learning With Wild Outlier Exposure. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in January 2026) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Hao Yu, Wenjing Yang, Chuan Ma, Lingyuan Meng, Liang Du, Tao Xiang, <b>Xinwang Liu</b>, Kunlun He: <i><u> A Wolf in Sheep's Clothing: Unveiling a Stealthy Backdoor Attack in Subgraph Federated Learning</u></i>. <font color="green"> IEEE Transactions on Information Forensics and Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in January 2026) </li></p >
