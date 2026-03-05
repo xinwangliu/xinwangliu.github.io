@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">February 21, 2026</font>]  <b>Two papers</b> have been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026</font>.</li></p>  
+
 
  <p style="margin-top: 6px;"><li>[<font color="red">January 26, 2026</font>] "<b>Transformers with Endogenous In-Context Learning: Bias Characterization and Mitigation</b>" has been accepted by <font color="green">The Fourteenth International Conference on Learning Representations (ICLR) 2026</font>.</li></p>
  
