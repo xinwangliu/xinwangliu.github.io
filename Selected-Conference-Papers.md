@@ -3,7 +3,7 @@
 ## 2026
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> YHaotian Wang, Hao Zou, Haoxuan Li, Haoang Chi, Yang Shi, Yuanxing Zhang, Wenjing Yang, <b>Xinwang Liu</b>, Zhouchen Lin: <i><u>Transformers with Endogenous In-Context Learning: Bias Characterization and Mitigation</u></i>. <font color="green">ICLR 2026</font>. </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Haotian Wang, Hao Zou, Haoxuan Li, Haoang Chi, Yang Shi, Yuanxing Zhang, Wenjing Yang, <b>Xinwang Liu</b>, Zhouchen Lin: <i><u>Transformers with Endogenous In-Context Learning: Bias Characterization and Mitigation</u></i>. <font color="green">ICLR 2026</font>. </li></p>
 
 
 
