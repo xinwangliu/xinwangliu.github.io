@@ -12,6 +12,9 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">February 21, 2026</font>]  <b>Two papers</b> have been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026</font>.</li></p>  
 
 
+<p style="margin-top: 6px;"><li>[<font color="red">February 8, 2026</font>] "<b>STCF: Multi-View Clustering for Spatial Transcriptomics Based on Cross-View Fusio</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">January 31, 2026</font>] "<b> C-WOE: Clustering for Out-of-Distribution Detection Learning with Wild Outlier Exposure</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
 
