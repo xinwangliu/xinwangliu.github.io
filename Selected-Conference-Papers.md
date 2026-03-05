@@ -3,6 +3,12 @@
 ## 2026
 <ol>
 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Shengju Yu, Suyuan Liu, Wenhao Shao, Siwei Wang, Ke Liang, Xihong Yang, Tiejun Li, <b>Xinwang Liu</b>: <i><u> Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization</u></i>. <font color="green">CVPR 2026</font>. (CCF Rank A) </li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Taichun Zhou, Zhibin Dong, Hao Tan, Siwei Wang, <b>Xinwang Liu</b>, En Zhu, Di Hu, Tianrui Liu, Chuankun Li, Kunlun He: <i><u> Imbalanced View Contribution Evaluation and Refinement for Deep Incomplete Multi-View Clustering</u></i>. <font color="green">CVPR 2026</font>. (CCF Rank A) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR]</b></font> Haotian Wang, Hao Zou, Haoxuan Li, Haoang Chi, Yang Shi, Yuanxing Zhang, Wenjing Yang, <b>Xinwang Liu</b>, Zhouchen Lin: <i><u>Transformers with Endogenous In-Context Learning: Bias Characterization and Mitigation</u></i>. <font color="green">ICLR 2026</font>. </li></p>
 
 
