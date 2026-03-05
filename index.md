@@ -6,6 +6,10 @@ layout: default
 
 <ul>
 
+ <p style="margin-top: 6px;"><li>[<font color="red">January 26, 2026</font>] "<b>Transformers with Endogenous In-Context Learning: Bias Characterization and Mitigation</b>" has been accepted by <font color="green">The Fourteenth International Conference on Learning Representations (ICLR) 2026</font>.</li></p>
+ 
+ <p style="margin-top: 6px;"><li>[<font color="red">January 19, 2026</font>] "<b>A Wolf in Sheep's Clothing: Unveiling a Stealthy Backdoor Attack in Subgraph Federated Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
+
 
 <p style="margin-top: 6px;"><li>[<font color="red">January 19, 2026</font>] "<b>A Wolf in Sheep's Clothing: Unveiling a Stealthy Backdoor Attack in Subgraph Federated Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
 
