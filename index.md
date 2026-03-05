@@ -24,7 +24,7 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">January 31, 2026</font>] "<b> C-WOE: Clustering for Out-of-Distribution Detection Learning with Wild Outlier Exposure</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">January 26, 2026</font>]  <b>One paper</b> has been accepted by <font color="green">The Fourteenth International Conference on Learning Representations (ICLR) 2024</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">January 26, 2026</font>]  <b>One paper</b> has been accepted by <font color="green">The Fourteenth International Conference on Learning Representations (ICLR) 2026</font>.</li></p>
  
  
  <p style="margin-top: 6px;"><li>[<font color="red">January 19, 2026</font>] "<b>A Wolf in Sheep's Clothing: Unveiling a Stealthy Backdoor Attack in Subgraph Federated Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
