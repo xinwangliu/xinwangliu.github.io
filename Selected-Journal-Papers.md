@@ -8,6 +8,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Qiuyu Chen, Xihong Yang, Zhibing Dong, Qian Qu , En Zhu, <b>Xinwang Liu</b>: <i><u>Dynamic Weight-Enhanced Contrastive Learning forPartially View-Aligned Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in March 2026) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Hao Li, Xiangyuan Yang, Mengzhu Wang, Long Lan, Ke Liang, <b>Xinwang Liu</b>, Kenli Li: <i><u>Object style diffusion for generalized object detection in urban scene.</u></i>. <font color="green">Pattern Recognition (<b>PR</b>)</font>. (CCF Rank B) (Accepted in March 2026) </li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCV]</b></font> Hao Li, Yubin Xiao, Ke Liang, Mengzhu Wang, Long Lan, Kenli Li, <b>Xinwang Liu</b>: <i><u>Let synthetic data shine: Domain reassembly and soft-fusion for single domain generalization</u></i>. <font color="green">International Journal of Computer Vision (<b>IJCV</b>)</font>. (CCF Rank A) (Accepted in March 2026) </li></p>
 
