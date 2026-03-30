@@ -8,6 +8,10 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Qiuyu Chen, Xihong Yang, Zhibing Dong, Qian Qu , En Zhu, <b>Xinwang Liu</b>: <i><u>Dynamic Weight-Enhanced Contrastive Learning forPartially View-Aligned Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in March 2026) </li></p>
 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font>Zixiao Jin, Xiao Zheng, Chang Tang, Chuankun Li, Yuanyuan Liu, <b>Xinwang Liu</b>: <i><u> Task-aware Information Decoupling for Multimodal Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in March 2026) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Hao Li, Xiangyuan Yang, Mengzhu Wang, Long Lan, Ke Liang, <b>Xinwang Liu</b>, Kenli Li: <i><u>Object style diffusion for generalized object detection in urban scene.</u></i>. <font color="green">Pattern Recognition (<b>PR</b>)</font>. (CCF Rank B) (Accepted in March 2026) </li></p>
 
 
