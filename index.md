@@ -14,6 +14,10 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 27, 2026</font>] "<b>Dynamic Weight-Enhanced Contrastive Learning forPartially View-Aligned Clustering.</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
+
+<p style="margin-top: 6px;"><li>[<font color="red">March 19, 2026</font>] "<b>Task-aware Information Decoupling for Multimodal Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">March 18, 2026</font>] "<b>Object style diffusion for generalized object detection in urban scene.</b>" has been accepted by <font color="green">Pattern Recognition (PR)</font>.</li></p>
 
 
