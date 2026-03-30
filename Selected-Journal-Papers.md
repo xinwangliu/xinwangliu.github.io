@@ -6,7 +6,7 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Meng Liu, Ke Liang, Miaomiao Li, Xueling Zhu, <b>Xinwang Liu</b>: <i><u> Dictionary Multi-Modal Temporal Graph Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2026) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font>Qiuyu Chen, Xihong Yang, Zhibing Dong, Qian Qu , En Zhu and <b>Xinwang Liu</b>: <i><u>Dynamic Weight-Enhanced Contrastive Learning forPartially View-Aligned Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in March 2026) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Qiuyu Chen, Xihong Yang, Zhibing Dong, Qian Qu , En Zhu and <b>Xinwang Liu</b>: <i><u>Dynamic Weight-Enhanced Contrastive Learning forPartially View-Aligned Clustering</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in March 2026) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Yue Liu, Jun Xia, Sihang Zhou, Xihong Yang, Ke Liang, Chenchen Fan, Yan Zhuang, Stan Z. Li, <b>Xinwang Liu</b>, Kunlun He: <i><u> A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in February 2026) </li></p>
 
