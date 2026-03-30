@@ -9,6 +9,8 @@ layout: default
 
 
 
+
+
 <p style="margin-top: 6px;"><li>[<font color="red"> March 28, 2026</font>] "<b>Dictionary Multi-Modal Temporal Graph Learning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p
 
 
@@ -22,6 +24,8 @@ layout: default
 
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 17, 2026</font>] "<b>Domain reassembly and soft-fusion for single domain generalization.</b>" has been accepted by <font color="green">International Journal of Computer Vision (IJCV)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">March 14, 2026</font>] "<b> "Stones from Other Hills can Polish Jade": Zero-shot Anomaly Synthesis via Cross-domain Anomaly Injection</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
  
 <p style="margin-top: 6px;"><li>[<font color="red">February 21, 2026</font>]  <b>Two papers</b> have been accepted by <font color="green"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026</font>.</li></p>  
