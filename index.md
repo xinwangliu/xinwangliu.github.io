@@ -7,12 +7,6 @@ layout: default
 <ul>
 
 
- 
-
-
-
-
-<p style="margin-top: 6px;">[<font color="red"> March 28, 2026</font>] "<b>Dictionary Multi-Modal Temporal Graph Learning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 27, 2026</font>] "<b>Dynamic Weight-Enhanced Contrastive Learning for Partially View-Aligned Clustering.</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
