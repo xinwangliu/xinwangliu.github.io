@@ -8,16 +8,16 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">March 28, 2026</font>] "<b>Dictionary Multi-Modal Temporal Graph Learning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">March 27, 2026</font>] "<b>Dynamic Weight-Enhanced Contrastive Learning for Partially View-Aligned Clustering.</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">March 27, 2026</font>] "<b>Dynamic Weight-Enhanced Contrastive Learning for Partially View-Aligned Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</font>.</li></p>
 
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 19, 2026</font>] "<b>Task-aware Information Decoupling for Multimodal Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">March 18, 2026</font>] "<b>Object style diffusion for generalized object detection in urban scene.</b>" has been accepted by <font color="green">Pattern Recognition (PR)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">March 18, 2026</font>] "<b>Object style diffusion for generalized object detection in urban scene</b>" has been accepted by <font color="green">Pattern Recognition (PR)</font>.</li></p>
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">March 17, 2026</font>] "<b>Let synthetic data shine: Domain reassembly and soft-fusion for single domain generalization.</b>" has been accepted by <font color="green">International Journal of Computer Vision (IJCV)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">March 17, 2026</font>] "<b>Let synthetic data shine: Domain reassembly and soft-fusion for single domain generalization</b>" has been accepted by <font color="green">International Journal of Computer Vision (IJCV)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 14, 2026</font>] "<b> "Stones from Other Hills can Polish Jade": Zero-shot Anomaly Synthesis via Cross-domain Anomaly Injection</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
