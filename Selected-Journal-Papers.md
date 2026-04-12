@@ -28,8 +28,6 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Zhaohui Hu, Qizhou Wang, <b>Xinwang Liu</b>, Long Lan, Bo Han: <i><u> On the Two Facets to Conquer Wild out-of-distribution Detection</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in February 2026) </li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Zeyu Zhu, Ke Liang, Lingyuan Meng, Wanwei Liu, <b>Xinwang Liu</b>: <i><u> STCF: Multi-View Clustering for Spatial Transcriptomics Based on Cross-View Fusion</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in February 2026) </li></p>
-
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Long Lan, Zhaohui Hu, He Li, Tongliang Liu, <b>Xinwang Liu</b>: <i><u> C-WOE: Clustering for Out-of-Distribution Detection Learning With Wild Outlier Exposure. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in January 2026) </li></p>
 
