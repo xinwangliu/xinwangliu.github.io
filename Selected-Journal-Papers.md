@@ -4,6 +4,10 @@
 
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Xin Zhu, Ruimeng Liu, Chang Tang, Zhenglai Li, <b>Xinwang Liu</b>, Kunlun He, Wanqing Li: <i><u> Learning Disentangled Representations for Generalized Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
+
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Xin Ning, Qiankun Li, Xiaolong Huang, Qiupu Chen, Feng He, Weijun Li, Prayag Tiwari, <b>Xinwang Liu</b>: <i><u> Neural Network Optimization Reimagined: Decoupled Techniques for Scratch and Fine-Tuning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Meng Liu, Ke Liang, Miaomiao Li, Xueling Zhu, <b>Xinwang Liu</b>: <i><u> Dictionary Multi-Modal Temporal Graph Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in March 2026) </li></p>
