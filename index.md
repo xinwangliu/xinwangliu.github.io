@@ -7,6 +7,8 @@ layout: default
 <ul>
 
 
+<p style="margin-top: 6px;"><li>[<font color="red">April 26 , 2026</font>] "<b>Balanced Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 21 , 2026</font>] "<b>Learning Disentangled Representations for Generalized Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
