@@ -4,6 +4,8 @@
 
 <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Tao Sun, Baihao Wu, <b>Xinwang Liu</b>, Kun Yuan: <i><u> Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Zhenglai Li, Jun Wang, Chang Tang, Xinzhong Zhu, Wei Zhang, <b>Xinwang Liu</b>: <i><u> Balanced Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
 
