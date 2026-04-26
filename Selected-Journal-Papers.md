@@ -4,6 +4,10 @@
 
 <ol>
 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Zhenglai Li, Jun Wang, Chang Tang, Xinzhong Zhu, Wei Zhang, <b>Xinwang Liu</b>: <i><u> Balanced Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Xin Zhu, Ruimeng Liu, Chang Tang, Zhenglai Li, <b>Xinwang Liu</b>, Kunlun He, Wanqing Li: <i><u> Learning Disentangled Representations for Generalized Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
 
 
