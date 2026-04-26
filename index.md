@@ -6,7 +6,7 @@ layout: default
 
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red">April 26 , 2026</font>] "<b>Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity.</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">April 26 , 2026</font>] "<b>Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
 
