@@ -4,6 +4,10 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Yawei Lin, Hao Yu, Ke Liang, Mengzhu Wang, Liang Yang，<b>Xinwang Liu</b>: <i><u> Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding</u></i>. <font color="green"> IEEE Transactions on Information Forensics and Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p >
+
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Tao Sun, Baihao Wu, <b>Xinwang Liu</b>, Kun Yuan: <i><u> Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p>
 
 
