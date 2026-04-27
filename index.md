@@ -5,6 +5,8 @@ layout: default
 # News
 
 <ul>
+ <p style="margin-top: 6px;"><li>[<font color="red">April 27, 2026, 2026</font>] "<b>AExplainability-Guided Untargeted Attacks on Knowledge Graph Embedding</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
+
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 26 , 2026</font>] "<b>Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
