@@ -5,17 +5,14 @@ layout: default
 # News
 
 <ul>
- <p style="margin-top: 6px;"><li>[<font color="red">April 27, 2026, 2026</font>] "<b>Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
+ <p style="margin-top: 6px;"><li>[<font color="red">April 27, 2026</font>] "<b>Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">April 26 , 2026</font>] "<b>Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">April 26, 2026</font>] "<b>Gradient Normalization Enables Communication-Efficient Distributed Learning under Initialization Data Heterogeneity</b>" and "<b>Balanced Multi-view Clustering</b>" have been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">April 26 , 2026</font>] "<b>Balanced Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
-
-
-<p style="margin-top: 6px;"><li>[<font color="red">April 21 , 2026</font>] "<b>Learning Disentangled Representations for Generalized Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">April 21, 2026</font>] "<b>Learning Disentangled Representations for Generalized Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 7, 2026</font>] "<b>Neural Network Optimization Reimagined: Decoupled Techniques for Scratch and Fine-Tuning</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
