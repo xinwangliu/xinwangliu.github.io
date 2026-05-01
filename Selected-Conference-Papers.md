@@ -4,6 +4,12 @@
 <ol>
 
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xiaoshu Chen, Sihang Zhou, KE LIANG, Taichun Zhou, Yaohua Wang, Yang Gao, Xinwang Liu: <i><u>ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Renxiang Guan, Xiang Yang, Hao Yu, Siwei Wang, Suyuan Liu, Wenjing Yang, Jun-Jie Huang, Ao Li, Xinwang Liu, Yuhua Tang: <i><u>Federated Multi-view Clustering for Remote Sensing Data</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR]</b></font> Shengju Yu, Suyuan Liu, Wenhao Shao, Siwei Wang, Ke Liang, Xihong Yang, Tiejun Li, <b>Xinwang Liu</b>: <i><u> Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization</u></i>. <font color="green">CVPR 2026</font>. (CCF Rank A) </li></p>
 
 
