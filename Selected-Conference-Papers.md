@@ -3,6 +3,17 @@
 ## 2026
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Suyuan Liu, Shengfei Wei, Wenjing Yang, Shengju Yu, Siwei Wang, Xueqiong Li, Wenpeng Lu, Xinwang Liu: <i><u>Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Lingyuan Meng, Ke Liang, Hao Li, Meng Liu, Weijia Shi, Miaomiao Li, Yang Gao, Xinwang Liu: <i><u>PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Junyi Yan, Ke Liang, Hao Yu, Meng Liu, Hao Tan, Tianrui Liu, Jun-Jie Huang, Xinwang Liu: <i><u>MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Jiaqi Jin, Siwei Wang, Taichun Zhou, Zhibin Dong, Siqi Wang, Miaomiao Li, Xinwang Liu, En Zhu: <i><u>Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Xiaoshu Chen, Sihang Zhou, Ke Liang, Taichun Zhou, Yaohua Wang, Yang Gao, Xinwang Liu: <i><u>ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
 
