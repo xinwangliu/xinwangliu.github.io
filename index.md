@@ -5,6 +5,11 @@ layout: default
 # News
 
 <ul>
+
+
+<p style="margin-top: 6px;"><li>[<font color="red">May 1, 2026</font>] <b>Six papers</b> have been accepted by <font color="green"> International Conference on Machine Learning (ICML 2026)</font>.</li></p> 
+
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">April 27, 2026</font>] "<b>Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding</b>" has been accepted by <font color="green"> IEEE Transactions on Information Forensics and Security (IEEE TIFS)</font>.</li></p> 
 
 
