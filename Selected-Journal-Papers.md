@@ -4,7 +4,11 @@
 
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang,  Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> "Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Threefold Consensus-Driven Anchor Alignment for Efficient Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang,  Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Yawei Lin, Hao Yu, Ke Liang, Mengzhu Wang, Liang Yang, <b>Xinwang Liu</b>: <i><u> Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding</u></i>. <font color="green"> IEEE Transactions on Information Forensics and Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p >
