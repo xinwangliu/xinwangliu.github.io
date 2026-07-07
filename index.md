@@ -24,7 +24,7 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">June 17, 2026</font>] "<b> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
 
-
+<p style="margin-top: 6px;"><li>[<font color="red">June 02, 2026</font>] "<b>Towards Scalable Multi-View Clustering without Predefined Clusters via Inter-Anchor Graph Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 
 
