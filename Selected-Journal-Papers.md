@@ -3,7 +3,7 @@
 ## 2026
 
 <ol>
-,~, \\ ~Xinwang~Liu$^{\dag}$,~\IEEEmembership{Senior Member,~IEEE},~
+
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Xueling Zhu, Jinyan Li, Xinwang Liu, Xiaohong Chen: <i><u> Propagating Cross-View Semantics for Multi-view Clustering: A Unified Anchor Refinement Paradigm</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
