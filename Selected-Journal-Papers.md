@@ -15,14 +15,16 @@
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang,  Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
 
+
+
+
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCBB]</b></font> Bohua Li, Yanran Zhu, Xiao Zheng, Hengjian Tong, Yuanyuan Liu, Chang Tang, <b>Xinwang Liu</b>,  Kunlun He: <i><u> Boundary-aware Clustering of Spatial Transcriptomics Data via Fourier Feature Mapping and Dynamic Self-supervision</u></i>. <font color="green">IEEE Transactions on Computational Biology and Bioinformatics  (<b>TCBB</b>)</font>. (CCF Rank A) (Accepted in June 2026) </li></p>
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Shanghui Deng, Xiao Zheng, Chang Tang, Lianbo Guo, <b>Xinwang Liu</b>, Xiaohong Chen: <i><u> Game Theory Inspired Cross-View Interaction Alignment for Partially View-Aligned Clustering
-</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
-
-
-
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKCBB]</b></font> Bohua Li, Yanran Zhu, Xiao Zheng, Hengjian Tong, Yuanyuan Liu, Chang Tang, <b>Xinwang Liu</b>,  Kunlun He: <i><u> Boundary-aware Clustering of Spatial Transcriptomics Data via Fourier Feature Mapping and Dynamic Self-supervision</u></i>. <font color="green">IEEE Transactions on Computational Biology and Bioinformatics  (<b>TCBB</b>)</font>. (CCF Rank A) (Accepted in June 2026) </li></p>
-
+</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in June 2026) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Suyuan Liu, Lijun Zhang, Siwei Wang, Miaomiao Li, Xueling Zhu, <b>Xinwang Liu</b>: <i><u> Towards Scalable Multi-View Clustering without Predefined Clusters via Inter-Anchor Graph Learning</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in June 2026) </li></p>
 
