@@ -20,6 +20,7 @@ layout: default
 
 
 
+<p style="margin-top: 6px;"><li>[<font color="red">June 29, 2026</font>] "<b>Boundary-aware Clustering of Spatial Transcriptomics Data via Fourier Feature Mapping and Dynamic Self-supervision</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics (TCBB)</font>.</li></p> 
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 17, 2026</font>] "<b> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
@@ -27,7 +28,6 @@ layout: default
 
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">June 29, 2026</font>] "<b>Boundary-aware Clustering of Spatial Transcriptomics Data via Fourier Feature Mapping and Dynamic Self-supervision</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics (TCBB)</font>.</li></p> 
 
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 10, 2026</font>] "<b>Game Theory Inspired Cross-View Interaction Alignment for Partially View-Aligned Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
