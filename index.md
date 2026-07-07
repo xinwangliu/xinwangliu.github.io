@@ -14,8 +14,6 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">July 7, 2026</font>] "<b>Propagating Cross-View Semantics for Multi-view Clustering: A Unified Anchor Refinement Paradigm</b>" have been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">June 27, 2026</font>] "<b>Towards Scalable Multi-View Clustering without Predefined Clusters via Inter-Anchor Graph Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
-
 
 
 
@@ -24,6 +22,8 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">June 17, 2026</font>] "<b> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 2, 2026</font>] "<b>Threefold Consensus-Driven Anchor Alignment for Efficient Multi-View Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">June 27, 2026</font>] "<b>Towards Scalable Multi-View Clustering without Predefined Clusters via Inter-Anchor Graph Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
+
 
 
 
