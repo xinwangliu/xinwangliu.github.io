@@ -9,10 +9,10 @@
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Threefold Consensus-Driven Anchor Alignment for Efficient Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Threefold Consensus-Driven Anchor Alignment for Efficient Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in June 2026) </li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang,  Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang,  Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Align then Tensorize: Multi-Level Consistent Anchor Graph Learning for Scalable Multi-View Clustering. </u></i><font color="green">IEEE Transactions on Image Processing  (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in June 2026) </li></p>
 
 
 
