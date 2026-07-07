@@ -19,6 +19,10 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Suyuan Liu, Lijun Zhang, Siwei Wang, Miaomiao Li, Xueling Zhu, <b>Xinwang Liu</b>: <i><u> Towards Scalable Multi-View Clustering without Predefined Clusters via Inter-Anchor Graph Learning</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Zixiao Jin, Xiao Zheng, Weiqing Yan, Chang Tang, <b>Xinwang Liu</b>, Kunlun He: <i><u> CIPR: Class Imbalance-aware Pseudo-label
+Regeneration for Single-cell Multi-omics Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in May 2026) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS]</b></font> Yawei Lin, Hao Yu, Ke Liang, Mengzhu Wang, Liang Yang, <b>Xinwang Liu</b>: <i><u> Explainability-Guided Untargeted Attacks on Knowledge Graph Embedding</u></i>. <font color="green"> IEEE Transactions on Information Forensics and Security (<b>TIFS</b>)</font>. (CCF Rank A) (Accepted in April 2026) </li></p >
 
 
