@@ -6,6 +6,12 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">July 7, 2026</font>] "<b>Propagating Cross-View Semantics for Multi-view Clustering: A Unified Anchor Refinement Paradigm</b>" and "<b>Balanced Multi-view Clustering</b>" have been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+
+
+
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">June 27, 2026</font>] "<b>Threefold Consensus-Driven Anchor Alignment for Efficient Multi-View Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 
