@@ -7,6 +7,8 @@
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Xueling Zhu, Jinyan Li, <b>Xinwang Liu</b>, Xiaohong Chen: <i><u> Propagating Cross-View Semantics for Multi-view Clustering: A Unified Anchor Refinement Paradigm</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u> Threefold Consensus-Driven Anchor Alignment for Efficient Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
 
