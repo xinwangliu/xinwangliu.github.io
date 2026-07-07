@@ -27,14 +27,14 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">July 10, 2026</font>] "<b>Game Theory Inspired Cross-View Interaction Alignment for Partially View-Aligned Clustering</b>" have been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">June 29, 2026</font>] "<b>Boundary-aware Clustering of Spatial Transcriptomics Data via Fourier Feature Mapping and Dynamic Self-supervision</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">June 29, 2026</font>] "<b>Boundary-aware Clustering of Spatial Transcriptomics Data via Fourier Feature Mapping and Dynamic Self-supervision</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics (TCBB)</font>.</li></p> 
 
 
 <p style="margin-top: 6px;"><li>[<font color="red">June 2, 2026</font>] "<b>Towards Scalable Multi-View Clustering without Predefined Clusters via Inter-Anchor Graph Learning</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 
 
-<p style="margin-top: 6px;"><li>[<font color="red">May 21, 2026</font>] "<b>CIPR: Class Imbalance-Aware Pseudo-Label Regeneration for Single-Cell Multi-Omics Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Computational Biology and Bioinformatics (TCBB)</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">May 21, 2026</font>] "<b>CIPR: Class Imbalance-Aware Pseudo-Label Regeneration for Single-Cell Multi-Omics Clustering</b>" has been accepted by <font color="green"> IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p> 
 
 <p style="margin-top: 6px;"><li>[<font color="red">May 1, 2026</font>] <b>Six papers</b> have been accepted by <font color="green"> International Conference on Machine Learning (ICML 2026)</font>.</li></p> 
 
