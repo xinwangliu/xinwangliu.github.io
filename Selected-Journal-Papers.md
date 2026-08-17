@@ -4,6 +4,9 @@
 
 <ol>
 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wenxuan Tu, Jieren Cheng, Renxiang Guan, Weixuan Liang, Sihang Zhou, Xin Peng, Zhiping Cai, <b>Xinwang Liu</b>: <i><u>AMGC2: Rethinking Deep Graph Clustering with A High Attribute-Missing Ratio</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2026) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yuzhuo Dai, Siwei Wang, Zhibin Dong, Xinhang Wan, Tianrui Liu, Kunlun He, <b>Xinwang Liu</b>, En Zhu: <i><u>Transport Barycenter-Guided Sample-to-Cluster Matching for Unaligned Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
 
