@@ -6,7 +6,9 @@ layout: default
 
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red">August 17, 2026</font>] "<b>AMGC2: Rethinking Deep Graph Clustering with A High Attribute-Missing Ratio</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">August 17, 2026</font>] "<b>Breaking the Unilateral Perspective: Triaxial Tensor Factorization for Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">August 16, 2026</font>] "<b>AMGC2: Rethinking Deep Graph Clustering with A High Attribute-Missing Ratio</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2026</font>] "<b>Transport Barycenter-Guided Sample-to-Cluster Matching for Unaligned Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
