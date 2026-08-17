@@ -4,6 +4,8 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Hao Tan, Suyuan Liu, Jiyuan Liu, Jun Wang, Xueling Zhu, and <b>Xinwang Liu</b>: <i><u>Breaking the Unilateral Perspective: Triaxial Tensor Factorization for Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B) (Accepted in August 2026) </li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Wenxuan Tu, Jieren Cheng, Renxiang Guan, Weixuan Liang, Sihang Zhou, Xin Peng, Zhiping Cai, <b>Xinwang Liu</b>: <i><u>AMGC2: Rethinking Deep Graph Clustering with A High Attribute-Missing Ratio</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2026) </li></p>
 
