@@ -12,6 +12,8 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Yuzhuo Dai, Siwei Wang, Zhibin Dong, Xinhang Wan, Tianrui Liu, Kunlun He, <b>Xinwang Liu</b>, En Zhu: <i><u>Transport Barycenter-Guided Sample-to-Cluster Matching for Unaligned Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCSVT]</b></font> Xiao Zheng, Miaomiao Li, Chuan Tang, Jun Wang, Renxiang Guan, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u>Disagreement-Aware Multi-View Clustering with Permutation-Aligned Anchor Graphs</u></i>. <font color="green">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</font>. (CCF Rank B) (Accepted in August 2026) </li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Suyuan Liu, Siwei Wang, Ke Liang, Xueling Zhu, Jinyan Li, <b>Xinwang Liu</b>, Xiaohong Chen: <i><u> Propagating Cross-View Semantics for Multi-view Clustering: A Unified Anchor Refinement Paradigm</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in July 2026) </li></p>
 
 
