@@ -4,6 +4,10 @@
 
 <ol>
 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jun Wang, Zhenglai Li, Chuang Tang, Hao Yu, Miaomiao Li, Jun-Jie Huang, Chang Tang, <b>Xinwang Liu</b>: <i><u>Self-Refining Spherical Consensus Embedding for Constrained Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2026) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Hao Tan, Suyuan Liu, Jiyuan Liu, Jun Wang, Xueling Zhu, <b>Xinwang Liu</b>: <i><u>Breaking the Unilateral Perspective: Triaxial Tensor Factorization for Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank A) (Accepted in August 2026) </li></p>
 
 
