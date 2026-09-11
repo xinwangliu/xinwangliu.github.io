@@ -9,6 +9,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM]</b></font> Chuan Tang, Miaomiao Li, Jun Wang, Renxiang Guan, Siwei Wang, Chang Tang, En Zhu, <b>Xinwang Liu</b>: <i><u>Tensorized and Confidence-Guided Scalable Incomplete Multi-View Clustering with Aligned Anchor Representations</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank A) (Accepted in September 2026) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Yuzeng Chen, Qiangqiang Yuan, Hong Xie, Xin Su, Yuqi Tang, Renxiang Guan, Li Liu, <b>Xinwang Liu</b>, Liangpei Zhang: <i><u>Beyond Stepwise Modeling: Towards a Unified Contextual Reasoning Framework for Hyperspectral Video Object Tracking</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font>. (CCF Rank A) (Accepted in August 2026) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Jun Wang, Zhenglai Li, Chuang Tang, Hao Yu, Miaomiao Li, Jun-Jie Huang, Chang Tang, <b>Xinwang Liu</b>: <i><u>Self-Refining Spherical Consensus Embedding for Constrained Multi-View Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in August 2026) </li></p>
 
