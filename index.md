@@ -15,6 +15,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">September 2, 2026</font>] "<b>Tensorized and Confidence-Guided Scalable Incomplete Multi-View Clustering with Aligned Anchor Representations</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
 
+<p style="margin-top: 6px;"><li>[<font color="red">August 25, 2026</font>] "<b>Beyond Stepwise Modeling: Towards a Unified Contextual Reasoning Framework for Hyperspectral Video Object Tracking</b>" has been accepted by <font color="green">IEEE Transactions on Image Processing (IEEE TIP)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">August 24, 2026</font>] "<b>Self-Refining Spherical Consensus Embedding for Constrained Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 17, 2026</font>] "<b>Breaking the Unilateral Perspective: Triaxial Tensor Factorization for Multi-View Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
