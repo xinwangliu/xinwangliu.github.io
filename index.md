@@ -6,6 +6,10 @@ layout: default
 
 <ul>
 
+
+<p style="margin-top: 6px;"><li>[<font color="red">September 2, 2026</font>] "<b>Tensorized and Confidence-Guided Scalable Incomplete Multi-View Clustering with Aligned Anchor Representations</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (IEEE TMM)</font>.</li></p>
+
+
 <p style="margin-top: 6px;"><li>[<font color="red">September 10, 2026</font>] "<b>Align Entities with Ontologies: LLM-enhanced Inductive Subgraph Reasoning over Ontology-based Knowledge Graphs</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
