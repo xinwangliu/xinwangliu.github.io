@@ -4,6 +4,8 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Weixuan Liang, Yi Zhang, Xuesong Xu, Xiaolong Li, Ke Liang, Sihang Zhou, Jiyuan Liu, <b>Xinwang Liu</b>: <i><u>Efficient Incomplete Multiple Kernel Clustering with Approximation Theoretical Guarantees</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in October 2026) </li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Hao Li, Ke Liang, Lingyuan Meng, Tianrui Liu, Yulong Huang, Xueling Zhu, <b>Xinwang Liu</b>, Huaimin Wang: <i><u>Align Entities with Ontologies: LLM-enhanced Inductive Subgraph Reasoning over Ontology-based Knowledge Graphs</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in September 2026) </li></p>
 
