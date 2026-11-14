@@ -6,6 +6,7 @@ layout: default
 
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">November 14, 2026</font>] "<b>Tensor Coupled Federated Multi-view Clustering with Multi-order Anchor Graph</b>" has been selected as a <b>Best Paper</b>.</li></p>
 <p style="margin-top: 6px;"><li>[<font color="red">November 6, 2026</font>] "<b>Knowledge-enhanced Incomplete Multi-view Clustering on Relational Knowledge</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
 
