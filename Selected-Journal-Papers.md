@@ -3,7 +3,8 @@
 ## 2026
 
 <ol>
-
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Liangjian Wen, Jiangtao Zheng, Jiang Duan, Qun Dai, Yong Dai, Jianzhuang Liu, Jun Wang, Shu-Dong Huang, <b>Xinwang Liu</b>, Zenglin Xu, Zhao Kang: <i><u>Multimodal Information Interactions Bottleneck for Multimodal Self-Supervised Learning</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2026) </li></p>
 
 
 
