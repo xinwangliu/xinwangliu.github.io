@@ -5,6 +5,11 @@
 <ol>
 
 
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Siwei Wang, Fangdi Wang, Qing Liao, Kunlun He, <b>Xinwang Liu</b>, En Zhu: <i><u>UCVCIM2: Unsupervised Cross-View Contribution Imbalance Modeling and Mitigation for Deep Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2026) </li></p>
+
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Ke Liang, Mengjiao Zhang, Hao Li, Xinhang Wan, Weixuan Liang, Tianrui Liu, Miaomiao Li, <b>Xinwang Liu</b>: <i><u>Knowledge-enhanced Incomplete Multi-view Clustering on Relational Knowledge</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2026) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Ruimeng Liu, Chang Tang, Bo Wang, Zhenglai Li, Lianbo Guo, <b>Xinwang Liu</b>: <i><u>Towards Robust Multi-View Clustering via Early-to-late Manifold Consistency Calibration</u></i>. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>. (CCF Rank A) (Accepted in November 2026) </li></p>
