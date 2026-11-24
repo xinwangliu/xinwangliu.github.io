@@ -3,6 +3,13 @@
 ## 2026
 <ol>
 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Jianzhong Zhang, Yi Zhang, Weixuan Liang, En Zhu, <b>Xinwang Liu</b>, Xiaolong Li, Kunlun He: <i><u>Kernel-Level Noise and Redundancy Robust Multiple Kernel K-Means Clustering</u></i>. <font color="green">ACM MM 2026</font>. (CCF Rank A)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Yangfan Du, Suyuan Liu, Jiyuan Liu, Hao Tan, Qi Liu, Xinzhong Zhu, Xueqiong Li, <b>Xinwang Liu</b>: <i><u>Tensor Coupled Federated Multi-view Clustering with Multi-order Anchor Graph</u></i>. <font color="green">ACM MM 2026</font>. (CCF Rank A)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM]</b></font> Zhirong Tian, Yi Zhang, Weixuan Liang, Miaomiao Li, <b>Xinwang Liu</b>: <i><u>Dynamic Late Fusion Multiple Kernel k-means Clustering based on Adaptive Sample Selection and Alignment</u></i>. <font color="green">ACM MM 2026</font>. (CCF Rank A)</li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML]</b></font> Suyuan Liu, Shengfei Wei, Wenjing Yang, Shengju Yu, Siwei Wang, Xueqiong Li, Wenpeng Lu, <b>Xinwang Liu</b>: <i><u>Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering</u></i>. <font color="green">ICML 2026</font>. (CCF Rank A) </li></p>
 
 
