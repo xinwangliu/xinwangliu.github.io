@@ -42,6 +42,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2026</font>] "<b>Transport Barycenter-Guided Sample-to-Cluster Matching for Unaligned Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
+<p style="margin-top: 6px;"><li>[<font color="red">July 10, 2026</font>] <b>Three papers</b> have been accepted by <font color="green">ACM Multimedia (ACM MM) 2026</font>.</li></p>
+
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 7, 2026</font>] "<b>Propagating Cross-View Semantics for Multi-view Clustering: A Unified Anchor Refinement Paradigm</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</font>.</li></p>
 
